@@ -33,8 +33,12 @@ atajos de teclado (⌘K, ↵) y nombres propios (Minuta, Claude, GitHub, Teams, 
 def main():
     codigo, nombre, bandera = sys.argv[1:4]
     base = json.load(open(os.path.join(RAIZ, "idiomas", "en.json"), encoding="utf-8"))
-    claves = list(base["textos"].items())
-    textos = {}
+    # Si el idioma ya existe, se conservan sus traducciones y solo se traducen los textos nuevos.
+    destino = os.path.join(RAIZ, "idiomas", f"{codigo}.json")
+    previo = json.load(open(destino, encoding="utf-8")) if os.path.exists(destino) else {}
+    textos = {k: v for k, v in (previo.get("textos") or {}).items() if k in base["textos"]}
+    claves = [(k, v) for k, v in base["textos"].items() if k not in textos]
+    print(f"{len(textos)} ya traducidos, {len(claves)} por traducir", flush=True)
     for k in range(0, len(claves), LOTE):
         lote = dict(claves[k:k + LOTE])
         for intento in range(3):
@@ -45,8 +49,8 @@ def main():
             except Exception as e:  # noqa: BLE001
                 print(f"lote {k}: intento {intento + 1} falló: {e}", file=sys.stderr)
         print(f"{min(k + LOTE, len(claves))}/{len(claves)}", flush=True)
-    palabras = {}
-    if base.get("palabras"):
+    palabras = previo.get("palabras") or {}
+    if base.get("palabras") and not palabras:
         try:
             palabras = traducir(base["palabras"], nombre)
         except Exception as e:  # noqa: BLE001
