@@ -7,6 +7,13 @@
   "version": "60dba48c7b"
  },
  {
+  "codigo": "fr",
+  "nombre": "Français",
+  "bandera": "🇫🇷",
+  "textos": 553,
+  "version": "5d0e3d1dd0"
+ },
+ {
   "codigo": "pt",
   "nombre": "Português",
   "bandera": "🇧🇷",
