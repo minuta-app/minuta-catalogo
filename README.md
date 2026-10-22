@@ -20,3 +20,7 @@ archivos directamente desde GitHub y **solo acepta datos JSON** que pasan una va
 
 Los universos son homenajes de fans a sus obras: solo nombres, referencias y frases breves, con humor y cariño. Todas las marcas
 y personajes pertenecen a sus dueños.
+
+## Votar universos
+
+Cada universo tiene un [issue de votos](https://github.com/soydavidcornejo/minuta-catalogo/issues?q=label%3Avotos): reacciona con 👍 o 👎. Minuta muestra los votos en la galería y ordena los universos por descargar según lo que más le gusta a la comunidad.
