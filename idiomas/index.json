@@ -5,5 +5,12 @@
   "bandera": "🇬🇧",
   "textos": 553,
   "version": "60dba48c7b"
+ },
+ {
+  "codigo": "pt",
+  "nombre": "Português",
+  "bandera": "🇧🇷",
+  "textos": 553,
+  "version": "5f19085b3a"
  }
 ]
