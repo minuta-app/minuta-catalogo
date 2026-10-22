@@ -1,0 +1,444 @@
+{
+ "id": "cyberpunkedgerunners",
+ "nombre": "Cyberpunk: Edgerunners",
+ "emoji": "🦾",
+ "xp": "eddies",
+ "personaje_por_defecto": "Solo personajes canónicos de Cyberpunk: Edgerunners y Cyberpunk 2077 (incluido Phantom Liberty).",
+ "elogios": [
+  "Eso fue puro cromo, choom. Night City entera te escuchó.",
+  "Vas bien, choom. Maine te dejaría subir al convoy.",
+  "Ojo, choom: se te está subiendo el contador de cyberpsicosis.",
+  "Fuiste un gonk. Suerte que Viktor arregla cualquier cosa."
+ ],
+ "apartados": {
+  "claridad": [
+   {
+    "nombre": "Garry el Profeta",
+    "referencia": "Cyberpunk 2077",
+    "frase": "Hablaste veinte minutos de Arasaka, los lagartos y el agua: nadie entendió el punto, pero todos te creyeron un poquito."
+   },
+   {
+    "nombre": "Ozob Krusnik",
+    "referencia": "Cyberpunk 2077",
+    "frase": "Tu mensaje llegó, pero con una granada en la nariz: nadie se concentró en el contenido."
+   },
+   {
+    "nombre": "Pilar",
+    "referencia": "Cyberpunk: Edgerunners",
+    "frase": "Puro hype y cero detalle. 'Confía en mí, choom' no es una agenda."
+   },
+   {
+    "nombre": "Jimmy Kurosaki",
+    "referencia": "Cyberpunk: Edgerunners",
+    "frase": "Editaste tanto la idea mientras hablabas que el corte final quedó sin trama."
+   },
+   {
+    "nombre": "Dexter DeShawn",
+    "referencia": "Cyberpunk 2077",
+    "frase": "Lindo discurso sobre reputación y legado; de la pega concreta, ni una palabra."
+   },
+   {
+    "nombre": "David Martinez",
+    "referencia": "Cyberpunk: Edgerunners",
+    "frase": "Se entendió, pero ibas a mil: menos Sandevistan y más punto final."
+   },
+   {
+    "nombre": "Jackie Welles",
+    "referencia": "Cyberpunk 2077",
+    "frase": "Claro, con corazón y un '¡nos vemos en el Afterlife!' que todos cacharon al vuelo."
+   },
+   {
+    "nombre": "Goro Takemura",
+    "referencia": "Cyberpunk 2077",
+    "frase": "Preciso y formal, aunque te quedaste dos minutos extra explicando el honor."
+   },
+   {
+    "nombre": "Lucy",
+    "referencia": "Cyberpunk: Edgerunners",
+    "frase": "Tres frases exactas y quedó todo dicho. El resto lo explicó el silencio."
+   },
+   {
+    "nombre": "Johnny Silverhand",
+    "referencia": "Cyberpunk 2077",
+    "frase": "'Despierta, samurái, tenemos una ciudad que quemar': así se abre una reunión."
+   }
+  ],
+  "escucha": [
+   {
+    "nombre": "Adam Smasher",
+    "referencia": "Cyberpunk: Edgerunners",
+    "frase": "No escuchaste nada: entraste, dijiste 'gonk' y pasaste por encima de todos."
+   },
+   {
+    "nombre": "Saburo Arasaka",
+    "referencia": "Cyberpunk 2077",
+    "frase": "Diste órdenes desde el último piso de la torre; los demás eran ruido de fondo."
+   },
+   {
+    "nombre": "Rebecca",
+    "referencia": "Cyberpunk: Edgerunners",
+    "frase": "Interrumpiste con la escopeta cargada y un grito: nadie alcanzó a terminar la frase."
+   },
+   {
+    "nombre": "Royce",
+    "referencia": "Cyberpunk 2077",
+    "frase": "Escuchaste con el dedo en el gatillo: cualquier palabra te sonó a trampa."
+   },
+   {
+    "nombre": "Placide",
+    "referencia": "Cyberpunk 2077",
+    "frase": "Escuchaste, sí, pero conectado a la señal del otro para sacarle información."
+   },
+   {
+    "nombre": "Kerry Eurodyne",
+    "referencia": "Cyberpunk 2077",
+    "frase": "Partiste hablando de tu propio disco y recién al final preguntaste cómo estaban."
+   },
+   {
+    "nombre": "River Ward",
+    "referencia": "Cyberpunk 2077",
+    "frase": "Escuchaste como detective de la NCPD: anotaste todo, aunque igual te adelantaste a la conclusión."
+   },
+   {
+    "nombre": "Viktor Vektor",
+    "referencia": "Cyberpunk 2077",
+    "frase": "Sentaste al otro en la silla del ripperdoc y dejaste que contara todo el dolor antes de opinar."
+   },
+   {
+    "nombre": "Judy Álvarez",
+    "referencia": "Cyberpunk 2077",
+    "frase": "Entraste a la braindance del otro y sentiste exactamente lo que sentía."
+   },
+   {
+    "nombre": "Misty Olszewski",
+    "referencia": "Cyberpunk 2077",
+    "frase": "Escuchaste tan bien que las cartas ya no tenían nada nuevo que agregar."
+   }
+  ],
+  "preguntas": [
+   {
+    "nombre": "Katsuo Tanaka",
+    "referencia": "Cyberpunk: Edgerunners",
+    "frase": "Tus únicas preguntas fueron para dejar mal al otro frente a toda la clase."
+   },
+   {
+    "nombre": "Maine",
+    "referencia": "Cyberpunk: Edgerunners",
+    "frase": "No preguntaste nada: 'entramos y salimos'. Después vino el problema."
+   },
+   {
+    "nombre": "Brendan",
+    "referencia": "Cyberpunk 2077",
+    "frase": "Preguntaste cosas tiernas e inútiles, como una máquina expendedora con sentimientos."
+   },
+   {
+    "nombre": "Skippy",
+    "referencia": "Cyberpunk 2077",
+    "frase": "Preguntaste si matar o dejar vivo y después decidiste solo, igual."
+   },
+   {
+    "nombre": "Fingers",
+    "referencia": "Cyberpunk 2077",
+    "frase": "Preguntaste qué cromo querían, nunca para qué lo querían."
+   },
+   {
+    "nombre": "Nix",
+    "referencia": "Cyberpunk 2077",
+    "frase": "Buenas preguntas técnicas desde tu rincón del Afterlife; lástima que nadie más cachó el tema."
+   },
+   {
+    "nombre": "T-Bug",
+    "referencia": "Cyberpunk 2077",
+    "frase": "Por el comunicador hiciste la pregunta exacta en el segundo exacto."
+   },
+   {
+    "nombre": "Kiwi",
+    "referencia": "Cyberpunk: Edgerunners",
+    "frase": "Escaneaste a cada uno antes de abrir la boca: sabías qué preguntar y a quién."
+   },
+   {
+    "nombre": "Solomon Reed",
+    "referencia": "Cyberpunk 2077: Phantom Liberty",
+    "frase": "Preguntaste como agente de la FIA: amable, suave y ya sabiendo la respuesta."
+   },
+   {
+    "nombre": "Alt Cunningham",
+    "referencia": "Cyberpunk 2077",
+    "frase": "Hiciste la pregunta que nadie quería escuchar: '¿y esto para qué es, realmente?'"
+   }
+  ],
+  "cierre": [
+   {
+    "nombre": "Yorinobu Arasaka",
+    "referencia": "Cyberpunk 2077",
+    "frase": "Cerraste a la mala, con el viejo en el suelo y la ciudad en llamas. Efectivo, nada recomendable."
+   },
+   {
+    "nombre": "Faraday",
+    "referencia": "Cyberpunk: Edgerunners",
+    "frase": "Cerraste con acuerdos para todos… y un acuerdo paralelo solo para ti."
+   },
+   {
+    "nombre": "Anders Hellman",
+    "referencia": "Cyberpunk 2077",
+    "frase": "Te arrancaste del cierre en un camión blindado y dejaste los compromisos botados en el desierto."
+   },
+   {
+    "nombre": "Sandayu Oda",
+    "referencia": "Cyberpunk 2077",
+    "frase": "Cerraste con cuchillas mantis: contundente, pero nadie anotó los próximos pasos."
+   },
+   {
+    "nombre": "Claire Russell",
+    "referencia": "Cyberpunk 2077",
+    "frase": "Cerraste con un trago en la barra del Afterlife; los acuerdos quedaron para la próxima carrera."
+   },
+   {
+    "nombre": "Panam Palmer",
+    "referencia": "Cyberpunk 2077",
+    "frase": "Cerraste a los gritos, pero con todo el clan Aldecaldos arriba del convoy."
+   },
+   {
+    "nombre": "Wakako Okada",
+    "referencia": "Cyberpunk 2077",
+    "frase": "Cierre breve: pago, gracias y a otra cosa. Sin cariño, pero sin cabos sueltos."
+   },
+   {
+    "nombre": "Mr. Hands",
+    "referencia": "Cyberpunk 2077",
+    "frase": "Cierre limpio y discreto: nadie supo cómo, pero todos quedaron con su tarea."
+   },
+   {
+    "nombre": "Gloria Martinez",
+    "referencia": "Cyberpunk: Edgerunners",
+    "frase": "Cerraste con la frase que el otro va a recordar: 'vas a llegar más alto que esta megatorre'."
+   },
+   {
+    "nombre": "Rogue Amendiares",
+    "referencia": "Cyberpunk 2077",
+    "frase": "Cerraste como la reina del Afterlife: condiciones claras, plazos puestos y nadie reclamó."
+   }
+  ]
+ },
+ "rangos": [
+  {
+   "nombre": "Gonk recién cromado",
+   "frase": "Te pusieron el primer implante y ya te crees Solo. Calma, choom."
+  },
+  {
+   "nombre": "Choom de la Megatorre H10",
+   "frase": "Vives en Santo Domingo y sueñas con toda Night City."
+  },
+  {
+   "nombre": "Recadero de fixer",
+   "frase": "Wakako ya te contesta el teléfono, pero solo para encargos chicos."
+  },
+  {
+   "nombre": "Merc de medio tiempo",
+   "frase": "Pagas el arriendo con trabajitos y una que otra mentira piadosa."
+  },
+  {
+   "nombre": "Edgerunner",
+   "frase": "Ya corres por el filo: un paso más y te caes, uno menos y no avanzas."
+  },
+  {
+   "nombre": "Solo de cromo fino",
+   "frase": "Tu Sandevistan es bueno y tu cabeza todavía aguanta el ritmo."
+  },
+  {
+   "nombre": "Habitué del Afterlife",
+   "frase": "Entras sin pagar y Rogue te saluda con el mentón desde la barra."
+  },
+  {
+   "nombre": "Trago con tu nombre",
+   "frase": "Bautizaron un trago en tu honor. Ya no hay vuelta atrás."
+  },
+  {
+   "nombre": "Leyenda de Night City",
+   "frase": "Te nombran en la radio y los corpos se cambian de vereda."
+  },
+  {
+   "nombre": "Hasta la Luna",
+   "frase": "Lograste lo que David y Lucy querían: mirar Night City desde arriba."
+  }
+ ],
+ "logros": {
+  "primera_reunion": {
+   "nombre": "Primer encargo",
+   "descripcion": "Completaste tu primera reunión."
+  },
+  "reuniones_10": {
+   "nombre": "Entraste al equipo de Maine",
+   "descripcion": "Completaste 10 reuniones."
+  },
+  "reuniones_50": {
+   "nombre": "Fija del Afterlife",
+   "descripcion": "Completaste 50 reuniones."
+  },
+  "preguntas_10_en_una": {
+   "nombre": "Escaneo profundo",
+   "descripcion": "Hiciste 10 o más preguntas en una sola reunión."
+  },
+  "escucha_activa": {
+   "nombre": "Modo braindance",
+   "descripcion": "Hablaste 35% o menos en una reunión de 15+ minutos."
+  },
+  "cero_interrupciones_5": {
+   "nombre": "Sigilo nivel Lucy",
+   "descripcion": "5 reuniones seguidas sin interrumpir a nadie."
+  },
+  "puntaje_perfecto": {
+   "nombre": "Cromo legendario",
+   "descripcion": "Sacaste un 10 en algún apartado."
+  },
+  "reunion_9": {
+   "nombre": "Trabajo limpio",
+   "descripcion": "Promedio de 9 o más en una reunión."
+  },
+  "express": {
+   "nombre": "Entramos y salimos",
+   "descripcion": "Reunión de 15 minutos o menos con cierre de 8 o más."
+  },
+  "sin_muletillas": {
+   "nombre": "Firmware limpio",
+   "descripcion": "Reunión de 15+ minutos sin ninguna muletilla."
+  },
+  "mejora_cierre": {
+   "nombre": "Upgrade en el cierre",
+   "descripcion": "Tu cierre promedio subió 2+ puntos vs. tus 5 reuniones anteriores."
+  },
+  "habito_1": {
+   "nombre": "Primer implante del Doc",
+   "descripcion": "Cumpliste por primera vez el hábito que te dejó Minuta. Primer fierro instalado: ahora hay que acostumbrar el cuerpo."
+  },
+  "habito_racha_3": {
+   "nombre": "Sandevistan calibrado",
+   "descripcion": "Cumpliste tu hábito en 3 reuniones seguidas. Tres activaciones sin fallar: el implante ya responde como si fuera tuyo."
+  },
+  "habito_10": {
+   "nombre": "Diez implantes al cuerpo",
+   "descripcion": "Cumpliste 10 hábitos en total. Ya cargas suficiente chrome encima para que se note al entrar a la sala."
+  },
+  "cierre_racha_3": {
+   "nombre": "Tres salidas limpias",
+   "descripcion": "Cerraste 3 reuniones seguidas con 8 o más en cierre. Entraste, hiciste el trabajo y saliste sin dejar cabos sueltos."
+  },
+  "muletillas_racha_3": {
+   "nombre": "Tres gigs sin glitch",
+   "descripcion": "3 reuniones seguidas con menos de 3 muletillas cada 10 minutos. Señal limpia, sin interferencia en la línea."
+  },
+  "habla_racha_5": {
+   "nombre": "Reparto justo como Maine",
+   "descripcion": "5 reuniones seguidas con tu tiempo de habla dentro del rango. Repartes la palabra como Maine repartía el pago: a todos les toca."
+  },
+  "monologo_racha_5": {
+   "nombre": "Sin solos de Silverhand",
+   "descripcion": "5 reuniones seguidas sin hablar más de 60 segundos de corrido. Nadie necesita otro Johnny monologueando arriba del escenario."
+  },
+  "preguntas_racha_3": {
+   "nombre": "Modo scan de Lucy",
+   "descripcion": "3 reuniones seguidas con al menos 1 pregunta cada 10 minutos. Antes de entrar al sistema, escaneas el terreno."
+  },
+  "todo_verde": {
+   "nombre": "Sin asomo de cyberpsicosis",
+   "descripcion": "Una reunión con todas tus métricas de cómo hablaste en rango. Lecturas estables de punta a punta: ni un pico rojo."
+  },
+  "equilibrio": {
+   "nombre": "Build perfecta de edgerunner",
+   "descripcion": "Los 4 apartados en 8 o más en una misma reunión. Nada de especializarse en uno: el build completo, sin puntos flacos."
+  },
+  "remontada": {
+   "nombre": "Remontada estilo David Martinez",
+   "descripcion": "Después de una reunión bajo 6, la siguiente sobre 8. Caíste, te paraste y volviste más arriba que antes."
+  },
+  "mejora_debil": {
+   "nombre": "Chrome nuevo del Ripperdoc",
+   "descripcion": "Tu apartado más débil subió 2+ puntos en promedio en las siguientes 5 reuniones. Cambiaste la pieza que te fallaba y ahora rinde."
+  },
+  "semana_8": {
+   "nombre": "Semana digna del Afterlife",
+   "descripcion": "Una semana con 3+ reuniones y promedio de 8 o más. Trabajo seguido y bien hecho: de los que se cuentan en la barra."
+  }
+ },
+ "iconos_logros": {
+  "primera_reunion": "🔌",
+  "reuniones_10": "🏍️",
+  "reuniones_50": "🥃",
+  "preguntas_10_en_una": "📡",
+  "escucha_activa": "📼",
+  "cero_interrupciones_5": "🫥",
+  "puntaje_perfecto": "🦾",
+  "reunion_9": "🎯",
+  "express": "⚡",
+  "sin_muletillas": "🧼",
+  "mejora_cierre": "🔧",
+  "habito_1": "🔧",
+  "habito_racha_3": "⚡",
+  "habito_10": "🦾",
+  "cierre_racha_3": "🎯",
+  "muletillas_racha_3": "🎙️",
+  "habla_racha_5": "⚖️",
+  "monologo_racha_5": "🎸",
+  "preguntas_racha_3": "🔍",
+  "todo_verde": "🟢",
+  "equilibrio": "🧩",
+  "remontada": "🔥",
+  "mejora_debil": "🛠️",
+  "semana_8": "🍸"
+ },
+ "iconos_apartados": {
+  "claridad": "📡",
+  "escucha": "🎧",
+  "preguntas": "🧠",
+  "cierre": "🌙"
+ },
+ "iconos_rangos": [
+  "🔌",
+  "🏢",
+  "📟",
+  "🔫",
+  "🏍️",
+  "🦿",
+  "🥃",
+  "🍸",
+  "⭐",
+  "🌙"
+ ],
+ "estilo": {
+  "modo": "oscuro",
+  "fondo": "#08060f",
+  "fondo2": "#170a26",
+  "panel": "rgba(255,255,255,0.05)",
+  "texto": "#f3f4f8",
+  "suave": "#9aa2bb",
+  "linea": "rgba(252,238,10,0.18)",
+  "acento": "#fcee0a",
+  "acento_texto": "#fcee0a",
+  "acento2": "#00e5ff",
+  "fuente": "Avenir Next Condensed",
+  "peso": 800,
+  "mayusculas": true,
+  "cursiva": false,
+  "patron": "velocidad",
+  "radio": 0,
+  "kit": "neon",
+  "textos": {
+   "reuniones": "Encargos",
+   "ico_reuniones": "📼",
+   "progreso": "Street cred",
+   "ico_progreso": "📈",
+   "logros": "Cromo",
+   "ico_logros": "🦾",
+   "titulo_progreso": "Tu street cred en Night City",
+   "buscar": "Buscar en los encargos del fixer"
+  },
+  "ventana": {
+   "titulo": "Terminal del fixer",
+   "derecha": "ENLACE N.C. ESTABLE",
+   "grabar": "Iniciar el encargo",
+   "parar": "Cerrar el encargo",
+   "procesando": "Editando la braindance del encargo…"
+  }
+ },
+ "idioma": "es"
+}

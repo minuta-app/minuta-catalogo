@@ -1,0 +1,436 @@
+{
+ "id": "rapidoyfurioso",
+ "nombre": "Rápido y Furioso",
+ "emoji": "🏎️",
+ "xp": "nitro",
+ "personaje_por_defecto": "Solo personajes canónicos de la saga Rápido y Furioso (películas principales y Hobbs & Shaw).",
+ "elogios": [
+  "¡Pura familia y nitro a fondo!",
+  "Buen cuarto de milla, hermano.",
+  "Te falta afinar el motor, familia.",
+  "Se te ahogó el motor en la partida."
+ ],
+ "apartados": {
+  "claridad": [
+   {
+    "nombre": "Roman Pearce",
+    "referencia": "+Rápido +Furioso (2003)",
+    "frase": "Hablaste sin parar y nadie entendió el plan. Puro Roman, sin frenos ni mapa."
+   },
+   {
+    "nombre": "Jesse",
+    "referencia": "Rápido y Furioso (2001)",
+    "frase": "Ideas brillantes a mil por hora, como Jesse. El equipo quedó mareado."
+   },
+   {
+    "nombre": "Dante Reyes",
+    "referencia": "Rápidos y Furiosos X (2023)",
+    "frase": "Mucho show y colores, poco mensaje. Dante estaría orgulloso del caos."
+   },
+   {
+    "nombre": "Sean Boswell",
+    "referencia": "Rápido y Furioso: Reto Tokio (2006)",
+    "frase": "Se te fue la cola en las curvas, como Sean aprendiendo a derrapar."
+   },
+   {
+    "nombre": "Tej Parker",
+    "referencia": "Rápidos y Furiosos 5in Control (2011)",
+    "frase": "Claro para los técnicos, en chino para el resto. Muy Tej."
+   },
+   {
+    "nombre": "Han Lue",
+    "referencia": "Rápido y Furioso: Reto Tokio (2006)",
+    "frase": "Pocas palabras y bastante claras. Faltó un poco más, pero buen estilo Han."
+   },
+   {
+    "nombre": "Luke Hobbs",
+    "referencia": "Rápidos y Furiosos 5in Control (2011)",
+    "frase": "Directo como Hobbs: sin rodeos y nadie se atrevió a no entender."
+   },
+   {
+    "nombre": "Letty Ortiz",
+    "referencia": "Rápidos y Furiosos 6 (2013)",
+    "frase": "Clara, firme y sin vueltas. Letty no repite las cosas dos veces."
+   },
+   {
+    "nombre": "Mr. Nobody",
+    "referencia": "Rápidos y Furiosos 7 (2015)",
+    "frase": "Explicaste la misión como Mr. Nobody: ordenado, simple y con elegancia."
+   },
+   {
+    "nombre": "Dominic Toretto",
+    "referencia": "Rápidos y Furiosos 7 (2015)",
+    "frase": "Pocas palabras, voz grave y todos entendieron. Hablaste como Toretto."
+   }
+  ],
+  "escucha": [
+   {
+    "nombre": "Roman Pearce",
+    "referencia": "Rápidos y Furiosos 6 (2013)",
+    "frase": "No dejaste hablar a nadie. Roman te pediría que bajes la radio."
+   },
+   {
+    "nombre": "Dante Reyes",
+    "referencia": "Rápidos y Furiosos X (2023)",
+    "frase": "Monólogo de villano: hablaste tú, te respondiste tú. ¿Y la familia?"
+   },
+   {
+    "nombre": "Luke Hobbs",
+    "referencia": "Rápidos y Furiosos: Hobbs & Shaw (2019)",
+    "frase": "Escuchaste como Hobbs a Shaw: esperando tu turno para rebatir."
+   },
+   {
+    "nombre": "Deckard Shaw",
+    "referencia": "Rápidos y Furiosos: Hobbs & Shaw (2019)",
+    "frase": "Oíste, pero con cara de \"yo lo haría mejor\". Muy Shaw."
+   },
+   {
+    "nombre": "Sean Boswell",
+    "referencia": "Rápido y Furioso: Reto Tokio (2006)",
+    "frase": "Escuchaste a ratos, como Sean antes de que Han le enseñara."
+   },
+   {
+    "nombre": "Tej Parker",
+    "referencia": "Rápidos y Furiosos 8 (2017)",
+    "frase": "Escuchaste bien, aunque a veces mirando las pantallas. Buen Tej."
+   },
+   {
+    "nombre": "Brian O'Conner",
+    "referencia": "Rápido y Furioso (2001)",
+    "frase": "Escuchaste como Brian infiltrado: atento a cada detalle del equipo."
+   },
+   {
+    "nombre": "Gisele Yashar",
+    "referencia": "Rápidos y Furiosos 5in Control (2011)",
+    "frase": "Callada y observadora, captaste todo sin hacer ruido. Muy Gisele."
+   },
+   {
+    "nombre": "Han Lue",
+    "referencia": "Rápidos y Furiosos 6 (2013)",
+    "frase": "Escuchaste tranquilo, con tu snack, entendiendo todo. Han total."
+   },
+   {
+    "nombre": "Mia Toretto",
+    "referencia": "Rápidos y Furiosos 7 (2015)",
+    "frase": "Entendiste lo que nadie dijo, como Mia con la familia. Escucha de oro."
+   }
+  ],
+  "preguntas": [
+   {
+    "nombre": "Dominic Toretto",
+    "referencia": "Rápidos y Furiosos 8 (2017)",
+    "frase": "Cero preguntas: pisaste el acelerador y listo. Muy Toretto, poco análisis."
+   },
+   {
+    "nombre": "Roman Pearce",
+    "referencia": "Rápidos y Furiosos 6 (2013)",
+    "frase": "Tu pregunta fue \"¿y quién paga la cuenta?\". Roman, por favor."
+   },
+   {
+    "nombre": "Jakob Toretto",
+    "referencia": "Rápidos y Furiosos 9 (2021)",
+    "frase": "Preguntas con resentimiento de hermano. Faltó curiosidad, sobró orgullo."
+   },
+   {
+    "nombre": "Luke Hobbs",
+    "referencia": "Rápidos y Furiosos 5in Control (2011)",
+    "frase": "Preguntaste como en interrogatorio de Hobbs: duro, pero no al hueso."
+   },
+   {
+    "nombre": "Sean Boswell",
+    "referencia": "Rápido y Furioso: Reto Tokio (2006)",
+    "frase": "Preguntas de novato con ganas de aprender. Vas por buen camino, Sean."
+   },
+   {
+    "nombre": "Letty Ortiz",
+    "referencia": "Rápidos y Furiosos 6 (2013)",
+    "frase": "Preguntaste lo que necesitabas saber, como Letty buscando su memoria."
+   },
+   {
+    "nombre": "Brian O'Conner",
+    "referencia": "Rápido y Furioso (2001)",
+    "frase": "Preguntas de agente encubierto: sacaste info sin que nadie lo notara."
+   },
+   {
+    "nombre": "Tej Parker",
+    "referencia": "Rápidos y Furiosos 7 (2015)",
+    "frase": "Preguntas técnicas que destrabaron el plan. Tej aprueba el hackeo."
+   },
+   {
+    "nombre": "Ramsey",
+    "referencia": "Rápidos y Furiosos 7 (2015)",
+    "frase": "Preguntas precisas, como Ramsey frente al Ojo de Dios. Fino."
+   },
+   {
+    "nombre": "Mr. Nobody",
+    "referencia": "Rápidos y Furiosos 8 (2017)",
+    "frase": "Tus preguntas desarmaron el problema pieza por pieza. Señor Nadie, eres tú."
+   }
+  ],
+  "cierre": [
+   {
+    "nombre": "Roman Pearce",
+    "referencia": "Rápidos y Furiosos 5in Control (2011)",
+    "frase": "Nadie sabe qué se acordó. Roman ya está pensando en el yate."
+   },
+   {
+    "nombre": "Dante Reyes",
+    "referencia": "Rápidos y Furiosos X (2023)",
+    "frase": "Cerraste con explosiones y cero acuerdos. Caos marca Dante."
+   },
+   {
+    "nombre": "Jakob Toretto",
+    "referencia": "Rápidos y Furiosos 9 (2021)",
+    "frase": "Te fuiste sin aclarar nada, como Jakob en la familia. Faltó cerrar."
+   },
+   {
+    "nombre": "Sean Boswell",
+    "referencia": "Rápido y Furioso: Reto Tokio (2006)",
+    "frase": "Cierre derrapando: se entendió la idea, no quién hacía qué."
+   },
+   {
+    "nombre": "Luke Hobbs",
+    "referencia": "Rápidos y Furiosos 6 (2013)",
+    "frase": "Cierre a la fuerza: hay acuerdo, pero porque Hobbs lo dijo."
+   },
+   {
+    "nombre": "Tej Parker",
+    "referencia": "Rápidos y Furiosos 8 (2017)",
+    "frase": "Dejaste tareas claras para los técnicos. Faltaron las fechas, Tej."
+   },
+   {
+    "nombre": "Han Lue",
+    "referencia": "Rápidos y Furiosos 9 (2021)",
+    "frase": "Cierre tranquilo y efectivo. Han vuelve siempre, tus acuerdos también."
+   },
+   {
+    "nombre": "Brian O'Conner",
+    "referencia": "Rápidos y Furiosos 5in Control (2011)",
+    "frase": "Repartiste el plan como Brian en Río: cada uno sabe su auto y su ruta."
+   },
+   {
+    "nombre": "Letty Ortiz",
+    "referencia": "Rápidos y Furiosos 8 (2017)",
+    "frase": "Cerraste firme y sin dejar cabos sueltos. Letty te pasaría las llaves."
+   },
+   {
+    "nombre": "Dominic Toretto",
+    "referencia": "Rápidos y Furiosos 7 (2015)",
+    "frase": "Quién, qué y cuándo, y brindis por la familia. Cierre Toretto impecable."
+   }
+  ]
+ },
+ "rangos": [
+  {
+   "nombre": "Peatón en Los Ángeles",
+   "frase": "Ves pasar los autos desde la vereda. Ya llegará tu turno."
+  },
+  {
+   "nombre": "Copiloto de prueba",
+   "frase": "Te dejan ir de copiloto. No toques la radio."
+  },
+  {
+   "nombre": "Mecánico del taller Toretto",
+   "frase": "Ya tienes grasa en las manos y café en el taller."
+  },
+  {
+   "nombre": "Corredor callejero",
+   "frase": "Primera carrera de medianoche. Ojo con los semáforos."
+  },
+  {
+   "nombre": "Rey del derrape",
+   "frase": "Ya derrapas como en Tokio. Han estaría orgulloso."
+  },
+  {
+   "nombre": "Miembro del equipo",
+   "frase": "Te sentaron en la mesa del asado. Eres de los nuestros."
+  },
+  {
+   "nombre": "Ladrón de bóvedas",
+   "frase": "Arrastraste la bóveda por todo Río. Bien hecho."
+  },
+  {
+   "nombre": "Piloto de Mr. Nobody",
+   "frase": "El gobierno te llama para misiones imposibles."
+  },
+  {
+   "nombre": "Familia Toretto",
+   "frase": "Ya no es un equipo, es familia. Y la familia no se deja."
+  },
+  {
+   "nombre": "Leyenda del cuarto de milla",
+   "frase": "Vives la vida de 10 segundos en 10 segundos. Toretto te saluda."
+  }
+ ],
+ "logros": {
+  "primera_reunion": {
+   "nombre": "Primer cuarto de milla",
+   "descripcion": "Tuviste tu primera reunión."
+  },
+  "reuniones_10": {
+   "nombre": "Ya eres familia",
+   "descripcion": "Llegaste a 10 reuniones."
+  },
+  "reuniones_50": {
+   "nombre": "Bóveda arrastrada por Río",
+   "descripcion": "Llegaste a 50 reuniones."
+  },
+  "preguntas_10_en_una": {
+   "nombre": "Hackeo de Ramsey",
+   "descripcion": "Hiciste 10 o más preguntas en una sola reunión."
+  },
+  "escucha_activa": {
+   "nombre": "Modo Han con snack",
+   "descripcion": "Hablaste 35% o menos en una reunión de 15+ minutos."
+  },
+  "cero_interrupciones_5": {
+   "nombre": "Sin cerrarle el paso a nadie",
+   "descripcion": "5 reuniones seguidas sin interrumpir a nadie."
+  },
+  "puntaje_perfecto": {
+   "nombre": "Nitro a fondo",
+   "descripcion": "Sacaste un 10 en algún apartado."
+  },
+  "reunion_9": {
+   "nombre": "Charger del 70",
+   "descripcion": "Promedio de 9 o más en una reunión."
+  },
+  "express": {
+   "nombre": "Diez segundos o menos",
+   "descripcion": "Reunión de 15 minutos o menos con cierre de 8 o más."
+  },
+  "sin_muletillas": {
+   "nombre": "Cambios sin tironear",
+   "descripcion": "Reunión de 15+ minutos sin ninguna muletilla."
+  },
+  "mejora_cierre": {
+   "nombre": "Cambio de marcha",
+   "descripcion": "Tu cierre promedio subió 2+ puntos vs. tus 5 reuniones anteriores."
+  },
+  "habito_1": {
+   "nombre": "Primer botón de NOS",
+   "descripcion": "Cumpliste por primera vez el hábito que te dejó Minuta. Apretaste el botón y arrancó la mejora."
+  },
+  "habito_racha_3": {
+   "nombre": "Tres marchas, cero fallos",
+   "descripcion": "Cumpliste tu hábito en 3 reuniones seguidas, subiendo de marcha sin un solo salto."
+  },
+  "habito_10": {
+   "nombre": "Diez vueltas con Han",
+   "descripcion": "Cumpliste 10 hábitos en total. Nivel afinado: Han aprobaría tu setup."
+  },
+  "cierre_racha_3": {
+   "nombre": "Tres cierres de bóveda",
+   "descripcion": "3 reuniones seguidas con cierre de 8 o más. Te llevaste la bóveda las tres veces."
+  },
+  "muletillas_racha_3": {
+   "nombre": "Sin ruido en el escape",
+   "descripcion": "3 reuniones seguidas con menos de 3 muletillas cada 10 minutos. Motor limpio, cero ruido de más."
+  },
+  "habla_racha_5": {
+   "nombre": "Aguja en zona verde",
+   "descripcion": "5 reuniones seguidas con tu tiempo de habla en rango. Nunca pasaste de revoluciones."
+  },
+  "monologo_racha_5": {
+   "nombre": "Letty también toma el volante",
+   "descripcion": "5 reuniones seguidas sin hablar más de 60 segundos de corrido. Siempre pasaste el volante a tiempo."
+  },
+  "preguntas_racha_3": {
+   "nombre": "Las preguntas de Roman",
+   "descripcion": "3 reuniones seguidas con al menos 1 pregunta cada 10 minutos. Roman no se queda callado, y tú tampoco."
+  },
+  "todo_verde": {
+   "nombre": "Tablero todo en verde",
+   "descripcion": "Una reunión con todas tus métricas de cómo hablaste en rango. Ni una luz de alerta encendida."
+  },
+  "equilibrio": {
+   "nombre": "Los cuatro cilindros afinados",
+   "descripcion": "Los 4 apartados en 8 o más en una misma reunión. Todo el motor trabajando parejo."
+  },
+  "remontada": {
+   "nombre": "Nunca pierdes dos veces",
+   "descripcion": "Después de una reunión bajo 6, la siguiente sobre 8. Perdiste un cuarto de milla y ganaste el siguiente."
+  },
+  "mejora_debil": {
+   "nombre": "Reconstruido como el Charger",
+   "descripcion": "Tu apartado más débil subió 2+ puntos en promedio en las siguientes 5 reuniones. De chatarra a leyenda."
+  },
+  "semana_8": {
+   "nombre": "Siete días a fondo",
+   "descripcion": "Una semana con 3+ reuniones y promedio de 8 o más. Pie derecho abajo toda la semana."
+  }
+ },
+ "iconos_logros": {
+  "primera_reunion": "🏁",
+  "reuniones_10": "👪",
+  "reuniones_50": "🏦",
+  "preguntas_10_en_una": "💻",
+  "escucha_activa": "🍿",
+  "cero_interrupciones_5": "🚦",
+  "puntaje_perfecto": "🔥",
+  "reunion_9": "🚗",
+  "express": "⏱️",
+  "sin_muletillas": "⚙️",
+  "mejora_cierre": "🕹️",
+  "habito_1": "🟢",
+  "habito_racha_3": "🔧",
+  "habito_10": "🏁",
+  "cierre_racha_3": "💰",
+  "muletillas_racha_3": "🔇",
+  "habla_racha_5": "📊",
+  "monologo_racha_5": "🔁",
+  "preguntas_racha_3": "❓",
+  "todo_verde": "✅",
+  "equilibrio": "⚙️",
+  "remontada": "🔥",
+  "mejora_debil": "🛠️",
+  "semana_8": "🗓️"
+ },
+ "iconos_apartados": {
+  "claridad": "🛣️",
+  "escucha": "📻",
+  "preguntas": "🔧",
+  "cierre": "🏁"
+ },
+ "iconos_rangos": [
+  "🚶",
+  "💺",
+  "🔧",
+  "🚗",
+  "💨",
+  "🤝",
+  "🏦",
+  "🕶️",
+  "👪",
+  "🏆"
+ ],
+ "estilo": {
+  "modo": "oscuro",
+  "fondo": "#090909",
+  "fondo2": "#16120c",
+  "panel": "rgba(255,255,255,0.05)",
+  "texto": "#f2f2f2",
+  "suave": "#9c9c9c",
+  "linea": "rgba(255,106,0,0.25)",
+  "acento": "#FF6A00",
+  "acento_texto": "#FF8A33",
+  "acento2": "#00E5FF",
+  "fuente": "Futura",
+  "peso": 800,
+  "mayusculas": true,
+  "cursiva": true,
+  "patron": "velocidad",
+  "radio": 0,
+  "textos": {
+   "reuniones": "Carreras",
+   "ico_reuniones": "🏁",
+   "progreso": "Tuning",
+   "ico_progreso": "🔧",
+   "logros": "Trofeos",
+   "ico_logros": "🏆",
+   "titulo_progreso": "Tu tuning",
+   "buscar": "Buscar carrera…"
+  }
+ },
+ "idioma": "es"
+}

@@ -1,0 +1,1472 @@
+[
+ {
+  "id": "cine",
+  "nombre": "Cine variado",
+  "emoji": "🎬",
+  "xp": "XP",
+  "idioma": "es",
+  "descripcion": "cualquier personaje de película conocida",
+  "version": "f753afda95",
+  "bytes": 12325,
+  "estilo": {
+   "modo": "oscuro",
+   "fondo": "#101010",
+   "fondo2": "#1d1812",
+   "panel": "rgba(255,255,255,0.045)",
+   "texto": "#f2efe9",
+   "suave": "#a39e95",
+   "linea": "rgba(245,183,0,0.18)",
+   "acento": "#F5B700",
+   "acento2": "#B91C1C",
+   "fuente": "Didot",
+   "peso": 700,
+   "mayusculas": false,
+   "cursiva": false,
+   "patron": "film",
+   "radio": 0
+  },
+  "muestra": {
+   "rangos": [
+    "Padawan (Star Wars)",
+    "Hobbit de la Comarca (El Señor de los Anillos)",
+    "Karate Kid (Karate Kid)",
+    "Rocky (Rocky)",
+    "Capitán América (Los Vengadores)",
+    "Tony Stark (Iron Man)",
+    "Maverick (Top Gun)",
+    "Gandalf el Gris (El Señor de los Anillos)",
+    "Gandalf el Blanco (El Señor de los Anillos)",
+    "Maestro Jedi (Star Wars)"
+   ],
+   "iconos_rangos": [
+    "🌱",
+    "🏡",
+    "🥋",
+    "🥊",
+    "🛡️",
+    "🦾",
+    "✈️",
+    "🧙",
+    "🤍",
+    "✨"
+   ],
+   "elogio": "¡Óscar a la mejor reunión!",
+   "arquetipos": [
+    {
+     "nombre": "Sherlock Holmes",
+     "referencia": "Sherlock Holmes",
+     "frase": "Deducción impecable, paso a paso.",
+     "apartado": "claridad"
+    },
+    {
+     "nombre": "Samwise Gamgee",
+     "referencia": "El Señor de los Anillos",
+     "frase": "Leal y atento a cada palabra del equipo.",
+     "apartado": "escucha"
+    },
+    {
+     "nombre": "Hércules Poirot",
+     "referencia": "Asesinato en el Orient Express",
+     "frase": "Cada pregunta, una pieza del rompecabezas.",
+     "apartado": "preguntas"
+    },
+    {
+     "nombre": "Danny Ocean",
+     "referencia": "La gran estafa",
+     "frase": "Cada uno salió sabiendo exactamente su rol.",
+     "apartado": "cierre"
+    }
+   ],
+   "logros": [
+    {
+     "nombre": "¡Luces, cámara, acción!",
+     "descripcion": "Analizaste tu primera reunión."
+    },
+    {
+     "nombre": "Saga de 10 entregas",
+     "descripcion": "Llegaste a 10 reuniones analizadas."
+    },
+    {
+     "nombre": "Filmografía de culto",
+     "descripcion": "Llegaste a 50 reuniones analizadas."
+    },
+    {
+     "nombre": "Interrogatorio de Poirot",
+     "descripcion": "Hiciste 10 o más preguntas en una sola reunión."
+    }
+   ]
+  }
+ },
+ {
+  "id": "cyberpunkedgerunners",
+  "nombre": "Cyberpunk: Edgerunners",
+  "emoji": "🦾",
+  "xp": "eddies",
+  "idioma": "es",
+  "descripcion": "Solo personajes canónicos de Cyberpunk: Edgerunners y Cyberpunk 2077 (incluido Phantom Liberty).",
+  "version": "6caae72ba7",
+  "bytes": 14752,
+  "estilo": {
+   "modo": "oscuro",
+   "fondo": "#08060f",
+   "fondo2": "#170a26",
+   "panel": "rgba(255,255,255,0.05)",
+   "texto": "#f3f4f8",
+   "suave": "#9aa2bb",
+   "linea": "rgba(252,238,10,0.18)",
+   "acento": "#fcee0a",
+   "acento2": "#00e5ff",
+   "fuente": "Avenir Next Condensed",
+   "peso": 800,
+   "mayusculas": true,
+   "cursiva": false,
+   "patron": "velocidad",
+   "radio": 0
+  },
+  "muestra": {
+   "rangos": [
+    "Gonk recién cromado",
+    "Choom de la Megatorre H10",
+    "Recadero de fixer",
+    "Merc de medio tiempo",
+    "Edgerunner",
+    "Solo de cromo fino",
+    "Habitué del Afterlife",
+    "Trago con tu nombre",
+    "Leyenda de Night City",
+    "Hasta la Luna"
+   ],
+   "iconos_rangos": [
+    "🔌",
+    "🏢",
+    "📟",
+    "🔫",
+    "🏍️",
+    "🦿",
+    "🥃",
+    "🍸",
+    "⭐",
+    "🌙"
+   ],
+   "elogio": "Eso fue puro cromo, choom. Night City entera te escuchó.",
+   "arquetipos": [
+    {
+     "nombre": "Goro Takemura",
+     "referencia": "Cyberpunk 2077",
+     "frase": "Preciso y formal, aunque te quedaste dos minutos extra explicando el honor.",
+     "apartado": "claridad"
+    },
+    {
+     "nombre": "Viktor Vektor",
+     "referencia": "Cyberpunk 2077",
+     "frase": "Sentaste al otro en la silla del ripperdoc y dejaste que contara todo el dolor antes de opinar.",
+     "apartado": "escucha"
+    },
+    {
+     "nombre": "Kiwi",
+     "referencia": "Cyberpunk: Edgerunners",
+     "frase": "Escaneaste a cada uno antes de abrir la boca: sabías qué preguntar y a quién.",
+     "apartado": "preguntas"
+    },
+    {
+     "nombre": "Mr. Hands",
+     "referencia": "Cyberpunk 2077",
+     "frase": "Cierre limpio y discreto: nadie supo cómo, pero todos quedaron con su tarea.",
+     "apartado": "cierre"
+    }
+   ],
+   "logros": [
+    {
+     "nombre": "Primer encargo",
+     "descripcion": "Completaste tu primera reunión."
+    },
+    {
+     "nombre": "Entraste al equipo de Maine",
+     "descripcion": "Completaste 10 reuniones."
+    },
+    {
+     "nombre": "Fija del Afterlife",
+     "descripcion": "Completaste 50 reuniones."
+    },
+    {
+     "nombre": "Escaneo profundo",
+     "descripcion": "Hiciste 10 o más preguntas en una sola reunión."
+    }
+   ]
+  }
+ },
+ {
+  "id": "dragonball",
+  "nombre": "Dragon Ball",
+  "emoji": "🐉",
+  "xp": "ki",
+  "idioma": "es",
+  "descripcion": "Solo personajes canónicos de Dragon Ball, Dragon Ball Z y Dragon Ball Super, con nombres del doblaje latino.",
+  "version": "89a3d08ccb",
+  "bytes": 14016,
+  "estilo": {
+   "modo": "claro",
+   "fondo": "#fff6ea",
+   "fondo2": "#ffe2c2",
+   "panel": "rgba(255,255,255,0.78)",
+   "texto": "#1f1300",
+   "suave": "#7a5a3a",
+   "linea": "rgba(248,91,26,0.25)",
+   "acento": "#F85B1A",
+   "acento2": "#1E5BB8",
+   "fuente": "Futura",
+   "peso": 800,
+   "mayusculas": true,
+   "cursiva": false,
+   "patron": "ki",
+   "radio": 0
+  },
+  "muestra": {
+   "rangos": [
+    "Granjero con escopeta",
+    "Alumno de Kame House",
+    "Guerrero Z",
+    "Kaio-ken",
+    "Super Saiyajin",
+    "Super Saiyajin 2",
+    "Super Saiyajin 3",
+    "Super Saiyajin Dios",
+    "Super Saiyajin Blue",
+    "Doctrina Egoísta"
+   ],
+   "iconos_rangos": [
+    "🔫",
+    "🐢",
+    "🥋",
+    "🔥",
+    "🟡",
+    "⚡",
+    "🦁",
+    "🔴",
+    "🔵",
+    "🌌"
+   ],
+   "elogio": "¡Tu ki es de más de 8000!",
+   "arquetipos": [
+    {
+     "nombre": "Bulma",
+     "referencia": "Dragon Ball Z, saga de los Androides",
+     "frase": "Clara, segura y con planos en mano. Así explica una genio de Capsule Corp.",
+     "apartado": "claridad"
+    },
+    {
+     "nombre": "Dende",
+     "referencia": "Dragon Ball Z, saga de Freezer",
+     "frase": "Escuchaste con paciencia de guardián. Dende curaría hasta tu agenda.",
+     "apartado": "escucha"
+    },
+    {
+     "nombre": "Trunks",
+     "referencia": "Dragon Ball Z, saga de los Androides",
+     "frase": "Preguntaste lo justo para cambiar el futuro. Trunks volvería a viajar.",
+     "apartado": "preguntas"
+    },
+    {
+     "nombre": "Piccoro",
+     "referencia": "Dragon Ball Z, saga de los Saiyajin",
+     "frase": "Dejaste el plan de entrenamiento clarito, como Piccoro con Gohan.",
+     "apartado": "cierre"
+    }
+   ],
+   "logros": [
+    {
+     "nombre": "Primera esfera",
+     "descripcion": "Tuviste tu primera reunión."
+    },
+    {
+     "nombre": "Torneo de las Artes Marciales",
+     "descripcion": "Llegaste a 10 reuniones."
+    },
+    {
+     "nombre": "Las 7 esferas reunidas",
+     "descripcion": "Llegaste a 50 reuniones."
+    },
+    {
+     "nombre": "Scouter sobrecargado",
+     "descripcion": "Hiciste 10 o más preguntas en una sola reunión."
+    }
+   ]
+  }
+ },
+ {
+  "id": "gameofthrones",
+  "nombre": "Game of Thrones",
+  "emoji": "🐉",
+  "xp": "dragones de oro",
+  "idioma": "es",
+  "descripcion": "Solo personajes de la serie Game of Thrones (HBO), de Poniente y Essos.",
+  "version": "bbd461a2c6",
+  "bytes": 12875,
+  "estilo": {
+   "modo": "oscuro",
+   "fondo": "#0b0e11",
+   "fondo2": "#18212b",
+   "panel": "rgba(159,201,230,0.05)",
+   "texto": "#e9edf1",
+   "suave": "#8f9aa6",
+   "linea": "rgba(159,201,230,0.18)",
+   "acento": "#9FC9E6",
+   "acento2": "#B8860B",
+   "fuente": "Copperplate",
+   "peso": 700,
+   "mayusculas": true,
+   "cursiva": false,
+   "patron": "hielo",
+   "radio": 0
+  },
+  "muestra": {
+   "rangos": [
+    "Mozo de cuadra",
+    "Escudero",
+    "Hermano de la Guardia",
+    "Caballero ungido",
+    "Maestre de la Ciudadela",
+    "Señor de Invernalia",
+    "Consejo Privado",
+    "Mano del Rey",
+    "Jinete de dragón",
+    "Rey de los Siete Reinos"
+   ],
+   "iconos_rangos": [
+    "🐴",
+    "🛡️",
+    "🖤",
+    "⚔️",
+    "📚",
+    "🐺",
+    "🪶",
+    "✋",
+    "🐉",
+    "👑"
+   ],
+   "elogio": "¡Digno del Trono de Hierro!",
+   "arquetipos": [
+    {
+     "nombre": "Daenerys Targaryen",
+     "referencia": "Temporada 3",
+     "frase": "Hablaste como Daenerys ante su ejército: claro y con presencia.",
+     "apartado": "claridad"
+    },
+    {
+     "nombre": "Arya Stark",
+     "referencia": "Temporada 5",
+     "frase": "Como Arya en Braavos: atenta a cada gesto y palabra.",
+     "apartado": "escucha"
+    },
+    {
+     "nombre": "Varys",
+     "referencia": "Temporada 2",
+     "frase": "Preguntaste como Varys: sutil y con información detrás.",
+     "apartado": "preguntas"
+    },
+    {
+     "nombre": "Brienne de Tarth",
+     "referencia": "Temporada 4",
+     "frase": "Cierre de Brienne: cada acuerdo, un juramento cumplido.",
+     "apartado": "cierre"
+    }
+   ],
+   "logros": [
+    {
+     "nombre": "Se acerca el invierno",
+     "descripcion": "Registraste tu primera reunión."
+    },
+    {
+     "nombre": "Juramento de la Guardia",
+     "descripcion": "Registraste 10 reuniones."
+    },
+    {
+     "nombre": "Cruzaste el Mar Angosto",
+     "descripcion": "Registraste 50 reuniones."
+    },
+    {
+     "nombre": "Interrogatorio de Varys",
+     "descripcion": "Hiciste 10 o más preguntas en una sola reunión."
+    }
+   ]
+  }
+ },
+ {
+  "id": "harrypotter",
+  "nombre": "Harry Potter",
+  "emoji": "⚡",
+  "xp": "puntos para tu casa",
+  "idioma": "es",
+  "descripcion": "Solo personajes canónicos de los siete libros y ocho películas de Harry Potter.",
+  "version": "90de68033c",
+  "bytes": 14156,
+  "estilo": {
+   "modo": "oscuro",
+   "fondo": "#170d0d",
+   "fondo2": "#2b1515",
+   "panel": "rgba(212,175,55,0.07)",
+   "texto": "#f3e9d2",
+   "suave": "#b9a98a",
+   "linea": "rgba(212,175,55,0.22)",
+   "acento": "#D4AF37",
+   "acento2": "#9B1B1B",
+   "fuente": "Luminari",
+   "peso": 400,
+   "mayusculas": false,
+   "cursiva": false,
+   "patron": "pergamino",
+   "radio": 2
+  },
+  "muestra": {
+   "rangos": [
+    "Muggle curioso",
+    "Alumno de primer año",
+    "TIMOs aprobados",
+    "Prefecto",
+    "Capitán de Quidditch",
+    "Premio Anual",
+    "Auror",
+    "Profesor de Hogwarts",
+    "Director de Hogwarts",
+    "Maestro de las Reliquias"
+   ],
+   "iconos_rangos": [
+    "🤔",
+    "🚂",
+    "📝",
+    "📛",
+    "🧹",
+    "🏆",
+    "🕵️",
+    "🧙",
+    "🏰",
+    "🔺"
+   ],
+   "elogio": "¡Cincuenta puntos para tu casa!",
+   "arquetipos": [
+    {
+     "nombre": "Remus Lupin",
+     "referencia": "Harry Potter y el prisionero de Azkaban",
+     "frase": "Explicaste como el mejor profe de Defensa: simple y cercano.",
+     "apartado": "claridad"
+    },
+    {
+     "nombre": "Remus Lupin",
+     "referencia": "Harry Potter y el prisionero de Azkaban",
+     "frase": "Escuchaste con paciencia y sin juzgar. Un profe de verdad.",
+     "apartado": "escucha"
+    },
+    {
+     "nombre": "Hermione Granger",
+     "referencia": "Harry Potter y la piedra filosofal",
+     "frase": "Mano arriba todo el rato, y cada pregunta valía la pena.",
+     "apartado": "preguntas"
+    },
+    {
+     "nombre": "Kingsley Shacklebolt",
+     "referencia": "Harry Potter y las reliquias de la Muerte",
+     "frase": "Acuerdos firmes y responsables claros. Digno de Ministro.",
+     "apartado": "cierre"
+    }
+   ],
+   "logros": [
+    {
+     "nombre": "El niño que se conectó",
+     "descripcion": "Completaste tu primera reunión."
+    },
+    {
+     "nombre": "Primer año aprobado",
+     "descripcion": "Completaste 10 reuniones."
+    },
+    {
+     "nombre": "EXTASIS con honores",
+     "descripcion": "Completaste 50 reuniones."
+    },
+    {
+     "nombre": "Veritaserum en vena",
+     "descripcion": "Hiciste 10 o más preguntas en una sola reunión."
+    }
+   ]
+  }
+ },
+ {
+  "id": "marvel",
+  "nombre": "Marvel (Vengadores)",
+  "emoji": "🛡️",
+  "xp": "energía del reactor Arc",
+  "idioma": "es",
+  "descripcion": "Solo personajes canónicos del Universo Cinematográfico de Marvel ligados a los Vengadores.",
+  "version": "c2e4a7f719",
+  "bytes": 13537,
+  "estilo": {
+   "modo": "oscuro",
+   "fondo": "#0c0c0f",
+   "fondo2": "#1d0a0c",
+   "panel": "rgba(255,255,255,0.05)",
+   "texto": "#f5f5f7",
+   "suave": "#a0a0a8",
+   "linea": "rgba(230,36,41,0.25)",
+   "acento": "#E62429",
+   "acento2": "#F0B323",
+   "fuente": "Impact",
+   "peso": 400,
+   "mayusculas": true,
+   "cursiva": false,
+   "patron": "comic",
+   "radio": 0
+  },
+  "muestra": {
+   "rangos": [
+    "Civil en Nueva York",
+    "Pasante de Industrias Stark",
+    "Recluta de S.H.I.E.L.D.",
+    "Agente de S.H.I.E.L.D.",
+    "Vengador a prueba",
+    "Vengador oficial",
+    "Residente del Complejo",
+    "Portador de una Gema",
+    "Líder de los Vengadores",
+    "Leyenda de los Vengadores"
+   ],
+   "iconos_rangos": [
+    "🗽",
+    "🔧",
+    "🪖",
+    "🕶️",
+    "🎯",
+    "🦸",
+    "🏢",
+    "💎",
+    "🛡️",
+    "⭐"
+   ],
+   "elogio": "¡Nivel Vengador, con Mjolnir y todo!",
+   "arquetipos": [
+    {
+     "nombre": "Tony Stark",
+     "referencia": "Iron Man (2008)",
+     "frase": "Presentación con carisma de Stark: clara, entretenida y con remate.",
+     "apartado": "claridad"
+    },
+    {
+     "nombre": "Visión",
+     "referencia": "Avengers: Era de Ultrón (2015)",
+     "frase": "Atento, sereno y procesando cada palabra. Tu Gema de la Mente está al día.",
+     "apartado": "escucha"
+    },
+    {
+     "nombre": "Bruce Banner",
+     "referencia": "Avengers: Endgame (2019)",
+     "frase": "Preguntas de científico que ordenaron el problema. Banner aprueba.",
+     "apartado": "preguntas"
+    },
+    {
+     "nombre": "Tony Stark",
+     "referencia": "Los Vengadores (2012)",
+     "frase": "Repartiste tareas con estilo Stark y hasta propusiste shawarma al final.",
+     "apartado": "cierre"
+    }
+   ],
+   "logros": [
+    {
+     "nombre": "Iniciativa Vengadores",
+     "descripcion": "Tuviste tu primera reunión."
+    },
+    {
+     "nombre": "Equipo reunido",
+     "descripcion": "Llegaste a 10 reuniones."
+    },
+    {
+     "nombre": "Héroe de Sokovia",
+     "descripcion": "Llegaste a 50 reuniones."
+    },
+    {
+     "nombre": "Interrogatorio de Natasha",
+     "descripcion": "Hiciste 10 o más preguntas en una sola reunión."
+    }
+   ]
+  }
+ },
+ {
+  "id": "piratas",
+  "nombre": "Piratas del Caribe",
+  "emoji": "🏴‍☠️",
+  "xp": "doblones",
+  "idioma": "es",
+  "descripcion": "cualquier personaje canónico de la saga Piratas del Caribe",
+  "version": "c4559a9af7",
+  "bytes": 13023,
+  "estilo": {
+   "modo": "oscuro",
+   "fondo": "#0c1315",
+   "fondo2": "#1b2a2c",
+   "panel": "rgba(200,161,90,0.06)",
+   "texto": "#efe6d0",
+   "suave": "#a39a85",
+   "linea": "rgba(200,161,90,0.22)",
+   "acento": "#C8A15A",
+   "acento2": "#2E8B8B",
+   "fuente": "Trattatello",
+   "peso": 400,
+   "mayusculas": false,
+   "cursiva": false,
+   "patron": "olas",
+   "radio": 2
+  },
+  "muestra": {
+   "rangos": [
+    "Polizón",
+    "Grumete",
+    "Marinero de cubierta",
+    "Artillero",
+    "Contramaestre",
+    "Primer oficial",
+    "Capitán del Perla Negra",
+    "Señor Pirata de la Hermandad",
+    "Rey Pirata",
+    "Guardián del Código"
+   ],
+   "iconos_rangos": [
+    "🛢️",
+    "🧹",
+    "⛵",
+    "💣",
+    "🔔",
+    "🔭",
+    "🏴‍☠️",
+    "🗡️",
+    "👑",
+    "📜"
+   ],
+   "elogio": "¡Botín completo, capitán!",
+   "arquetipos": [
+    {
+     "nombre": "Héctor Barbossa",
+     "referencia": "La maldición del Perla Negra",
+     "frase": "Elocuente y con estilo. Todos entendieron, varios temblaron.",
+     "apartado": "claridad"
+    },
+    {
+     "nombre": "Will Turner",
+     "referencia": "El cofre de la muerte",
+     "frase": "Escuchaste con el corazón, como quien busca a su padre.",
+     "apartado": "escucha"
+    },
+    {
+     "nombre": "Lord Cutler Beckett",
+     "referencia": "El cofre de la muerte",
+     "frase": "Preguntas frías y calculadas. Es solo negocio.",
+     "apartado": "preguntas"
+    },
+    {
+     "nombre": "Héctor Barbossa",
+     "referencia": "La maldición del Perla Negra",
+     "frase": "El código es una guía, pero tus acuerdos quedaron firmes.",
+     "apartado": "cierre"
+    }
+   ],
+   "logros": [
+    {
+     "nombre": "¡Bienvenido a bordo!",
+     "descripcion": "Analizaste tu primera reunión."
+    },
+    {
+     "nombre": "Diez nudos de experiencia",
+     "descripcion": "Llegaste a 10 reuniones analizadas."
+    },
+    {
+     "nombre": "Terror de los siete mares",
+     "descripcion": "Llegaste a 50 reuniones analizadas."
+    },
+    {
+     "nombre": "Interrogatorio en cubierta",
+     "descripcion": "Hiciste 10 o más preguntas en una sola reunión."
+    }
+   ]
+  }
+ },
+ {
+  "id": "pokemon",
+  "nombre": "Pokémon",
+  "emoji": "⚡",
+  "xp": "caramelos raros",
+  "idioma": "es",
+  "descripcion": "Solo personajes y Pokémon canónicos del anime clásico de Ash (Kanto, Islas Naranja y Johto) y sus películas.",
+  "version": "39518eae79",
+  "bytes": 14547,
+  "estilo": {
+   "modo": "oscuro",
+   "fondo": "#0b1220",
+   "fondo2": "#152a52",
+   "panel": "rgba(255,255,255,0.055)",
+   "texto": "#f7f4e8",
+   "suave": "#9fadcb",
+   "linea": "rgba(255,203,5,0.18)",
+   "acento": "#ffcb05",
+   "acento2": "#ee2b2b",
+   "fuente": "ui-rounded",
+   "peso": 800,
+   "mayusculas": true,
+   "cursiva": false,
+   "patron": "ki",
+   "radio": 16
+  },
+  "muestra": {
+   "rangos": [
+    "Pijama de Pueblo Paleta",
+    "Cazador del Bosque Verde",
+    "Dueño de una medalla",
+    "Cuatro medallas y un Psyduck",
+    "Ocho medallas de Kanto",
+    "Top 16 de la Liga Añil",
+    "Campeón de la Copa Naranja",
+    "Líder de gimnasio",
+    "Alto Mando",
+    "Maestro Pokémon"
+   ],
+   "iconos_rangos": [
+    "🛏️",
+    "🐛",
+    "🪨",
+    "🦆",
+    "🎖️",
+    "🔥",
+    "🍊",
+    "🏟️",
+    "👑",
+    "⚡"
+   ],
+   "elogio": "¡Felicitaciones! Tu reunión evolucionó: esto ya es un Charizard.",
+   "arquetipos": [
+    {
+     "nombre": "Tracey Sketchit",
+     "referencia": "La Lapras perdida",
+     "frase": "Dibujaste el diagrama en vivo y por fin la sala entera entendió.",
+     "apartado": "claridad"
+    },
+    {
+     "nombre": "Enfermera Joy",
+     "referencia": "¡Emergencia Pokémon!",
+     "frase": "Escuchaste el diagnóstico completo sin interrumpir y devolviste a todos sanos.",
+     "apartado": "escucha"
+    },
+    {
+     "nombre": "Delia Ketchum",
+     "referencia": "Pokémon, ¡yo te elijo!",
+     "frase": "Hiciste la pregunta que nadie se atrevía: '¿y llevas calzoncillos limpios?'.",
+     "apartado": "preguntas"
+    },
+    {
+     "nombre": "Giovanni",
+     "referencia": "La batalla de la medalla",
+     "frase": "Cerraste en voz baja acariciando a tu Persian y nadie se atrevió a pedir otra reunión.",
+     "apartado": "cierre"
+    }
+   ],
+   "logros": [
+    {
+     "nombre": "¡Yo te elijo!",
+     "descripcion": "Completaste tu primera reunión."
+    },
+    {
+     "nombre": "Diez veces 'te elijo'",
+     "descripcion": "Completaste 10 reuniones."
+    },
+    {
+     "nombre": "Media Pokédex",
+     "descripcion": "Completaste 50 reuniones."
+    },
+    {
+     "nombre": "Interrogatorio de la Oficial Jenny",
+     "descripcion": "Hiciste 10 o más preguntas en una sola reunión."
+    }
+   ]
+  }
+ },
+ {
+  "id": "rapidoyfurioso",
+  "nombre": "Rápido y Furioso",
+  "emoji": "🏎️",
+  "xp": "nitro",
+  "idioma": "es",
+  "descripcion": "Solo personajes canónicos de la saga Rápido y Furioso (películas principales y Hobbs & Shaw).",
+  "version": "9dbb77d953",
+  "bytes": 13976,
+  "estilo": {
+   "modo": "oscuro",
+   "fondo": "#090909",
+   "fondo2": "#16120c",
+   "panel": "rgba(255,255,255,0.05)",
+   "texto": "#f2f2f2",
+   "suave": "#9c9c9c",
+   "linea": "rgba(255,106,0,0.25)",
+   "acento": "#FF6A00",
+   "acento2": "#00E5FF",
+   "fuente": "Futura",
+   "peso": 800,
+   "mayusculas": true,
+   "cursiva": true,
+   "patron": "velocidad",
+   "radio": 0
+  },
+  "muestra": {
+   "rangos": [
+    "Peatón en Los Ángeles",
+    "Copiloto de prueba",
+    "Mecánico del taller Toretto",
+    "Corredor callejero",
+    "Rey del derrape",
+    "Miembro del equipo",
+    "Ladrón de bóvedas",
+    "Piloto de Mr. Nobody",
+    "Familia Toretto",
+    "Leyenda del cuarto de milla"
+   ],
+   "iconos_rangos": [
+    "🚶",
+    "💺",
+    "🔧",
+    "🚗",
+    "💨",
+    "🤝",
+    "🏦",
+    "🕶️",
+    "👪",
+    "🏆"
+   ],
+   "elogio": "¡Pura familia y nitro a fondo!",
+   "arquetipos": [
+    {
+     "nombre": "Letty Ortiz",
+     "referencia": "Rápidos y Furiosos 6 (2013)",
+     "frase": "Clara, firme y sin vueltas. Letty no repite las cosas dos veces.",
+     "apartado": "claridad"
+    },
+    {
+     "nombre": "Gisele Yashar",
+     "referencia": "Rápidos y Furiosos 5in Control (2011)",
+     "frase": "Callada y observadora, captaste todo sin hacer ruido. Muy Gisele.",
+     "apartado": "escucha"
+    },
+    {
+     "nombre": "Tej Parker",
+     "referencia": "Rápidos y Furiosos 7 (2015)",
+     "frase": "Preguntas técnicas que destrabaron el plan. Tej aprueba el hackeo.",
+     "apartado": "preguntas"
+    },
+    {
+     "nombre": "Brian O'Conner",
+     "referencia": "Rápidos y Furiosos 5in Control (2011)",
+     "frase": "Repartiste el plan como Brian en Río: cada uno sabe su auto y su ruta.",
+     "apartado": "cierre"
+    }
+   ],
+   "logros": [
+    {
+     "nombre": "Primer cuarto de milla",
+     "descripcion": "Tuviste tu primera reunión."
+    },
+    {
+     "nombre": "Ya eres familia",
+     "descripcion": "Llegaste a 10 reuniones."
+    },
+    {
+     "nombre": "Bóveda arrastrada por Río",
+     "descripcion": "Llegaste a 50 reuniones."
+    },
+    {
+     "nombre": "Hackeo de Ramsey",
+     "descripcion": "Hiciste 10 o más preguntas en una sola reunión."
+    }
+   ]
+  }
+ },
+ {
+  "id": "rickandmorty",
+  "nombre": "Rick and Morty",
+  "emoji": "🛸",
+  "xp": "schwiftys",
+  "idioma": "es",
+  "descripcion": "Solo personajes canónicos de la serie Rick and Morty (temporadas 1 a 7), incluidas sus variantes del multiverso.",
+  "version": "edafdc27a2",
+  "bytes": 15595,
+  "estilo": {
+   "modo": "oscuro",
+   "fondo": "#070a07",
+   "fondo2": "#0f1a12",
+   "panel": "rgba(151,206,76,0.06)",
+   "texto": "#eef5e6",
+   "suave": "#93a688",
+   "linea": "rgba(151,206,76,0.18)",
+   "acento": "#97ce4c",
+   "acento2": "#5fd0e8",
+   "fuente": "Chalkboard SE",
+   "peso": 800,
+   "mayusculas": true,
+   "cursiva": false,
+   "patron": "ki",
+   "radio": 14
+  },
+  "muestra": {
+   "rangos": [
+    "Jerry en la Jerrycuna",
+    "Morty de reemplazo",
+    "Meeseeks recién abierto",
+    "Pasante del garaje",
+    "Morty curtido",
+    "Vindicator suplente",
+    "Doofus Rick aplicado",
+    "Rick del Consejo",
+    "Rick C-137",
+    "Rick del Universo Central Finito"
+   ],
+   "iconos_rangos": [
+    "🍼",
+    "😬",
+    "📦",
+    "🔧",
+    "🩹",
+    "🦸",
+    "🤓",
+    "🪪",
+    "🥼",
+    "🌌"
+   ],
+   "elogio": "Esa reunión estuvo schwifty. Wubba lubba dub dub.",
+   "arquetipos": [
+    {
+     "nombre": "President Curtis",
+     "referencia": "The Rickshank Rickdemption (T3E1)",
+     "frase": "Hablaste como el presidente de la Tierra: firme, breve y con el Salón Oval de fondo.",
+     "apartado": "claridad"
+    },
+    {
+     "nombre": "Unity",
+     "referencia": "Auto Erotic Assimilation (T2E3)",
+     "frase": "Escuchaste a un planeta entero a la vez y aun así supiste cuándo poner un límite.",
+     "apartado": "escucha"
+    },
+    {
+     "nombre": "Zeep Xanflorp",
+     "referencia": "The Ricks Must Be Crazy (T2E6)",
+     "frase": "Preguntaste de dónde venía la energía y descubriste que vivías dentro de la batería de otro.",
+     "apartado": "preguntas"
+    },
+    {
+     "nombre": "Jaguar",
+     "referencia": "Pickle Rick (T3E3)",
+     "frase": "Cerraste casi sin hablar y aun así todos entendieron que el tema estaba terminado.",
+     "apartado": "cierre"
+    }
+   ],
+   "logros": [
+    {
+     "nombre": "Primer portal",
+     "descripcion": "Completaste tu primera reunión."
+    },
+    {
+     "nombre": "Diez aventuras, cero demandas",
+     "descripcion": "Completaste 10 reuniones."
+    },
+    {
+     "nombre": "Credencial del Consejo de Ricks",
+     "descripcion": "Completaste 50 reuniones."
+    },
+    {
+     "nombre": "Interrogatorio nivel Cornvelious",
+     "descripcion": "Hiciste 10 o más preguntas en una sola reunión."
+    }
+   ]
+  }
+ },
+ {
+  "id": "senoranillos",
+  "nombre": "El Señor de los Anillos",
+  "emoji": "💍",
+  "xp": "lembas",
+  "idioma": "es",
+  "descripcion": "Solo personajes canónicos de los libros y películas de El Señor de los Anillos.",
+  "version": "458c463af6",
+  "bytes": 13370,
+  "estilo": {
+   "modo": "claro",
+   "fondo": "#ece0bf",
+   "fondo2": "#d6c08f",
+   "panel": "rgba(255,251,238,0.55)",
+   "texto": "#33240f",
+   "suave": "#6f5a3c",
+   "linea": "rgba(51,36,15,0.28)",
+   "acento": "#9b2c1f",
+   "acento2": "#3e5b34",
+   "fuente": "Herculanum",
+   "peso": 400,
+   "mayusculas": false,
+   "cursiva": false,
+   "patron": "mapa",
+   "radio": 0
+  },
+  "muestra": {
+   "rangos": [
+    "Hobbit de la Comarca",
+    "Viajero de Bree",
+    "Montaraz del Norte",
+    "Miembro de la Comunidad",
+    "Jinete de Rohan",
+    "Capitán de Gondor",
+    "Consejero de Rivendel",
+    "Portador del Anillo",
+    "Rey de Gondor",
+    "Gandalf el Blanco"
+   ],
+   "iconos_rangos": [
+    "🏡",
+    "🍺",
+    "🏹",
+    "🤝",
+    "🐎",
+    "🛡️",
+    "🧝",
+    "💍",
+    "👑",
+    "🧙"
+   ],
+   "elogio": "¡Digno de un rey de Gondor!",
+   "arquetipos": [
+    {
+     "nombre": "Faramir",
+     "referencia": "Las dos torres",
+     "frase": "Hablaste con calma y criterio. El capitán que todos entienden.",
+     "apartado": "claridad"
+    },
+    {
+     "nombre": "Frodo Bolsón",
+     "referencia": "La Comunidad del Anillo",
+     "frase": "Escuchaste a Gandalf con atención y entendiste la carga.",
+     "apartado": "escucha"
+    },
+    {
+     "nombre": "Bilbo Bolsón",
+     "referencia": "La Comunidad del Anillo",
+     "frase": "Acertijos en la oscuridad: tus preguntas descolocaron a todos.",
+     "apartado": "preguntas"
+    },
+    {
+     "nombre": "Aragorn",
+     "referencia": "El retorno del Rey",
+     "frase": "Plan claro hacia la Puerta Negra. Todos sabían su lugar.",
+     "apartado": "cierre"
+    }
+   ],
+   "logros": [
+    {
+     "nombre": "Paso fuera de la Comarca",
+     "descripcion": "Completaste tu primera reunión."
+    },
+    {
+     "nombre": "Llegaste a Bree",
+     "descripcion": "Completaste 10 reuniones."
+    },
+    {
+     "nombre": "Resististe en el Abismo",
+     "descripcion": "Completaste 50 reuniones."
+    },
+    {
+     "nombre": "¿Qué tengo en mi bolsillo?",
+     "descripcion": "Hiciste 10 o más preguntas en una sola reunión."
+    }
+   ]
+  }
+ },
+ {
+  "id": "shrek",
+  "nombre": "Shrek",
+  "emoji": "🧅",
+  "xp": "capas de cebolla",
+  "idioma": "es",
+  "descripcion": "Solo personajes de las películas de Shrek y de El Gato con Botas.",
+  "version": "4c82d58fce",
+  "bytes": 12753,
+  "estilo": {
+   "modo": "claro",
+   "fondo": "#f1f6e2",
+   "fondo2": "#d9e7b4",
+   "panel": "rgba(255,255,255,0.72)",
+   "texto": "#1e2a12",
+   "suave": "#5d6b47",
+   "linea": "rgba(78,122,18,0.22)",
+   "acento": "#7BB32E",
+   "acento2": "#8B5A2B",
+   "fuente": "Marker Felt",
+   "peso": 700,
+   "mayusculas": false,
+   "cursiva": false,
+   "patron": "pantano",
+   "radio": 14
+  },
+  "muestra": {
+   "rangos": [
+    "Vecino del pantano",
+    "Aldeano de Duloc",
+    "Caballero de Farquaad",
+    "Escudero del Gato",
+    "Compañero de viaje de Burro",
+    "Rescatista de la torre",
+    "Invitado de Muy Muy Lejano",
+    "Héroe de Muy Muy Lejano",
+    "Ogro con capas",
+    "Rey del Pantano"
+   ],
+   "iconos_rangos": [
+    "🐸",
+    "🏘️",
+    "🛡️",
+    "🐈",
+    "🐴",
+    "🏰",
+    "🎟️",
+    "⚔️",
+    "🧅",
+    "👑"
+   ],
+   "elogio": "¡Como Shrek: muchas capas de talento!",
+   "arquetipos": [
+    {
+     "nombre": "Fiona",
+     "referencia": "Shrek (2001)",
+     "frase": "Como Fiona: directa, firme y sin rodeos.",
+     "apartado": "claridad"
+    },
+    {
+     "nombre": "Dragona",
+     "referencia": "Shrek (2001)",
+     "frase": "Como Dragona: sin palabras, pero entendiste a Burro.",
+     "apartado": "escucha"
+    },
+    {
+     "nombre": "Reina Lillian",
+     "referencia": "Shrek 2 (2004)",
+     "frase": "Como la Reina Lillian: preguntas sabias y con calma.",
+     "apartado": "preguntas"
+    },
+    {
+     "nombre": "Rumpelstiltskin",
+     "referencia": "Shrek para siempre (2010)",
+     "frase": "Contrato de Rumpelstiltskin: firmado, con fecha y cláusulas.",
+     "apartado": "cierre"
+    }
+   ],
+   "logros": [
+    {
+     "nombre": "Saliste del pantano",
+     "descripcion": "Registraste tu primera reunión."
+    },
+    {
+     "nombre": "Vecino de Duloc",
+     "descripcion": "Registraste 10 reuniones."
+    },
+    {
+     "nombre": "Rescate en la torre",
+     "descripcion": "Registraste 50 reuniones."
+    },
+    {
+     "nombre": "¿Ya llegamos?",
+     "descripcion": "Hiciste 10 o más preguntas en una sola reunión."
+    }
+   ]
+  }
+ },
+ {
+  "id": "simpsons",
+  "nombre": "Los Simpson",
+  "emoji": "🍩",
+  "xp": "donas",
+  "idioma": "es",
+  "descripcion": "Solo personajes de Springfield en Los Simpson, con sus nombres del doblaje latino.",
+  "version": "8edd712734",
+  "bytes": 12276,
+  "estilo": {
+   "modo": "claro",
+   "fondo": "#fff8d1",
+   "fondo2": "#d6f0ff",
+   "panel": "rgba(255,255,255,0.8)",
+   "texto": "#1d1d1d",
+   "suave": "#5f6b73",
+   "linea": "rgba(31,95,191,0.18)",
+   "acento": "#FED90F",
+   "acento2": "#70D1FE",
+   "fuente": "Chalkboard SE",
+   "peso": 700,
+   "mayusculas": false,
+   "cursiva": false,
+   "patron": "nubes",
+   "radio": 18
+  },
+  "muestra": {
+   "rangos": [
+    "Alumno de la Primaria",
+    "Cliente del Kwik-E-Mart",
+    "Parroquiano de Moe",
+    "Inspector del Sector 7G",
+    "Vecinirijillo ejemplar",
+    "Conductor del Monorriel",
+    "Alcalde de Springfield",
+    "Mano derecha de Burns",
+    "Dueño de la Planta Nuclear",
+    "Leyenda de Springfield"
+   ],
+   "iconos_rangos": [
+    "🎒",
+    "🏪",
+    "🍺",
+    "☢️",
+    "👋",
+    "🚝",
+    "🎩",
+    "🤝",
+    "🏭",
+    "🌟"
+   ],
+   "elogio": "¡Excelente! Springfield te aplaude.",
+   "arquetipos": [
+    {
+     "nombre": "Kent Brockman",
+     "referencia": "Los Simpson",
+     "frase": "Lo dijiste con el aplomo de Kent Brockman en el noticiero.",
+     "apartado": "claridad"
+    },
+    {
+     "nombre": "Lisa Simpson",
+     "referencia": "Los Simpson",
+     "frase": "Atento como Lisa en clase, tomando nota de todo.",
+     "apartado": "escucha"
+    },
+    {
+     "nombre": "Martin Prince",
+     "referencia": "Los Simpson",
+     "frase": "Preguntas aplicadas de Martin: la profe te pondría estrellita.",
+     "apartado": "preguntas"
+    },
+    {
+     "nombre": "Waylon Smithers",
+     "referencia": "Los Simpson",
+     "frase": "Como Smithers: dejaste cada tarea anotada y lista.",
+     "apartado": "cierre"
+    }
+   ],
+   "logros": [
+    {
+     "nombre": "¡Woo-hoo!",
+     "descripcion": "Registraste tu primera reunión."
+    },
+    {
+     "nombre": "Habitué de lo de Moe",
+     "descripcion": "Registraste 10 reuniones."
+    },
+    {
+     "nombre": "Empleado del mes",
+     "descripcion": "Registraste 50 reuniones."
+    },
+    {
+     "nombre": "¿Ya llegamos?",
+     "descripcion": "Hiciste 10 o más preguntas en una sola reunión."
+    }
+   ]
+  }
+ },
+ {
+  "id": "starwars",
+  "nombre": "Star Wars",
+  "emoji": "🌌",
+  "xp": "midiclorianos",
+  "idioma": "es",
+  "descripcion": "Solo personajes canónicos de las películas de Star Wars (Episodios I al IX).",
+  "version": "799348217d",
+  "bytes": 13917,
+  "estilo": {
+   "modo": "oscuro",
+   "fondo": "#05070d",
+   "fondo2": "#0c1224",
+   "panel": "rgba(255,255,255,0.045)",
+   "texto": "#e8ecf4",
+   "suave": "#8a93a6",
+   "linea": "rgba(255,232,31,0.16)",
+   "acento": "#FFE81F",
+   "acento2": "#4FC3F7",
+   "fuente": "Avenir Next Condensed",
+   "peso": 800,
+   "mayusculas": true,
+   "cursiva": false,
+   "patron": "estrellas",
+   "radio": 0
+  },
+  "muestra": {
+   "rangos": [
+    "Granjero de humedad",
+    "Iniciado",
+    "Padawan",
+    "Piloto del Escuadrón Rojo",
+    "Caballero Jedi",
+    "General de la República",
+    "Maestro Jedi",
+    "Miembro del Consejo Jedi",
+    "Gran Maestro",
+    "Uno con la Fuerza"
+   ],
+   "iconos_rangos": [
+    "💧",
+    "🌱",
+    "🧒",
+    "🛩️",
+    "⚔️",
+    "🎖️",
+    "🧘",
+    "🏛️",
+    "🐸",
+    "✨"
+   ],
+   "elogio": "Fuerte es la Fuerza en ti, joven padawan.",
+   "arquetipos": [
+    {
+     "nombre": "Mon Mothma",
+     "referencia": "Episodio VI: El retorno del Jedi",
+     "frase": "Briefing rebelde de manual: el plan quedó clarito para la flota.",
+     "apartado": "claridad"
+    },
+    {
+     "nombre": "Qui-Gon Jinn",
+     "referencia": "Episodio I: La amenaza fantasma",
+     "frase": "Escuchaste el momento presente. La Fuerza viva aprueba.",
+     "apartado": "escucha"
+    },
+    {
+     "nombre": "Qui-Gon Jinn",
+     "referencia": "Episodio I: La amenaza fantasma",
+     "frase": "Preguntaste por los midiclorianos y descubriste al Elegido.",
+     "apartado": "preguntas"
+    },
+    {
+     "nombre": "Mon Mothma",
+     "referencia": "Episodio VI: El retorno del Jedi",
+     "frase": "Plan claro y equipos asignados. Muchos Bothans quedaron tranquilos.",
+     "apartado": "cierre"
+    }
+   ],
+   "logros": [
+    {
+     "nombre": "Una nueva esperanza",
+     "descripcion": "Completaste tu primera reunión."
+    },
+    {
+     "nombre": "Padawan constante",
+     "descripcion": "Completaste 10 reuniones."
+    },
+    {
+     "nombre": "Veterano de Hoth",
+     "descripcion": "Completaste 50 reuniones."
+    },
+    {
+     "nombre": "Curioso como un Ewok",
+     "descripcion": "Hiciste 10 o más preguntas en una sola reunión."
+    }
+   ]
+  }
+ },
+ {
+  "id": "toystory",
+  "nombre": "Toy Story",
+  "emoji": "🤠",
+  "xp": "pilas",
+  "idioma": "es",
+  "descripcion": "cualquier juguete o personaje canónico de las películas de Toy Story",
+  "version": "f4e23236ac",
+  "bytes": 12543,
+  "estilo": {
+   "modo": "claro",
+   "fondo": "#e6f3ff",
+   "fondo2": "#ffffff",
+   "panel": "rgba(255,255,255,0.85)",
+   "texto": "#1a2433",
+   "suave": "#5b6b80",
+   "linea": "rgba(58,134,255,0.2)",
+   "acento": "#3A86FF",
+   "acento2": "#8AC926",
+   "fuente": "ui-rounded",
+   "peso": 800,
+   "mayusculas": false,
+   "cursiva": false,
+   "patron": "nubes",
+   "radio": 18
+  },
+  "muestra": {
+   "rangos": [
+    "Juguete en la caja",
+    "Sala Oruga de Sunnyside",
+    "Juguete del baúl",
+    "Soldado verde",
+    "Juguete de la repisa",
+    "Guardián Espacial",
+    "Juguete favorito de Andy",
+    "Estrella del Rodeo de Woody",
+    "Juguete libre como Bo",
+    "Al infinito y más allá"
+   ],
+   "iconos_rangos": [
+    "📦",
+    "🐛",
+    "🧳",
+    "🪖",
+    "🧸",
+    "🛸",
+    "⭐",
+    "🤠",
+    "🐑",
+    "🚀"
+   ],
+   "elogio": "¡Al infinito y más allá!",
+   "arquetipos": [
+    {
+     "nombre": "Bo Peep",
+     "referencia": "Toy Story 4",
+     "frase": "Directa, segura y sin vueltas. Sabías a dónde ibas.",
+     "apartado": "claridad"
+    },
+    {
+     "nombre": "Slinky",
+     "referencia": "Toy Story",
+     "frase": "Leal y paciente: estiraste la escucha lo que hiciera falta.",
+     "apartado": "escucha"
+    },
+    {
+     "nombre": "Hamm",
+     "referencia": "Toy Story 2",
+     "frase": "Preguntas cínicas que igual encontraron el dato clave.",
+     "apartado": "preguntas"
+    },
+    {
+     "nombre": "Bo Peep",
+     "referencia": "Toy Story 4",
+     "frase": "Cada juguete salió sabiendo su rol en el rescate.",
+     "apartado": "cierre"
+    }
+   ],
+   "logros": [
+    {
+     "nombre": "Recién salido de la caja",
+     "descripcion": "Analizaste tu primera reunión."
+    },
+    {
+     "nombre": "Juguete con experiencia",
+     "descripcion": "Llegaste a 10 reuniones analizadas."
+    },
+    {
+     "nombre": "Sobreviviente de Sunnyside",
+     "descripcion": "Llegaste a 50 reuniones analizadas."
+    },
+    {
+     "nombre": "Interrogatorio de Hamm",
+     "descripcion": "Hiciste 10 o más preguntas en una sola reunión."
+    }
+   ]
+  }
+ }
+]
