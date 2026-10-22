@@ -10,14 +10,14 @@
   "codigo": "fr",
   "nombre": "Français",
   "bandera": "🇫🇷",
-  "textos": 553,
-  "version": "5d0e3d1dd0"
+  "textos": 659,
+  "version": "bc5b14caa6"
  },
  {
   "codigo": "pt",
   "nombre": "Português",
   "bandera": "🇧🇷",
-  "textos": 553,
-  "version": "5f19085b3a"
+  "textos": 659,
+  "version": "1f3f315521"
  }
 ]
