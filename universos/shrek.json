@@ -3,6 +3,11 @@
  "nombre": "Shrek",
  "emoji": "🧅",
  "xp": "capas de cebolla",
+ "categorias": [
+  "Películas",
+  "Animación",
+  "Comedia"
+ ],
  "personaje_por_defecto": "Solo personajes de las películas de Shrek y de El Gato con Botas.",
  "elogios": [
   "¡Como Shrek: muchas capas de talento!",

@@ -3,6 +3,12 @@
  "nombre": "Los Simpson",
  "emoji": "🍩",
  "xp": "donas",
+ "categorias": [
+  "Series",
+  "Animación",
+  "Comedia",
+  "Clásicos"
+ ],
  "personaje_por_defecto": "Solo personajes de Springfield en Los Simpson, con sus nombres del doblaje latino.",
  "elogios": [
   "¡Excelente! Springfield te aplaude.",

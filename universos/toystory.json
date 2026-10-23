@@ -3,6 +3,10 @@
  "nombre": "Toy Story",
  "emoji": "🤠",
  "xp": "pilas",
+ "categorias": [
+  "Películas",
+  "Animación"
+ ],
  "personaje_por_defecto": "cualquier juguete o personaje canónico de las películas de Toy Story",
  "elogios": [
   "¡Al infinito y más allá!",

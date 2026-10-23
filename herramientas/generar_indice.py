@@ -13,7 +13,10 @@ import sys
 RAIZ = os.path.dirname(os.path.dirname(os.path.abspath(__file__)))
 APARTADOS = ["claridad", "escucha", "preguntas", "cierre"]
 CLAVES = {"id", "nombre", "emoji", "xp", "personaje_por_defecto", "elogios", "apartados", "rangos", "logros",
-          "iconos_logros", "iconos_apartados", "iconos_rangos", "estilo", "idioma", "autor", "descripcion"}
+          "iconos_logros", "iconos_apartados", "iconos_rangos", "estilo", "idioma", "autor", "descripcion", "categorias"}
+#: Categorías para ordenar y buscar en la galería (un universo puede tener varias; la app las traduce).
+CATEGORIAS = ["Películas", "Series", "Anime", "Animación", "Superhéroes", "Fantasía", "Ciencia ficción", "Clásicos",
+              "Aventura", "Comedia", "Videojuegos", "Autos", "Deportes", "Música", "Libros"]
 
 
 def validar_universo(d, archivo):
@@ -30,6 +33,9 @@ def validar_universo(d, archivo):
     for a in APARTADOS:
         if len(d.get("apartados", {}).get(a, [])) != 10:
             errores.append(f"apartado {a}: deben ser 10 arquetipos")
+    cats = d.get("categorias", [])
+    if not isinstance(cats, list) or not 1 <= len(cats) <= 4 or any(c not in CATEGORIAS for c in cats):
+        errores.append(f"categorias: entre 1 y 4 de {CATEGORIAS}")
     if not isinstance(d.get("estilo"), dict):
         errores.append("falta 'estilo'")
     texto = json.dumps(d, ensure_ascii=False)
@@ -55,6 +61,7 @@ def main():
         e = d["estilo"]
         indice.append({
             "id": d["id"], "nombre": d["nombre"], "emoji": d["emoji"], "xp": d["xp"], "idioma": d.get("idioma", "es"),
+            "categorias": d.get("categorias", []), **({"autor": d["autor"]} if d.get("autor") else {}),
             "descripcion": d.get("descripcion") or d.get("personaje_por_defecto", ""),
             "version": hashlib.sha1(crudo).hexdigest()[:10], "bytes": len(crudo),
             "estilo": {k: e.get(k) for k in ("modo", "fondo", "fondo2", "panel", "texto", "suave", "linea", "acento", "acento2",

@@ -5,9 +5,13 @@
   "emoji": "🎬",
   "xp": "XP",
   "idioma": "es",
+  "categorias": [
+   "Películas",
+   "Clásicos"
+  ],
   "descripcion": "cualquier personaje de película conocida",
-  "version": "f753afda95",
-  "bytes": 12325,
+  "version": "8341582346",
+  "bytes": 12376,
   "estilo": {
    "modo": "oscuro",
    "fondo": "#101010",
@@ -103,9 +107,14 @@
   "emoji": "🦾",
   "xp": "eddies",
   "idioma": "es",
+  "categorias": [
+   "Anime",
+   "Ciencia ficción",
+   "Videojuegos"
+  ],
   "descripcion": "Solo personajes canónicos de Cyberpunk: Edgerunners y Cyberpunk 2077 (incluido Phantom Liberty).",
-  "version": "6caae72ba7",
-  "bytes": 14752,
+  "version": "b00ca8ef91",
+  "bytes": 14822,
   "estilo": {
    "modo": "oscuro",
    "fondo": "#08060f",
@@ -201,9 +210,14 @@
   "emoji": "🐉",
   "xp": "ki",
   "idioma": "es",
+  "categorias": [
+   "Anime",
+   "Clásicos",
+   "Aventura"
+  ],
   "descripcion": "Solo personajes canónicos de Dragon Ball, Dragon Ball Z y Dragon Ball Super, con nombres del doblaje latino.",
-  "version": "89a3d08ccb",
-  "bytes": 14016,
+  "version": "f22fae38f7",
+  "bytes": 14076,
   "estilo": {
    "modo": "claro",
    "fondo": "#fff6ea",
@@ -299,9 +313,13 @@
   "emoji": "🐉",
   "xp": "dragones de oro",
   "idioma": "es",
+  "categorias": [
+   "Series",
+   "Fantasía"
+  ],
   "descripcion": "Solo personajes de la serie Game of Thrones (HBO), de Poniente y Essos.",
-  "version": "bbd461a2c6",
-  "bytes": 12875,
+  "version": "4df9b53540",
+  "bytes": 12922,
   "estilo": {
    "modo": "oscuro",
    "fondo": "#0b0e11",
@@ -397,9 +415,14 @@
   "emoji": "⚡",
   "xp": "puntos para tu casa",
   "idioma": "es",
+  "categorias": [
+   "Películas",
+   "Fantasía",
+   "Libros"
+  ],
   "descripcion": "Solo personajes canónicos de los siete libros y ocho películas de Harry Potter.",
-  "version": "90de68033c",
-  "bytes": 14156,
+  "version": "1991f8e8dc",
+  "bytes": 14219,
   "estilo": {
    "modo": "oscuro",
    "fondo": "#170d0d",
@@ -495,9 +518,13 @@
   "emoji": "🛡️",
   "xp": "energía del reactor Arc",
   "idioma": "es",
+  "categorias": [
+   "Películas",
+   "Superhéroes"
+  ],
   "descripcion": "Solo personajes canónicos del Universo Cinematográfico de Marvel ligados a los Vengadores.",
-  "version": "c2e4a7f719",
-  "bytes": 13537,
+  "version": "6f4ee21e22",
+  "bytes": 13591,
   "estilo": {
    "modo": "oscuro",
    "fondo": "#0c0c0f",
@@ -593,9 +620,13 @@
   "emoji": "🏴‍☠️",
   "xp": "doblones",
   "idioma": "es",
+  "categorias": [
+   "Películas",
+   "Aventura"
+  ],
   "descripcion": "cualquier personaje canónico de la saga Piratas del Caribe",
-  "version": "c4559a9af7",
-  "bytes": 13023,
+  "version": "d51557ec84",
+  "bytes": 13073,
   "estilo": {
    "modo": "oscuro",
    "fondo": "#0c1315",
@@ -691,9 +722,14 @@
   "emoji": "⚡",
   "xp": "caramelos raros",
   "idioma": "es",
+  "categorias": [
+   "Anime",
+   "Videojuegos",
+   "Aventura"
+  ],
   "descripcion": "Solo personajes y Pokémon canónicos del anime clásico de Ash (Kanto, Islas Naranja y Johto) y sus películas.",
-  "version": "39518eae79",
-  "bytes": 14547,
+  "version": "57ad62611c",
+  "bytes": 14609,
   "estilo": {
    "modo": "oscuro",
    "fondo": "#0b1220",
@@ -789,9 +825,13 @@
   "emoji": "🏎️",
   "xp": "nitro",
   "idioma": "es",
+  "categorias": [
+   "Películas",
+   "Autos"
+  ],
   "descripcion": "Solo personajes canónicos de la saga Rápido y Furioso (películas principales y Hobbs & Shaw).",
-  "version": "9dbb77d953",
-  "bytes": 13976,
+  "version": "50162760ea",
+  "bytes": 14023,
   "estilo": {
    "modo": "oscuro",
    "fondo": "#090909",
@@ -887,9 +927,15 @@
   "emoji": "🛸",
   "xp": "schwiftys",
   "idioma": "es",
+  "categorias": [
+   "Series",
+   "Animación",
+   "Ciencia ficción",
+   "Comedia"
+  ],
   "descripcion": "Solo personajes canónicos de la serie Rick and Morty (temporadas 1 a 7), incluidas sus variantes del multiverso.",
-  "version": "edafdc27a2",
-  "bytes": 15595,
+  "version": "c27270620a",
+  "bytes": 15678,
   "estilo": {
    "modo": "oscuro",
    "fondo": "#070a07",
@@ -985,9 +1031,15 @@
   "emoji": "💍",
   "xp": "lembas",
   "idioma": "es",
+  "categorias": [
+   "Películas",
+   "Fantasía",
+   "Libros",
+   "Clásicos"
+  ],
   "descripcion": "Solo personajes canónicos de los libros y películas de El Señor de los Anillos.",
-  "version": "458c463af6",
-  "bytes": 13370,
+  "version": "18028be19b",
+  "bytes": 13448,
   "estilo": {
    "modo": "claro",
    "fondo": "#ece0bf",
@@ -1083,9 +1135,14 @@
   "emoji": "🧅",
   "xp": "capas de cebolla",
   "idioma": "es",
+  "categorias": [
+   "Películas",
+   "Animación",
+   "Comedia"
+  ],
   "descripcion": "Solo personajes de las películas de Shrek y de El Gato con Botas.",
-  "version": "4c82d58fce",
-  "bytes": 12753,
+  "version": "2d3ab43cbb",
+  "bytes": 12818,
   "estilo": {
    "modo": "claro",
    "fondo": "#f1f6e2",
@@ -1181,9 +1238,15 @@
   "emoji": "🍩",
   "xp": "donas",
   "idioma": "es",
+  "categorias": [
+   "Series",
+   "Animación",
+   "Comedia",
+   "Clásicos"
+  ],
   "descripcion": "Solo personajes de Springfield en Los Simpson, con sus nombres del doblaje latino.",
-  "version": "8edd712734",
-  "bytes": 12276,
+  "version": "0dbe9daef2",
+  "bytes": 12352,
   "estilo": {
    "modo": "claro",
    "fondo": "#fff8d1",
@@ -1279,9 +1342,14 @@
   "emoji": "🌌",
   "xp": "midiclorianos",
   "idioma": "es",
+  "categorias": [
+   "Películas",
+   "Ciencia ficción",
+   "Clásicos"
+  ],
   "descripcion": "Solo personajes canónicos de las películas de Star Wars (Episodios I al IX).",
-  "version": "799348217d",
-  "bytes": 13917,
+  "version": "cc06433a8b",
+  "bytes": 13990,
   "estilo": {
    "modo": "oscuro",
    "fondo": "#05070d",
@@ -1377,9 +1445,13 @@
   "emoji": "🤠",
   "xp": "pilas",
   "idioma": "es",
+  "categorias": [
+   "Películas",
+   "Animación"
+  ],
   "descripcion": "cualquier juguete o personaje canónico de las películas de Toy Story",
-  "version": "f4e23236ac",
-  "bytes": 12543,
+  "version": "f2d39cb82f",
+  "bytes": 12595,
   "estilo": {
    "modo": "claro",
    "fondo": "#e6f3ff",

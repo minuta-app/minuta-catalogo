@@ -3,6 +3,12 @@
  "nombre": "El Señor de los Anillos",
  "emoji": "💍",
  "xp": "lembas",
+ "categorias": [
+  "Películas",
+  "Fantasía",
+  "Libros",
+  "Clásicos"
+ ],
  "personaje_por_defecto": "Solo personajes canónicos de los libros y películas de El Señor de los Anillos.",
  "elogios": [
   "¡Digno de un rey de Gondor!",

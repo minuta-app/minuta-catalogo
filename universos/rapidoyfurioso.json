@@ -3,6 +3,10 @@
  "nombre": "Rápido y Furioso",
  "emoji": "🏎️",
  "xp": "nitro",
+ "categorias": [
+  "Películas",
+  "Autos"
+ ],
  "personaje_por_defecto": "Solo personajes canónicos de la saga Rápido y Furioso (películas principales y Hobbs & Shaw).",
  "elogios": [
   "¡Pura familia y nitro a fondo!",

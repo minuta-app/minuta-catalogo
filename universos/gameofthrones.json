@@ -3,6 +3,10 @@
  "nombre": "Game of Thrones",
  "emoji": "🐉",
  "xp": "dragones de oro",
+ "categorias": [
+  "Series",
+  "Fantasía"
+ ],
  "personaje_por_defecto": "Solo personajes de la serie Game of Thrones (HBO), de Poniente y Essos.",
  "elogios": [
   "¡Digno del Trono de Hierro!",

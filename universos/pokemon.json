@@ -3,6 +3,11 @@
  "nombre": "Pokémon",
  "emoji": "⚡",
  "xp": "caramelos raros",
+ "categorias": [
+  "Anime",
+  "Videojuegos",
+  "Aventura"
+ ],
  "personaje_por_defecto": "Solo personajes y Pokémon canónicos del anime clásico de Ash (Kanto, Islas Naranja y Johto) y sus películas.",
  "elogios": [
   "¡Felicitaciones! Tu reunión evolucionó: esto ya es un Charizard.",

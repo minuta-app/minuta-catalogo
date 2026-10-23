@@ -3,6 +3,11 @@
  "nombre": "Cyberpunk: Edgerunners",
  "emoji": "🦾",
  "xp": "eddies",
+ "categorias": [
+  "Anime",
+  "Ciencia ficción",
+  "Videojuegos"
+ ],
  "personaje_por_defecto": "Solo personajes canónicos de Cyberpunk: Edgerunners y Cyberpunk 2077 (incluido Phantom Liberty).",
  "elogios": [
   "Eso fue puro cromo, choom. Night City entera te escuchó.",

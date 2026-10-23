@@ -3,6 +3,11 @@
  "nombre": "Dragon Ball",
  "emoji": "🐉",
  "xp": "ki",
+ "categorias": [
+  "Anime",
+  "Clásicos",
+  "Aventura"
+ ],
  "personaje_por_defecto": "Solo personajes canónicos de Dragon Ball, Dragon Ball Z y Dragon Ball Super, con nombres del doblaje latino.",
  "elogios": [
   "¡Tu ki es de más de 8000!",

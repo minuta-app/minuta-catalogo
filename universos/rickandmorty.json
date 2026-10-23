@@ -3,6 +3,12 @@
  "nombre": "Rick and Morty",
  "emoji": "🛸",
  "xp": "schwiftys",
+ "categorias": [
+  "Series",
+  "Animación",
+  "Ciencia ficción",
+  "Comedia"
+ ],
  "personaje_por_defecto": "Solo personajes canónicos de la serie Rick and Morty (temporadas 1 a 7), incluidas sus variantes del multiverso.",
  "elogios": [
   "Esa reunión estuvo schwifty. Wubba lubba dub dub.",

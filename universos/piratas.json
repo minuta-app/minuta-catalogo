@@ -3,6 +3,10 @@
  "nombre": "Piratas del Caribe",
  "emoji": "🏴‍☠️",
  "xp": "doblones",
+ "categorias": [
+  "Películas",
+  "Aventura"
+ ],
  "personaje_por_defecto": "cualquier personaje canónico de la saga Piratas del Caribe",
  "elogios": [
   "¡Botín completo, capitán!",
