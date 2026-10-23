@@ -1,0 +1,8 @@
+blank_issues_enabled: true
+contact_links:
+  - name: 💬 Conversar con la comunidad de Minuta
+    url: https://github.com/minuta-app/minuta/discussions
+    about: Preguntas, ideas y lo que armaste. / Questions, ideas and what you built.
+  - name: 🐞 Algo falla en la app
+    url: https://github.com/minuta-app/minuta/issues/new/choose
+    about: Errores e ideas de la app van en el repo principal. / App bugs and ideas go to the main repo.

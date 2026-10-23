@@ -1,0 +1,14 @@
+name: 🌍 Traducción / Translation
+description: Pedir un idioma o corregir una traducción. / Request a language or fix a translation.
+labels: [idioma]
+body:
+  - type: input
+    id: idioma
+    attributes:
+      label: Idioma / Language
+    validations: { required: true }
+  - type: textarea
+    id: detalle
+    attributes:
+      label: ¿Qué falta o qué está mal? / What's missing or wrong?
+      description: Si es una corrección, pega el texto actual y cómo debería decir.

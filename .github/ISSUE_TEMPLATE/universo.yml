@@ -1,0 +1,15 @@
+name: 🌌 Pedir o comentar un universo / Request or comment on a universe
+description: Lo más fácil es crearlo en la app (Universos → Crear universo) y proponerlo con 📤. Si no, cuéntanos aquí. / Easiest: create it in the app and propose it with 📤.
+labels: [universo]
+body:
+  - type: input
+    id: cual
+    attributes:
+      label: ¿Qué universo? / Which universe?
+      placeholder: ej. The Office, Mundial 2026, Studio Ghibli
+    validations: { required: true }
+  - type: textarea
+    id: idea
+    attributes:
+      label: ¿Qué te gustaría? / What would you like?
+      description: Personajes, rangos, logros, frases… Solo homenajes breves de fans, sin datos de nadie.
