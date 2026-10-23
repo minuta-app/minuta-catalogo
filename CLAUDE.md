@@ -12,3 +12,5 @@ El proyecto principal (y su `CLAUDE.md` con la arquitectura y los agentes) está
 
 Reglas: nada personal del usuario ni de su trabajo (es público); universos como homenajes breves de fans; nunca código ni HTML en los JSON.
 Commits en español, autor con correo `@users.noreply.github.com`.
+- **Propuestas desde la app:** issues con la etiqueta `propuesta` y un bloque ```json. `herramientas/importar_propuesta.py <n>` valida, pone
+  `autor` y guarda `universos/<id>.json`; revísalo a mano (nada personal, homenaje breve), regenera índices, crea su issue de votos y cierra la propuesta.

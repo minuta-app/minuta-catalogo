@@ -13,8 +13,9 @@ archivos directamente desde GitHub y **solo acepta datos JSON** que pasan una va
 
 ## Aportar
 
-- **Un universo nuevo:** créalo desde Minuta (Galería → Crear universo), copia el archivo de `~/minuta/temas/<id>.json` a
-  `universos/`, quita las claves `creado`, `pedido` e `indicaciones`, corre `python3 herramientas/generar_indice.py` y abre un pull request.
+- **Un universo nuevo:** créalo desde Minuta (Galería → Crear universo) y tócale 📤 para proponerlo: llega como un issue con la
+  etiqueta `propuesta` (con tu cuenta de GitHub si la conectaste en Minuta, o abriendo GitHub con todo listo). Lo revisamos y lo sumamos
+  con `python3 herramientas/importar_propuesta.py <número>`, con tu usuario como autor. También puedes abrir un pull request a mano.
 - **Un idioma nuevo:** `python3 herramientas/traducir_idioma.py <codigo> "<Nombre>" "<bandera>"`, revisa el resultado y corre el generador de índices.
 - **Errores e ideas:** abre un issue (desde Minuta: ⋯ → Enviar comentarios).
 
@@ -23,4 +24,4 @@ y personajes pertenecen a sus dueños.
 
 ## Votar universos
 
-Cada universo tiene un [issue de votos](https://github.com/minuta-app/minuta-catalogo/issues?q=label%3Avotos): reacciona con 👍 o 👎. Minuta muestra los votos en la galería y ordena los universos por descargar según lo que más le gusta a la comunidad.
+Cada universo tiene un [issue de votos](https://github.com/minuta-app/minuta-catalogo/issues?q=label%3Avotos): reacciona con 👍 o 👎 (o vota desde la vista previa en Minuta si conectaste tu GitHub). Minuta muestra los votos en la galería y ordena los universos por descargar según lo que más le gusta a la comunidad.
