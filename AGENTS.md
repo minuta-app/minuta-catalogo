@@ -12,5 +12,6 @@ El proyecto principal (y su `AGENTS.md`, la guía para personas y para cualquier
 
 Reglas: nada personal del usuario ni de su trabajo (es público); universos como homenajes breves de fans; nunca código ni HTML en los JSON.
 Commits en español, autor con correo `@users.noreply.github.com`.
+Revisión de pull requests de la comunidad: agente `minuta-revisor` del repo `minuta` (`.claude/agents/minuta-revisor.md`); nunca se junta sin aprobación de quien mantiene.
 - **Propuestas desde la app:** issues con la etiqueta `propuesta` y un bloque ```json. `herramientas/importar_propuesta.py <n>` valida, pone
   `autor` y guarda `universos/<id>.json`; revísalo a mano (nada personal, homenaje breve), regenera índices, crea su issue de votos y cierra la propuesta.
