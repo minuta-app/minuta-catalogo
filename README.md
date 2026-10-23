@@ -1,6 +1,6 @@
 # Catálogo de Minuta
 
-Universos e idiomas que [Minuta](https://github.com/soydavidcornejo) descarga a pedido. Sin servidores: la app lee estos
+Universos e idiomas que [Minuta](https://github.com/minuta-app/minuta) descarga a pedido. Sin servidores: la app lee estos
 archivos directamente desde GitHub y **solo acepta datos JSON** que pasan una validación (nunca código).
 
 ## Qué hay
