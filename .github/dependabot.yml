@@ -1,0 +1,11 @@
+# Dependabot: propone (nunca junta solo) actualizaciones de las actions de GitHub, con 7 días de espera desde que sale una versión.
+version: 2
+updates:
+  - package-ecosystem: "github-actions"
+    directory: "/"
+    schedule:
+      interval: "weekly"
+    cooldown:
+      default-days: 7
+    commit-message:
+      prefix: "Dependencias"

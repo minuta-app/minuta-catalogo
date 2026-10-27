@@ -19,9 +19,12 @@ Todo entra por pull request y lo junta alguien que mantiene el proyecto. Revisam
 nada personal ni copiado, y en los idiomas pedimos que una persona que hable el idioma revise la traducción antes de juntarla.
 Si algo falta te lo pedimos con un comentario.
 
+**Fallas de seguridad:** nunca en un issue público; avísanos en privado como explica [SECURITY.md](SECURITY.md).
+
 ---
 
 **English:** universes and languages are data-only JSON. Create a universe in the app and propose it with 📤, or open a pull request
 with `universos/<id>.json` after running `python3 herramientas/generar_indice.py`. For languages, use `herramientas/traducir_idioma.py`
 and review the result by hand (keep brand names and `{n}`/`{x}`). A maintainer reviews every pull request; translations also get a
 review from a native speaker.
+Security issues: report them privately, see [SECURITY.md](SECURITY.md).

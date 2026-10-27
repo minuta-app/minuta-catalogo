@@ -25,3 +25,5 @@ y personajes pertenecen a sus dueños.
 ## Votar universos
 
 Cada universo tiene un [issue de votos](https://github.com/minuta-app/minuta-catalogo/issues?q=label%3Avotos): reacciona con 👍 o 👎 (o vota desde la vista previa en Minuta si conectaste tu GitHub). Minuta muestra los votos en la galería y ordena los universos por descargar según lo que más le gusta a la comunidad.
+
+🔒 ¿Una falla de seguridad? Avísanos en privado: [SECURITY.md](SECURITY.md). · Security issues: please report them privately ([SECURITY.md](SECURITY.md)).

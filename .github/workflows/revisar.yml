@@ -1,0 +1,24 @@
+# Revisión automática de cada pull request y cambio: los universos e idiomas son solo datos válidos y los índices están al día.
+# Corre con «pull_request» (nunca «pull_request_target»): el código de un aporte corre sin secretos y con permiso de solo lectura.
+name: Revisar
+on:
+  push:
+    branches: [main]
+  pull_request:
+  workflow_dispatch:
+permissions:
+  contents: read
+jobs:
+  datos:
+    runs-on: ubuntu-24.04
+    steps:
+      - uses: actions/checkout@34e114876b0b11c390a56381ad16ebd13914f8d5 # v4.3.1
+        with: { persist-credentials: false }
+      - name: Solo archivos de datos (JSON) en universos/ e idiomas/
+        run: |
+          raros=$(git ls-files universos idiomas | grep -v '\.json$' || true)
+          [ -z "$raros" ] || { echo "Archivos que no son JSON: $raros"; exit 1; }
+      - name: Validar universos e idiomas y revisar que los índices estén al día
+        run: |
+          python3 herramientas/generar_indice.py
+          git diff --exit-code -- universos/index.json idiomas/index.json || { echo "Corre python3 herramientas/generar_indice.py y sube los índices."; exit 1; }

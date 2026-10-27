@@ -19,8 +19,46 @@ CATEGORIAS = ["Películas", "Series", "Anime", "Animación", "Superhéroes", "Fa
               "Aventura", "Comedia", "Videojuegos", "Autos", "Deportes", "Música", "Libros"]
 
 
+#: Valores de estilo que la app acepta (van a CSS): colores, fuentes y patrones conocidos.
+COLOR = re.compile(r"#[0-9a-fA-F]{3,8}|(rgb|hsl)a?\([\d\s.,%/+-]{1,60}\)|[a-zA-Z]{3,20}")
+FUENTE = re.compile(r"[\w _-]{1,40}")
+COLORES_ESTILO = ("fondo", "fondo2", "panel", "texto", "suave", "linea", "acento", "acento_texto", "acento2")
+
+
+def textos(v):
+    """Todos los textos de un universo (valores y claves), para revisarlos de una vez."""
+    if isinstance(v, str):
+        yield v
+    elif isinstance(v, list):
+        for x in v:
+            yield from textos(x)
+    elif isinstance(v, dict):
+        for k, x in v.items():
+            yield str(k)
+            yield from textos(x)
+
+
+def validar_estilo(e):
+    errores = []
+    for k in COLORES_ESTILO:
+        if k in e and not (isinstance(e[k], str) and COLOR.fullmatch(e[k].strip())):
+            errores.append(f"estilo.{k}: debe ser un color (#rrggbb o rgba(...))")
+    for k in ("radio", "peso"):
+        if k in e and (isinstance(e[k], bool) or not isinstance(e[k], (int, float))):
+            errores.append(f"estilo.{k}: debe ser un número")
+    if "fuente" in e and not (isinstance(e["fuente"], str) and FUENTE.fullmatch(e["fuente"])):
+        errores.append("estilo.fuente: solo letras, números, espacios y guiones")
+    if "modo" in e and e["modo"] not in ("claro", "oscuro"):
+        errores.append("estilo.modo: «claro» u «oscuro»")
+    if "patron" in e and not (isinstance(e["patron"], str) and re.fullmatch(r"[a-z]{1,20}", e["patron"])):
+        errores.append("estilo.patron: solo letras minúsculas")
+    return errores
+
+
 def validar_universo(d, archivo):
     errores = []
+    if not isinstance(d, dict):
+        return ["no es un objeto JSON"]
     if not re.fullmatch(r"[a-z0-9]{2,40}", str(d.get("id", ""))):
         errores.append("id inválido (solo a-z y 0-9)")
     if os.path.basename(archivo) != f"{d.get('id')}.json":
@@ -38,8 +76,14 @@ def validar_universo(d, archivo):
         errores.append(f"categorias: entre 1 y 4 de {CATEGORIAS}")
     if not isinstance(d.get("estilo"), dict):
         errores.append("falta 'estilo'")
+    else:
+        errores += validar_estilo(d["estilo"])
+    # Solo datos: la app los muestra en su interfaz, así que ningún texto puede traer HTML ni código.
+    raros = sorted({c for t in textos(d) for c in t if c in "<>`\\" or (ord(c) < 32 and c not in "\n\t")})
+    if raros:
+        errores.append(f"caracteres no permitidos en los textos: {' '.join(repr(c) for c in raros)}")
     texto = json.dumps(d, ensure_ascii=False)
-    if re.search(r"<\s*script|javascript:|on\w+\s*=", texto, re.I):
+    if re.search(r"javascript:|data:|vbscript:|on\w+\s*=|url\s*\(|expression\s*\(", texto, re.I):
         errores.append("contiene algo parecido a código")
     return errores
 
