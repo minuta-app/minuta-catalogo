@@ -1,0 +1,442 @@
+{
+ "id": "shrek",
+ "categoria": "peliculas",
+ "nombre": "Shrek",
+ "emoji": "🧅",
+ "xp": "capas de cebolla",
+ "categorias": [
+  "Películas",
+  "Animación",
+  "Comedia"
+ ],
+ "personaje_por_defecto": "Solo personajes de las películas de Shrek y de El Gato con Botas.",
+ "elogios": [
+  "¡Como Shrek: muchas capas de talento!",
+  "Burro aprueba, y eso ya es harto.",
+  "Muy, muy lejano… pero vamos bien.",
+  "¡Fuera de mi pantano! Hoy no fue."
+ ],
+ "apartados": {
+  "claridad": [
+   {
+    "nombre": "Los Tres Ratones Ciegos",
+    "referencia": "Shrek (2001)",
+    "frase": "Explicaste como los Tres Ratones Ciegos: chocando con todo."
+   },
+   {
+    "nombre": "Burro",
+    "referencia": "Shrek (2001)",
+    "frase": "Hablaste como Burro: mucho, rápido y en todas direcciones."
+   },
+   {
+    "nombre": "Pinocho",
+    "referencia": "Shrek Tercero (2007)",
+    "frase": "Como Pinocho con dobles negaciones: nadie supo qué dijiste."
+   },
+   {
+    "nombre": "Lord Farquaad",
+    "referencia": "Shrek (2001)",
+    "frase": "Claro como Farquaad: bien dicho, pero te quedaste corto."
+   },
+   {
+    "nombre": "Jengi",
+    "referencia": "Shrek (2001)",
+    "frase": "Como Jengi: breve y con carácter, pero algo atropellado."
+   },
+   {
+    "nombre": "Rey Harold",
+    "referencia": "Shrek 2 (2004)",
+    "frase": "Como el Rey Harold: claro, aunque con algo de croar."
+   },
+   {
+    "nombre": "Gato con Botas",
+    "referencia": "Shrek 2 (2004)",
+    "frase": "Con el estilo del Gato con Botas: claro y con encanto."
+   },
+   {
+    "nombre": "Fiona",
+    "referencia": "Shrek (2001)",
+    "frase": "Como Fiona: directa, firme y sin rodeos."
+   },
+   {
+    "nombre": "Hada Madrina",
+    "referencia": "Shrek 2 (2004)",
+    "frase": "Como el Hada Madrina cantando: todos captaron el mensaje."
+   },
+   {
+    "nombre": "Shrek",
+    "referencia": "Shrek (2001)",
+    "frase": "Como Shrek y su cebolla: explicaste por capas y quedó clarísimo."
+   }
+  ],
+  "escucha": [
+   {
+    "nombre": "Burro",
+    "referencia": "Shrek (2001)",
+    "frase": "Escuchaste como Burro: hablaste sin parar todo el viaje."
+   },
+   {
+    "nombre": "Lord Farquaad",
+    "referencia": "Shrek (2001)",
+    "frase": "Como Farquaad: solo le hiciste caso al Espejo Mágico."
+   },
+   {
+    "nombre": "Príncipe Encantador",
+    "referencia": "Shrek 2 (2004)",
+    "frase": "Como el Príncipe Encantador: solo oíste a tu reflejo."
+   },
+   {
+    "nombre": "Shrek",
+    "referencia": "Shrek (2001)",
+    "frase": "Como Shrek al inicio: oíste, pero querías volver al pantano."
+   },
+   {
+    "nombre": "Rumpelstiltskin",
+    "referencia": "Shrek para siempre (2010)",
+    "frase": "Como Rumpelstiltskin: escuchaste… buscando la letra chica."
+   },
+   {
+    "nombre": "Gato con Botas",
+    "referencia": "Shrek 2 (2004)",
+    "frase": "Como el Gato: ojos grandes y atentos, aunque algo distraído."
+   },
+   {
+    "nombre": "Rey Harold",
+    "referencia": "Shrek 2 (2004)",
+    "frase": "Como el Rey Harold: escuchaste y cambiaste de opinión a tiempo."
+   },
+   {
+    "nombre": "Dragona",
+    "referencia": "Shrek (2001)",
+    "frase": "Como Dragona: sin palabras, pero entendiste a Burro."
+   },
+   {
+    "nombre": "Kitty Patitas Suaves",
+    "referencia": "El Gato con Botas (2011)",
+    "frase": "Escucha de Kitty Patitas Suaves: sigilosa y sin perder detalle."
+   },
+   {
+    "nombre": "Fiona",
+    "referencia": "Shrek (2001)",
+    "frase": "Como Fiona: escuchaste el corazón que había detrás del ogro."
+   }
+  ],
+  "preguntas": [
+   {
+    "nombre": "Burro",
+    "referencia": "Shrek 2 (2004)",
+    "frase": "Preguntas de Burro: \"¿Ya llegamos?\" una y otra vez."
+   },
+   {
+    "nombre": "Lord Farquaad",
+    "referencia": "Shrek (2001)",
+    "frase": "Preguntaste como Farquaad: solo \"Espejo, espejo\"."
+   },
+   {
+    "nombre": "Príncipe Encantador",
+    "referencia": "Shrek 2 (2004)",
+    "frase": "Preguntas del Príncipe Encantador: todas sobre ti mismo."
+   },
+   {
+    "nombre": "Humpty Dumpty",
+    "referencia": "El Gato con Botas (2011)",
+    "frase": "Preguntas de Humpty Dumpty: con agenda escondida."
+   },
+   {
+    "nombre": "Pinocho",
+    "referencia": "Shrek (2001)",
+    "frase": "Preguntaste como Pinocho: con ganas, pero dudando de todo."
+   },
+   {
+    "nombre": "Artie",
+    "referencia": "Shrek Tercero (2007)",
+    "frase": "Como Artie: preguntas de novato, pero sinceras."
+   },
+   {
+    "nombre": "Gato con Botas",
+    "referencia": "Shrek 2 (2004)",
+    "frase": "Preguntas del Gato: astutas y con un toque de encanto."
+   },
+   {
+    "nombre": "Reina Lillian",
+    "referencia": "Shrek 2 (2004)",
+    "frase": "Como la Reina Lillian: preguntas sabias y con calma."
+   },
+   {
+    "nombre": "Fiona",
+    "referencia": "Shrek 2 (2004)",
+    "frase": "Como Fiona: preguntas directas que fueron al grano."
+   },
+   {
+    "nombre": "Shrek",
+    "referencia": "Shrek (2001)",
+    "frase": "Como Shrek: preguntaste qué había bajo cada capa."
+   }
+  ],
+  "cierre": [
+   {
+    "nombre": "Burro",
+    "referencia": "Shrek (2001)",
+    "frase": "Cierre de Burro: hablaste tanto que nadie anotó nada."
+   },
+   {
+    "nombre": "Los Tres Cerditos",
+    "referencia": "Shrek (2001)",
+    "frase": "Cierre de los Tres Cerditos: cada uno entendió algo distinto."
+   },
+   {
+    "nombre": "Pinocho",
+    "referencia": "Shrek (2001)",
+    "frase": "Como Pinocho: prometiste cosas y te creció la nariz."
+   },
+   {
+    "nombre": "Príncipe Encantador",
+    "referencia": "Shrek 2 (2004)",
+    "frase": "Como el Príncipe Encantador: llegaste tarde al final."
+   },
+   {
+    "nombre": "Rey Harold",
+    "referencia": "Shrek 2 (2004)",
+    "frase": "Cierre del Rey Harold: acordaste algo, pero con trato secreto."
+   },
+   {
+    "nombre": "Gato con Botas",
+    "referencia": "Shrek 2 (2004)",
+    "frase": "Cierre del Gato: elegante, aunque algún detalle se escapó."
+   },
+   {
+    "nombre": "Dragona",
+    "referencia": "Shrek (2001)",
+    "frase": "Cierre de Dragona: llegaste a tiempo y salvaste el final."
+   },
+   {
+    "nombre": "Rumpelstiltskin",
+    "referencia": "Shrek para siempre (2010)",
+    "frase": "Contrato de Rumpelstiltskin: firmado, con fecha y cláusulas."
+   },
+   {
+    "nombre": "Fiona",
+    "referencia": "Shrek Tercero (2007)",
+    "frase": "Cierre de Fiona: plan claro y todos sabían su rol."
+   },
+   {
+    "nombre": "Shrek",
+    "referencia": "Shrek (2001)",
+    "frase": "Cierre de Shrek: quién, qué y cuándo. ¡Y de vuelta al pantano!"
+   }
+  ]
+ },
+ "rangos": [
+  {
+   "nombre": "Vecino del pantano",
+   "frase": "Recién llegas al barro. Bienvenido."
+  },
+  {
+   "nombre": "Aldeano de Duloc",
+   "frase": "Ya sabes cuándo aplaudir según el cartel."
+  },
+  {
+   "nombre": "Caballero de Farquaad",
+   "frase": "Tienes armadura, falta la puntería."
+  },
+  {
+   "nombre": "Escudero del Gato",
+   "frase": "Aprendes estilo, botas y miradas tiernas."
+  },
+  {
+   "nombre": "Compañero de viaje de Burro",
+   "frase": "Sobreviviste al \"¿ya llegamos?\". Eso es temple."
+  },
+  {
+   "nombre": "Rescatista de la torre",
+   "frase": "Cruzaste el puente de lava sin mirar abajo."
+  },
+  {
+   "nombre": "Invitado de Muy Muy Lejano",
+   "frase": "El Rey Harold ya te sienta a la mesa."
+  },
+  {
+   "nombre": "Héroe de Muy Muy Lejano",
+   "frase": "Te aplauden en la plaza, y no por cartel."
+  },
+  {
+   "nombre": "Ogro con capas",
+   "frase": "Cada reunión suma una capa más."
+  },
+  {
+   "nombre": "Rey del Pantano",
+   "frase": "Muy Muy Lejano te quiere, pero eliges tu pantano."
+  }
+ ],
+ "logros": {
+  "primera_reunion": {
+   "nombre": "Saliste del pantano",
+   "descripcion": "Registraste tu primera reunión."
+  },
+  "reuniones_10": {
+   "nombre": "Vecino de Duloc",
+   "descripcion": "Registraste 10 reuniones."
+  },
+  "reuniones_50": {
+   "nombre": "Rescate en la torre",
+   "descripcion": "Registraste 50 reuniones."
+  },
+  "preguntas_10_en_una": {
+   "nombre": "¿Ya llegamos?",
+   "descripcion": "Hiciste 10 o más preguntas en una sola reunión."
+  },
+  "escucha_activa": {
+   "nombre": "Orejas de ogro",
+   "descripcion": "Hablaste 35% o menos en una reunión de 15+ minutos."
+  },
+  "cero_interrupciones_5": {
+   "nombre": "Paciencia de Fiona",
+   "descripcion": "5 reuniones seguidas sin interrumpir a nadie."
+  },
+  "puntaje_perfecto": {
+   "nombre": "Ojitos del Gato",
+   "descripcion": "Sacaste un 10 en algún apartado."
+  },
+  "reunion_9": {
+   "nombre": "Beso de amor verdadero",
+   "descripcion": "Promedio de 9 o más en una reunión."
+  },
+  "express": {
+   "nombre": "Escape de la Dragona",
+   "descripcion": "Reunión de 15 minutos o menos con cierre de 8 o más."
+  },
+  "sin_muletillas": {
+   "nombre": "Sin rodeos de ogro",
+   "descripcion": "Reunión de 15+ minutos sin muletillas."
+  },
+  "mejora_cierre": {
+   "nombre": "Ogro con capas nuevas",
+   "descripcion": "Tu cierre promedio subió 2+ puntos vs. tus 5 reuniones anteriores."
+  },
+  "habito_1": {
+   "nombre": "Primera capa de cebolla",
+   "descripcion": "Cumpliste por primera vez el hábito que te dejó Minuta. Los ogros tienen capas, y esta es la tuya."
+  },
+  "habito_racha_3": {
+   "nombre": "Burro no se rinde",
+   "descripcion": "Cumpliste tu hábito 3 reuniones seguidas, con la insistencia de un burro que no se baja del camino."
+  },
+  "habito_10": {
+   "nombre": "Cebolla entera",
+   "descripcion": "Cumpliste 10 hábitos en total. Capa por capa, llegaste al centro."
+  },
+  "cierre_racha_3": {
+   "nombre": "Tres finales felices",
+   "descripcion": "3 reuniones seguidas con cierre de 8 o más. Tus reuniones terminan como los cuentos buenos."
+  },
+  "muletillas_racha_3": {
+   "nombre": "Silencio, Burro",
+   "descripcion": "3 reuniones seguidas con menos de 3 muletillas cada 10 minutos. Hasta Burro aprendió a medir sus palabras."
+  },
+  "habla_racha_5": {
+   "nombre": "Pantano en equilibrio",
+   "descripcion": "5 reuniones seguidas con tu tiempo de habla en rango. Ni invades el pantano ni lo dejas vacío."
+  },
+  "monologo_racha_5": {
+   "nombre": "Sin discursos de Farquaad",
+   "descripcion": "5 reuniones seguidas sin hablar más de 60 segundos de corrido. Nada de arengas desde el balcón de Duloc."
+  },
+  "preguntas_racha_3": {
+   "nombre": "Las preguntas de Burro",
+   "descripcion": "3 reuniones seguidas con al menos 1 pregunta cada 10 minutos. ¿Ya llegamos? ¿Y ahora? Así se conversa."
+  },
+  "todo_verde": {
+   "nombre": "Verde como un ogro",
+   "descripcion": "Una reunión con todas tus métricas de cómo hablaste en rango. Verde de pies a cabeza."
+  },
+  "equilibrio": {
+   "nombre": "El cuarteto del pantano",
+   "descripcion": "Los 4 apartados en 8 o más en una misma reunión. Shrek, Fiona, Burro y el Gato, todos en su mejor momento."
+  },
+  "remontada": {
+   "nombre": "Otra vida del Gato",
+   "descripcion": "Después de una reunión bajo 6, la siguiente sobre 8. Gastaste una vida y volviste con botas nuevas."
+  },
+  "mejora_debil": {
+   "nombre": "Domaste a la Dragona",
+   "descripcion": "Tu apartado más débil subió 2+ puntos en promedio en las siguientes 5 reuniones. Lo que te quemaba ahora te lleva en vuelo."
+  },
+  "semana_8": {
+   "nombre": "Semana en Muy Muy Lejano",
+   "descripcion": "Una semana con 3 o más reuniones y promedio de 8 o más. Semana de la realeza."
+  }
+ },
+ "iconos_logros": {
+  "primera_reunion": "🌿",
+  "reuniones_10": "🏘️",
+  "reuniones_50": "🏰",
+  "preguntas_10_en_una": "🗺️",
+  "escucha_activa": "👂",
+  "cero_interrupciones_5": "👸",
+  "puntaje_perfecto": "🐈",
+  "reunion_9": "💋",
+  "express": "🐉",
+  "sin_muletillas": "🎯",
+  "mejora_cierre": "🧅",
+  "habito_1": "🧅",
+  "habito_racha_3": "🫏",
+  "habito_10": "🥬",
+  "cierre_racha_3": "✨",
+  "muletillas_racha_3": "🤫",
+  "habla_racha_5": "🗣️",
+  "monologo_racha_5": "👑",
+  "preguntas_racha_3": "❓",
+  "todo_verde": "💚",
+  "equilibrio": "🤝",
+  "remontada": "🐈",
+  "mejora_debil": "🐉",
+  "semana_8": "🏰"
+ },
+ "iconos_apartados": {
+  "claridad": "🪧",
+  "escucha": "👂",
+  "preguntas": "🐴",
+  "cierre": "📖"
+ },
+ "iconos_rangos": [
+  "🐸",
+  "🏘️",
+  "🛡️",
+  "🐈",
+  "🐴",
+  "🏰",
+  "🎟️",
+  "⚔️",
+  "🧅",
+  "👑"
+ ],
+ "estilo": {
+  "modo": "claro",
+  "fondo": "#f1f6e2",
+  "fondo2": "#d9e7b4",
+  "panel": "rgba(255,255,255,0.72)",
+  "texto": "#1e2a12",
+  "suave": "#5d6b47",
+  "linea": "rgba(78,122,18,0.22)",
+  "acento": "#7BB32E",
+  "acento_texto": "#4E7A12",
+  "acento2": "#8B5A2B",
+  "fuente": "Marker Felt",
+  "peso": 700,
+  "mayusculas": false,
+  "cursiva": false,
+  "patron": "pantano",
+  "radio": 14,
+  "textos": {
+   "reuniones": "Cuentos",
+   "ico_reuniones": "📖",
+   "progreso": "Capas",
+   "ico_progreso": "🧅",
+   "logros": "Trofeos",
+   "ico_logros": "🏆",
+   "titulo_progreso": "Tus capas de ogro",
+   "buscar": "Buscar en el pantano…"
+  }
+ },
+ "idioma": "es"
+}

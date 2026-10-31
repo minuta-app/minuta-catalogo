@@ -7,9 +7,10 @@ archivos directamente desde GitHub y **solo acepta datos JSON** que pasan una va
 
 | Carpeta | Contenido |
 |---|---|
-| `universos/` | Un archivo `<id>.json` por universo (rangos, arquetipos, logros, colores y forma de la ventana) + `index.json` con lo necesario para mostrar la vista previa sin descargar. |
-| `idiomas/` | Paquetes de idioma de la interfaz: `{ codigo, nombre, bandera, textos: { "texto en español": "traducción" }, palabras }` + `index.json`. |
-| `herramientas/` | `generar_indice.py` valida todo y regenera los índices. `traducir_idioma.py` crea un idioma nuevo con tu IA. |
+| `temas/<categoria>/<id>.json` | Un archivo por universo (rangos, arquetipos, logros, colores y forma de la ventana). `categoria` es la carpeta: la primera de `categorias`, sin tildes (`peliculas`, `series`, `anime`…). `temas/index.json` es el índice: cada universo con su `ruta`, su huella `sha256` y su `tamano`. Minuta rechaza lo que no calce con su huella. |
+| `idiomas/comunidad/<codigo>.json` | Paquetes de idioma de la interfaz: `{ id, categoria, codigo, nombre, bandera, textos: { "texto en español": "traducción" }, palabras }` (`id` = `codigo`). Índice con huellas: `idiomas/catalogo.json`. |
+| `universos/`, `idiomas/<codigo>.json`, `index.json` | **Generados, no se editan:** el formato de antes, para Minuta 0.3.1 o anterior. |
+| `herramientas/` | `generar_indice.py` valida todo y regenera los índices (con `catalogo.py`, la pieza «catálogo» de [Pieza](https://github.com/pieza-app/pieza), y los validadores `universo_formato.py` e `idioma_formato.py`, los mismos archivos que usa Minuta). `traducir_idioma.py` crea un idioma nuevo con tu IA. |
 
 ## Aportar
 

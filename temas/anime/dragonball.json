@@ -1,0 +1,442 @@
+{
+ "id": "dragonball",
+ "categoria": "anime",
+ "nombre": "Dragon Ball",
+ "emoji": "🐉",
+ "xp": "ki",
+ "categorias": [
+  "Anime",
+  "Clásicos",
+  "Aventura"
+ ],
+ "personaje_por_defecto": "Solo personajes canónicos de Dragon Ball, Dragon Ball Z y Dragon Ball Super, con nombres del doblaje latino.",
+ "elogios": [
+  "¡Tu ki es de más de 8000!",
+  "Buen Kame Hame Ha, guerrero.",
+  "Te falta entrenar con Kaiosama.",
+  "Te ganó Yamcha... y eso es grave."
+ ],
+ "apartados": {
+  "claridad": [
+   {
+    "nombre": "Majin Boo",
+    "referencia": "Dragon Ball Z, saga de Majin Boo",
+    "frase": "Puro \"¡Boo, Boo!\" y nadie entendió nada. Hasta los dulces quedaron confundidos."
+   },
+   {
+    "nombre": "Mr. Satán",
+    "referencia": "Dragon Ball Z, saga de Cell",
+    "frase": "Mucho show y gritos, cero contenido. \"¡Son puros trucos!\" y listo."
+   },
+   {
+    "nombre": "Gokú",
+    "referencia": "Dragon Ball Z, saga de Freezer",
+    "frase": "Explicaste como Gokú la teletransportación: \"es fácil, solo hazlo\"."
+   },
+   {
+    "nombre": "Yamcha",
+    "referencia": "Dragon Ball Z, saga de los Saiyajin",
+    "frase": "Te esforzaste, pero la idea quedó tirada en un cráter. Clásico Yamcha."
+   },
+   {
+    "nombre": "Krilin",
+    "referencia": "Dragon Ball Z, saga de los Androides",
+    "frase": "Se entendió, pero con nervios y vueltas. Krilin daría lo mismo."
+   },
+   {
+    "nombre": "Kaiosama",
+    "referencia": "Dragon Ball Z, saga de los Saiyajin",
+    "frase": "Explicaste bien, pero metiste chistes malos entremedio. Kaiosama total."
+   },
+   {
+    "nombre": "Gohan",
+    "referencia": "Dragon Ball Super, saga de la Supervivencia Universal",
+    "frase": "Ordenado como Gohan investigador: claro, aunque un poco de paper académico."
+   },
+   {
+    "nombre": "Bulma",
+    "referencia": "Dragon Ball Z, saga de los Androides",
+    "frase": "Clara, segura y con planos en mano. Así explica una genio de Capsule Corp."
+   },
+   {
+    "nombre": "Piccoro",
+    "referencia": "Dragon Ball Z, saga de los Saiyajin",
+    "frase": "Instrucciones cortas y precisas, como Piccoro entrenando a Gohan."
+   },
+   {
+    "nombre": "Whis",
+    "referencia": "Dragon Ball Super, saga de la Batalla de los Dioses",
+    "frase": "Sereno, elegante y clarísimo. Hablaste como Whis entre bocado y bocado."
+   }
+  ],
+  "escucha": [
+   {
+    "nombre": "Vegeta",
+    "referencia": "Dragon Ball Z, saga de los Androides",
+    "frase": "No escuchaste a nadie por puro orgullo saiyajin. Vegeta, ¿eres tú?"
+   },
+   {
+    "nombre": "Mr. Satán",
+    "referencia": "Dragon Ball Z, saga de Cell",
+    "frase": "Hablaste encima de todos para llevarte el crédito. Campeón del micrófono."
+   },
+   {
+    "nombre": "Freezer",
+    "referencia": "Dragon Ball Z, saga de Freezer",
+    "frase": "Escuchaste con cara de emperador aburrido. Freezer haría lo mismo."
+   },
+   {
+    "nombre": "Gokú",
+    "referencia": "Dragon Ball Z, saga de Majin Boo",
+    "frase": "Asentías, pero pensabas en comida y peleas. Gokú en reunión total."
+   },
+   {
+    "nombre": "Yamcha",
+    "referencia": "Dragon Ball, saga de Pilaf",
+    "frase": "Escuchaste a medias, distraído como Yamcha cuando ve a Bulma."
+   },
+   {
+    "nombre": "Krilin",
+    "referencia": "Dragon Ball Z, saga de Freezer",
+    "frase": "Pusiste atención, aunque te ganaron los nervios a ratos. Buen Krilin."
+   },
+   {
+    "nombre": "Gohan",
+    "referencia": "Dragon Ball Z, saga de Cell",
+    "frase": "Escuchaste con respeto, como Gohan a su papá. Bien, joven guerrero."
+   },
+   {
+    "nombre": "Dende",
+    "referencia": "Dragon Ball Z, saga de Freezer",
+    "frase": "Escuchaste con paciencia de guardián. Dende curaría hasta tu agenda."
+   },
+   {
+    "nombre": "Kaiosama",
+    "referencia": "Dragon Ball Z, saga de los Saiyajin",
+    "frase": "Con tus antenas captaste a todo el equipo, como Kaiosama al universo."
+   },
+   {
+    "nombre": "Piccoro",
+    "referencia": "Dragon Ball Z, saga de los Saiyajin",
+    "frase": "Oído namekiano: captaste hasta lo que nadie dijo en voz alta."
+   }
+  ],
+  "preguntas": [
+   {
+    "nombre": "Gokú",
+    "referencia": "Dragon Ball Z, saga de los Saiyajin",
+    "frase": "Tu única pregunta fue \"¿eres fuerte? ¡peleemos!\". Puro impulso saiyajin."
+   },
+   {
+    "nombre": "Majin Boo",
+    "referencia": "Dragon Ball Z, saga de Majin Boo",
+    "frase": "Preguntaste si había dulces. Boo aprueba, la reunión no tanto."
+   },
+   {
+    "nombre": "Oolong",
+    "referencia": "Dragon Ball, saga de Pilaf",
+    "frase": "Preguntas para zafar y escapar rápido. Oolong transformándose en huida."
+   },
+   {
+    "nombre": "Yamcha",
+    "referencia": "Dragon Ball Z, saga de los Saiyajin",
+    "frase": "Preguntaste con ganas, pero te las derribaron rápido. Pose de Yamcha."
+   },
+   {
+    "nombre": "Krilin",
+    "referencia": "Dragon Ball Z, saga de los Androides",
+    "frase": "Preguntas nerviosas pero honestas. Al menos te atreviste, Krilin."
+   },
+   {
+    "nombre": "Gohan",
+    "referencia": "Dragon Ball Z, saga de Majin Boo",
+    "frase": "Preguntas de estudiante aplicado. Útiles, aunque faltó ir al fondo."
+   },
+   {
+    "nombre": "Maestro Roshi",
+    "referencia": "Dragon Ball, saga del Torneo de las Artes Marciales",
+    "frase": "Preguntas de viejo sabio que hacen pensar. Roshi, pero sin revistas."
+   },
+   {
+    "nombre": "Trunks",
+    "referencia": "Dragon Ball Z, saga de los Androides",
+    "frase": "Preguntaste lo justo para cambiar el futuro. Trunks volvería a viajar."
+   },
+   {
+    "nombre": "Whis",
+    "referencia": "Dragon Ball Super, saga de la Batalla de los Dioses",
+    "frase": "Preguntas suaves que dejaron a todos pensando. Elegancia de ángel."
+   },
+   {
+    "nombre": "Bulma",
+    "referencia": "Dragon Ball, saga de Pilaf",
+    "frase": "Tus preguntas desarmaron el problema como Bulma arma un radar del dragón."
+   }
+  ],
+  "cierre": [
+   {
+    "nombre": "Gokú",
+    "referencia": "Dragon Ball Z, saga de Majin Boo (final)",
+    "frase": "Te fuiste volando con Uub y nadie supo qué se acordó. Gokú, ¿y la familia?"
+   },
+   {
+    "nombre": "Majin Boo",
+    "referencia": "Dragon Ball Z, saga de Majin Boo",
+    "frase": "Convertiste los acuerdos en chocolate y te los comiste. Nada quedó."
+   },
+   {
+    "nombre": "Mr. Satán",
+    "referencia": "Dragon Ball Z, saga de Cell",
+    "frase": "Cerraste llevándote el crédito, pero sin tareas claras. ¡Campeón!"
+   },
+   {
+    "nombre": "Yamcha",
+    "referencia": "Dragon Ball Z, saga de los Saiyajin",
+    "frase": "El cierre cayó en un cráter. Al menos quedó la pose de Yamcha."
+   },
+   {
+    "nombre": "Krilin",
+    "referencia": "Dragon Ball Z, saga de Freezer",
+    "frase": "Hubo acuerdos, pero con dudas. Krilin cerraría igual: con miedo."
+   },
+   {
+    "nombre": "Gohan",
+    "referencia": "Dragon Ball Z, saga de Cell",
+    "frase": "Cerraste bien cuando hizo falta, como Gohan contra Cell. Falta constancia."
+   },
+   {
+    "nombre": "Vegeta",
+    "referencia": "Dragon Ball Z, saga de Majin Boo",
+    "frase": "Cerraste con orgullo y firmeza. Vegeta aprobaría (sin decirlo)."
+   },
+   {
+    "nombre": "Piccoro",
+    "referencia": "Dragon Ball Z, saga de los Saiyajin",
+    "frase": "Dejaste el plan de entrenamiento clarito, como Piccoro con Gohan."
+   },
+   {
+    "nombre": "Bills",
+    "referencia": "Dragon Ball Super, saga de la Batalla de los Dioses",
+    "frase": "Cierre de Dios de la Destrucción: firme, rápido y nadie se atrevió a dudar."
+   },
+   {
+    "nombre": "Shenlong",
+    "referencia": "Dragon Ball, saga de Pilaf",
+    "frase": "Quién, qué y cuándo, impecable. \"Tu deseo ha sido concedido\"."
+   }
+  ]
+ },
+ "rangos": [
+  {
+   "nombre": "Granjero con escopeta",
+   "frase": "Poder de pelea: 5. Todos partimos así."
+  },
+  {
+   "nombre": "Alumno de Kame House",
+   "frase": "Ya cargas el caparazón de tortuga. A entrenar."
+  },
+  {
+   "nombre": "Guerrero Z",
+   "frase": "Ya te invitan a las peleas importantes. Bien ahí."
+  },
+  {
+   "nombre": "Kaio-ken",
+   "frase": "Duplicaste tu poder. Ojo con no reventarte."
+  },
+  {
+   "nombre": "Super Saiyajin",
+   "frase": "Pelo dorado y aura brillante. ¡Despertaste!"
+  },
+  {
+   "nombre": "Super Saiyajin 2",
+   "frase": "Rayitos alrededor del aura. Gohan te saluda."
+  },
+  {
+   "nombre": "Super Saiyajin 3",
+   "frase": "Pelo larguísimo y poder de sobra. Cuida el ki."
+  },
+  {
+   "nombre": "Super Saiyajin Dios",
+   "frase": "Pelo rojo y poder divino. Bills te mira con interés."
+  },
+  {
+   "nombre": "Super Saiyajin Blue",
+   "frase": "Ki divino con control saiyajin. Whis aplaude."
+  },
+  {
+   "nombre": "Doctrina Egoísta",
+   "frase": "Tu cuerpo responde solo. Nivel ángel, maestro total."
+  }
+ ],
+ "logros": {
+  "primera_reunion": {
+   "nombre": "Primera esfera",
+   "descripcion": "Tuviste tu primera reunión."
+  },
+  "reuniones_10": {
+   "nombre": "Torneo de las Artes Marciales",
+   "descripcion": "Llegaste a 10 reuniones."
+  },
+  "reuniones_50": {
+   "nombre": "Las 7 esferas reunidas",
+   "descripcion": "Llegaste a 50 reuniones."
+  },
+  "preguntas_10_en_una": {
+   "nombre": "Scouter sobrecargado",
+   "descripcion": "Hiciste 10 o más preguntas en una sola reunión."
+  },
+  "escucha_activa": {
+   "nombre": "Orejas de Piccoro",
+   "descripcion": "Hablaste 35% o menos en una reunión de 15+ minutos."
+  },
+  "cero_interrupciones_5": {
+   "nombre": "Meditación de Ten Shin Han",
+   "descripcion": "5 reuniones seguidas sin interrumpir a nadie."
+  },
+  "puntaje_perfecto": {
+   "nombre": "Kame Hame Ha perfecto",
+   "descripcion": "Sacaste un 10 en algún apartado."
+  },
+  "reunion_9": {
+   "nombre": "Genkidama",
+   "descripcion": "Promedio de 9 o más en una reunión."
+  },
+  "express": {
+   "nombre": "Teletransportación",
+   "descripcion": "Reunión de 15 minutos o menos con cierre de 8 o más."
+  },
+  "sin_muletillas": {
+   "nombre": "Kienzan sin titubeos",
+   "descripcion": "Reunión de 15+ minutos sin ninguna muletilla."
+  },
+  "mejora_cierre": {
+   "nombre": "Zenkai saiyajin",
+   "descripcion": "Tu cierre promedio subió 2+ puntos vs. tus 5 reuniones anteriores."
+  },
+  "habito_1": {
+   "nombre": "Semilla del Ermitaño",
+   "descripcion": "Cumpliste por primera vez el hábito que te dejó Minuta. Un solo mordisco y ya se nota el cambio."
+  },
+  "habito_racha_3": {
+   "nombre": "Disciplina de Mr. Popo",
+   "descripcion": "Cumpliste tu hábito en 3 reuniones seguidas. Mr. Popo aprueba la rutina sin quejas."
+  },
+  "habito_10": {
+   "nombre": "Capa con pesas",
+   "descripcion": "Cumpliste 10 hábitos en total. Ya cargas el peso como Piccolo y ni se te nota."
+  },
+  "cierre_racha_3": {
+   "nombre": "Kaio-ken x3",
+   "descripcion": "3 reuniones seguidas con cierre de 8 o más. Multiplicaste tu poder de cierre tres veces."
+  },
+  "muletillas_racha_3": {
+   "nombre": "Silencio del Templo Sagrado",
+   "descripcion": "3 reuniones seguidas con menos de 3 muletillas cada 10 minutos. Hablas limpio, como quien medita en lo alto de la torre."
+  },
+  "habla_racha_5": {
+   "nombre": "Balance de Whis",
+   "descripcion": "5 reuniones seguidas con tu tiempo de habla en rango. Ni de más ni de menos: equilibrio digno de un ángel."
+  },
+  "monologo_racha_5": {
+   "nombre": "Sin discursos de Freezer",
+   "descripcion": "5 reuniones seguidas sin hablar más de 60 segundos de corrido. Dejaste el monólogo villanesco en el planeta Namek."
+  },
+  "preguntas_racha_3": {
+   "nombre": "Curiosidad de Bulma",
+   "descripcion": "3 reuniones seguidas con al menos 1 pregunta cada 10 minutos. Preguntas como quien busca las esferas con el radar."
+  },
+  "todo_verde": {
+   "nombre": "Ultra Instinto",
+   "descripcion": "Una reunión con todas tus métricas de cómo hablaste en rango. Tu forma fue perfecta sin siquiera pensarlo."
+  },
+  "equilibrio": {
+   "nombre": "Fusión perfecta",
+   "descripcion": "Los 4 apartados en 8 o más en una misma reunión. El baile salió sincronizado al primer intento."
+  },
+  "remontada": {
+   "nombre": "Poder Zenkai",
+   "descripcion": "Después de una reunión bajo 6, la siguiente sobre 8. Caíste, te levantaste y volviste más fuerte."
+  },
+  "mejora_debil": {
+   "nombre": "Habitación del Tiempo",
+   "descripcion": "Tu apartado más débil subió 2+ puntos en promedio en las siguientes 5 reuniones. Un año de entrenamiento en lo que para otros fue un día."
+  },
+  "semana_8": {
+   "nombre": "Semana Súper Saiyajin",
+   "descripcion": "Una semana con 3 o más reuniones y promedio de 8 o más. Te mantuviste transformado de lunes a viernes."
+  }
+ },
+ "iconos_logros": {
+  "primera_reunion": "🟠",
+  "reuniones_10": "🥋",
+  "reuniones_50": "🐉",
+  "preguntas_10_en_una": "📟",
+  "escucha_activa": "🟢",
+  "cero_interrupciones_5": "🧘",
+  "puntaje_perfecto": "🌊",
+  "reunion_9": "🔵",
+  "express": "⚡",
+  "sin_muletillas": "💿",
+  "mejora_cierre": "💪",
+  "habito_1": "🌱",
+  "habito_racha_3": "🧘",
+  "habito_10": "💪",
+  "cierre_racha_3": "🔥",
+  "muletillas_racha_3": "🤫",
+  "habla_racha_5": "⚖️",
+  "monologo_racha_5": "🎤",
+  "preguntas_racha_3": "❓",
+  "todo_verde": "🌀",
+  "equilibrio": "✨",
+  "remontada": "💥",
+  "mejora_debil": "⏳",
+  "semana_8": "⭐"
+ },
+ "iconos_apartados": {
+  "claridad": "☀️",
+  "escucha": "🧘",
+  "preguntas": "🔮",
+  "cierre": "🔥"
+ },
+ "iconos_rangos": [
+  "🔫",
+  "🐢",
+  "🥋",
+  "🔥",
+  "🟡",
+  "⚡",
+  "🦁",
+  "🔴",
+  "🔵",
+  "🌌"
+ ],
+ "estilo": {
+  "modo": "claro",
+  "fondo": "#fff6ea",
+  "fondo2": "#ffe2c2",
+  "panel": "rgba(255,255,255,0.78)",
+  "texto": "#1f1300",
+  "suave": "#7a5a3a",
+  "linea": "rgba(248,91,26,0.25)",
+  "acento": "#F85B1A",
+  "acento_texto": "#D9480F",
+  "acento2": "#1E5BB8",
+  "fuente": "Futura",
+  "peso": 800,
+  "mayusculas": true,
+  "cursiva": false,
+  "patron": "ki",
+  "radio": 0,
+  "textos": {
+   "reuniones": "Combates",
+   "ico_reuniones": "🥋",
+   "progreso": "Poder",
+   "ico_progreso": "🔥",
+   "logros": "Esferas",
+   "ico_logros": "🐉",
+   "titulo_progreso": "Tu poder de pelea",
+   "buscar": "Buscar con el radar…"
+  }
+ },
+ "idioma": "es"
+}

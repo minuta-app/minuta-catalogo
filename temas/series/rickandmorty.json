@@ -1,0 +1,451 @@
+{
+ "id": "rickandmorty",
+ "categoria": "series",
+ "nombre": "Rick and Morty",
+ "emoji": "🛸",
+ "xp": "schwiftys",
+ "categorias": [
+  "Series",
+  "Animación",
+  "Ciencia ficción",
+  "Comedia"
+ ],
+ "personaje_por_defecto": "Solo personajes canónicos de la serie Rick and Morty (temporadas 1 a 7), incluidas sus variantes del multiverso.",
+ "elogios": [
+  "Esa reunión estuvo schwifty. Wubba lubba dub dub.",
+  "Nada mal, Morty. El abuelo te presta la portal gun.",
+  "Oh geez… ahí hubo unos minutos difíciles.",
+  "Esto fue nivel Jerry en la Jerrycuna, y lo sabes."
+ ],
+ "apartados": {
+  "claridad": [
+   {
+    "nombre": "Ants in My Eyes Johnson",
+    "referencia": "Rixty Minutes (T1E8)",
+    "frase": "Explicaste todo a gritos sin ver nada: ni la agenda, ni los muebles, ni a quién le hablabas."
+   },
+   {
+    "nombre": "Squanchy",
+    "referencia": "Ricksy Business (T1E11)",
+    "frase": "Squancheaste tanto la palabra clave que nadie supo si era un plan trimestral o un carrete."
+   },
+   {
+    "nombre": "Jerry Smith",
+    "referencia": "Rick Potion #9 (T1E6)",
+    "frase": "Partiste pidiendo permiso para hablar y terminaste pidiendo perdón por haber hablado."
+   },
+   {
+    "nombre": "Scary Terry",
+    "referencia": "Lawnmower Dog (T1E2)",
+    "frase": "Tu mensaje llegó clarito, pero cerrabas cada frase con 'perra' y en el banco eso no se usa."
+   },
+   {
+    "nombre": "Mr. Meeseeks",
+    "referencia": "Meeseeks and Destroy (T1E5)",
+    "frase": "¡Mira, soy la minuta! Impecable con 'reserva la sala', un colapso existencial con la estrategia anual."
+   },
+   {
+    "nombre": "Summer Smith",
+    "referencia": "Rickmancing the Stone (T3E2)",
+    "frase": "Dijiste las cosas sin maquillaje y con hacha en la mano. Se entendió todo al primer intento."
+   },
+   {
+    "nombre": "Beth Smith",
+    "referencia": "The ABC's of Beth (T3E9)",
+    "frase": "Cortaste al hueso con precisión de cirujana de caballos: cero adornos, cero sangre de más."
+   },
+   {
+    "nombre": "President Curtis",
+    "referencia": "The Rickshank Rickdemption (T3E1)",
+    "frase": "Hablaste como el presidente de la Tierra: firme, breve y con el Salón Oval de fondo."
+   },
+   {
+    "nombre": "Evil Morty",
+    "referencia": "The Ricklantis Mixup (T3E7)",
+    "frase": "Tu discurso fue tan limpio que la sala te eligió por unanimidad sin notar lo que venía después."
+   },
+   {
+    "nombre": "Rick Sanchez",
+    "referencia": "Pickle Rick (T3E3)",
+    "frase": "Explicaste tu punto tan afilado que hasta la doctora Wong lo anotó en su libreta."
+   }
+  ],
+  "escucha": [
+   {
+    "nombre": "Rick Prime",
+    "referencia": "Rickmurai Jack (T5E10)",
+    "frase": "No escuchaste a nadie; de hecho, eliminaste del timeline a quien iba a hablar."
+   },
+   {
+    "nombre": "Krombopulos Michael",
+    "referencia": "Mortynight Run (T2E2)",
+    "frase": "'¡No me importa, solo quiero matar!' es un buen lema, mala técnica de escucha activa."
+   },
+   {
+    "nombre": "Toxic Rick",
+    "referencia": "Rest and Ricklaxation (T3E6)",
+    "frase": "Toda la toxicidad, cero empatía: escuchaste solo para tener con qué responder."
+   },
+   {
+    "nombre": "Tammy Guetermann",
+    "referencia": "The Wedding Squanchers (T2E10)",
+    "frase": "Asentiste a todo durante años y al final igual delataste a la mitad de la sala."
+   },
+   {
+    "nombre": "Mr. Nimbus",
+    "referencia": "Mort Dinner Rick Andre (T5E1)",
+    "frase": "Interrumpiste para anunciar que controlas a la policía. Nadie lo había preguntado."
+   },
+   {
+    "nombre": "Morty Smith",
+    "referencia": "Meeseeks and Destroy (T1E5)",
+    "frase": "Escuchaste a medias y terminaste liderando una aventura que no era tu tema."
+   },
+   {
+    "nombre": "Beta 7",
+    "referencia": "Vindicators 3: The Return of Worldender (T3E4)",
+    "frase": "Mente colmena: oíste a todos al mismo tiempo, aunque te distrajiste con la ex de Supernova."
+   },
+   {
+    "nombre": "Unity",
+    "referencia": "Auto Erotic Assimilation (T2E3)",
+    "frase": "Escuchaste a un planeta entero a la vez y aun así supiste cuándo poner un límite."
+   },
+   {
+    "nombre": "Birdperson",
+    "referencia": "Ricksy Business (T1E11)",
+    "frase": "Captaste que 'wubba lubba dub dub' significa 'estoy sufriendo mucho, ayúdenme'. Eso es escuchar."
+   },
+   {
+    "nombre": "Dra. Wong",
+    "referencia": "Pickle Rick (T3E3)",
+    "frase": "Guardaste silencio dos minutos y la sala entera se desarmó sola. Nivel terapia."
+   }
+  ],
+  "preguntas": [
+   {
+    "nombre": "Hemorrhage",
+    "referencia": "Rickmancing the Stone (T3E2)",
+    "frase": "Tu única pregunta fue '¿quién sigue?' mientras agitabas la cadena. Técnicamente es una pregunta."
+   },
+   {
+    "nombre": "Million Ants",
+    "referencia": "Vindicators 3: The Return of Worldender (T3E4)",
+    "frase": "Un millón de hormigas y ninguna curiosidad: entraste directo a golpear la pared."
+   },
+   {
+    "nombre": "Fart",
+    "referencia": "Mortynight Run (T2E2)",
+    "frase": "Preguntaste con voz celestial y la respuesta era exterminar toda la vida basada en carbono."
+   },
+   {
+    "nombre": "Mr. Goldenfold",
+    "referencia": "Lawnmower Dog (T1E2)",
+    "frase": "Repetiste la misma pregunta tres veces y acabó todo en un sueño raro con la señora Pancakes."
+   },
+   {
+    "nombre": "Gearhead",
+    "referencia": "Get Schwifty (T2E5)",
+    "frase": "Preguntaste harto, eso sí: todo sobre engranajes y nada sobre el proyecto."
+   },
+   {
+    "nombre": "Morty Jr.",
+    "referencia": "Raising Gazorpazorp (T1E7)",
+    "frase": "Preguntaste '¿quién soy y qué hago aquí?' en vivo. Buena pregunta, mala reunión."
+   },
+   {
+    "nombre": "Arthricia",
+    "referencia": "Look Who's Purging Now (T2E9)",
+    "frase": "Preguntaste a quién le conviene esta purga y resultó ser, otra vez, a los de arriba."
+   },
+   {
+    "nombre": "Zeep Xanflorp",
+    "referencia": "The Ricks Must Be Crazy (T2E6)",
+    "frase": "Preguntaste de dónde venía la energía y descubriste que vivías dentro de la batería de otro."
+   },
+   {
+    "nombre": "Story Lord",
+    "referencia": "Never Ricking Morty (T4E6)",
+    "frase": "Preguntaste con tanta estructura que la reunión te entregó un arco narrativo completo."
+   },
+   {
+    "nombre": "Cornvelious Daniel",
+    "referencia": "The Rickshank Rickdemption (T3E1)",
+    "frase": "Entraste al recuerdo de la reunión y saliste con la receta del suero de materia oscura."
+   }
+  ],
+  "cierre": [
+   {
+    "nombre": "Vance Maximus",
+    "referencia": "Vindicators 3: The Return of Worldender (T3E4)",
+    "frase": "Entraste gritando 'Renegade Star-Soldier' y no llegaste vivo a los acuerdos finales."
+   },
+   {
+    "nombre": "Pencilvester",
+    "referencia": "Total Rickall (T2E4)",
+    "frase": "Tu compromiso final resultó ser un recuerdo implantado. Lindo, pero nunca existió."
+   },
+   {
+    "nombre": "Tiny Rick",
+    "referencia": "Big Trouble in Little Sanchez (T2E7)",
+    "frase": "Cerraste con una canción en el gimnasio y en el acta solo decía 'déjenme salir'."
+   },
+   {
+    "nombre": "Noob Noob",
+    "referencia": "Vindicators 3: The Return of Worldender (T3E4)",
+    "frase": "Puro aplauso y buena onda al final; cero tareas asignadas, pero nadie lo pasó mejor."
+   },
+   {
+    "nombre": "Jessica",
+    "referencia": "Rick Potion #9 (T1E6)",
+    "frase": "Terminaste con un 'quizás después' que dejó a toda la sala esperando la próxima temporada."
+   },
+   {
+    "nombre": "Mr. Poopybutthole",
+    "referencia": "Total Rickall (T2E4)",
+    "frase": "Te despediste con un '¡uuh-wii!' cálido y sincero, aunque sin fecha para la próxima."
+   },
+   {
+    "nombre": "Supernova",
+    "referencia": "Vindicators 3: The Return of Worldender (T3E4)",
+    "frase": "Cortaste por lo sano, sobreviviste a la reunión y te quedaste con los créditos."
+   },
+   {
+    "nombre": "Jaguar",
+    "referencia": "Pickle Rick (T3E3)",
+    "frase": "Cerraste casi sin hablar y aun así todos entendieron que el tema estaba terminado."
+   },
+   {
+    "nombre": "Miles Knightly",
+    "referencia": "One Crew Over the Crewcoo's Morty (T4E3)",
+    "frase": "Cerraste con un plan dentro de un plan dentro de un plan. El acta tiene tres giros."
+   },
+   {
+    "nombre": "Bola de Nieve",
+    "referencia": "Lawnmower Dog (T1E2)",
+    "frase": "Dejaste a todos libres, agradeciste con elegancia y te fuiste a tu propia dimensión."
+   }
+  ]
+ },
+ "rangos": [
+  {
+   "nombre": "Jerry en la Jerrycuna",
+   "frase": "Te dejaron en la guardería del multiverso con un juguete y muy buenas intenciones."
+  },
+  {
+   "nombre": "Morty de reemplazo",
+   "frase": "Alguien tenía que acompañar al abuelo a la aventura. Felicitaciones, eres tú."
+  },
+  {
+   "nombre": "Meeseeks recién abierto",
+   "frase": "¡Mira, soy la minuta! Partes con ganas infinitas y una sola tarea en la cabeza."
+  },
+  {
+   "nombre": "Pasante del garaje",
+   "frase": "Ya pasas las herramientas sin que te griten. Progreso científico real."
+  },
+  {
+   "nombre": "Morty curtido",
+   "frase": "Viste cosas que no se borran ni con el chip de memoria. Eso te da criterio."
+  },
+  {
+   "nombre": "Vindicator suplente",
+   "frase": "Te invitaron al equipo, aunque tu nombre todavía no sale en el afiche."
+  },
+  {
+   "nombre": "Doofus Rick aplicado",
+   "frase": "Se ríen de ti en la Ciudadela, pero eres el único que toma notas y cumple."
+  },
+  {
+   "nombre": "Rick del Consejo",
+   "frase": "Tienes credencial, portal gun y derecho a voto en la sala grande."
+  },
+  {
+   "nombre": "Rick C-137",
+   "frase": "El Rickest Rick. Nadie te invita y llegas igual, con la respuesta lista."
+  },
+  {
+   "nombre": "Rick del Universo Central Finito",
+   "frase": "Te sentaste a mirar el multiverso desde arriba. Wubba lubba dub dub."
+  }
+ ],
+ "logros": {
+  "primera_reunion": {
+   "nombre": "Primer portal",
+   "descripcion": "Completaste tu primera reunión."
+  },
+  "reuniones_10": {
+   "nombre": "Diez aventuras, cero demandas",
+   "descripcion": "Completaste 10 reuniones."
+  },
+  "reuniones_50": {
+   "nombre": "Credencial del Consejo de Ricks",
+   "descripcion": "Completaste 50 reuniones."
+  },
+  "preguntas_10_en_una": {
+   "nombre": "Interrogatorio nivel Cornvelious",
+   "descripcion": "Hiciste 10 o más preguntas en una sola reunión."
+  },
+  "escucha_activa": {
+   "nombre": "Modo doctora Wong",
+   "descripcion": "Hablaste 35% o menos en una reunión de 15+ minutos."
+  },
+  "cero_interrupciones_5": {
+   "nombre": "Cinco reuniones sin Mr. Nimbus",
+   "descripcion": "5 reuniones seguidas sin interrumpir a nadie."
+  },
+  "puntaje_perfecto": {
+   "nombre": "Suero concentrado de materia oscura",
+   "descripcion": "Sacaste un 10 en algún apartado."
+  },
+  "reunion_9": {
+   "nombre": "Esto estuvo schwifty",
+   "descripcion": "Promedio de 9 o más en una reunión."
+  },
+  "express": {
+   "nombre": "Operación Pickle Rick",
+   "descripcion": "Reunión de 15 minutos o menos con cierre de 8 o más."
+  },
+  "sin_muletillas": {
+   "nombre": "Cero 'oh geez'",
+   "descripcion": "Reunión de 15+ minutos sin ninguna muletilla."
+  },
+  "mejora_cierre": {
+   "nombre": "Salida nivel Bola de Nieve",
+   "descripcion": "Tu cierre promedio subió 2+ puntos vs. tus 5 reuniones anteriores."
+  },
+  "habito_1": {
+   "nombre": "Primer Plumbus armado",
+   "descripcion": "Cumpliste por primera vez el hábito que te dejó Minuta. Todos tienen un Plumbus en casa, pero tú recién aprendiste a usarlo."
+  },
+  "habito_racha_3": {
+   "nombre": "Tres Meeseeks cumplidos",
+   "descripcion": "Cumpliste tu hábito en 3 reuniones seguidas. Existir es dolor, pero la tarea se completó tres veces sin gritos."
+  },
+  "habito_10": {
+   "nombre": "Nivel Snowball",
+   "descripcion": "Cumpliste 10 hábitos en total. Empezaste como perro de la familia y terminaste con casco de inteligencia aumentada."
+  },
+  "cierre_racha_3": {
+   "nombre": "Tres portales bien cerrados",
+   "descripcion": "3 reuniones seguidas con cierre de 8 o más. Nada de dejar el portal abierto para que entre cualquier cosa."
+  },
+  "muletillas_racha_3": {
+   "nombre": "Menos eeeh, más ciencia",
+   "descripcion": "3 reuniones seguidas con menos de 3 muletillas cada 10 minutos. Hablaste sin eructos verbales interdimensionales."
+  },
+  "habla_racha_5": {
+   "nombre": "Consejo de Ricks equilibrado",
+   "descripcion": "5 reuniones seguidas con tu tiempo de habla en rango. Ni dictador de la Ciudadela ni Rick del fondo que no opina."
+  },
+  "monologo_racha_5": {
+   "nombre": "Cero monólogos de Rick",
+   "descripcion": "5 reuniones seguidas sin hablar más de 60 segundos de corrido. Ningún discurso de garaje sin pausas."
+  },
+  "preguntas_racha_3": {
+   "nombre": "El Morty curioso",
+   "descripcion": "3 reuniones seguidas con al menos 1 pregunta cada 10 minutos. Preguntar, aunque te tiemble la voz, es lo que salva la aventura."
+  },
+  "todo_verde": {
+   "nombre": "Luz verde de portal",
+   "descripcion": "Una reunión con todas tus métricas de cómo hablaste en rango. Todo brillando verde, igual que un portal recién disparado."
+  },
+  "equilibrio": {
+   "nombre": "Vindicators al completo",
+   "descripcion": "Los 4 apartados en 8 o más en una misma reunión. El equipo entero rindió, y esta vez sin Rick borracho sabotenado."
+  },
+  "remontada": {
+   "nombre": "Rick en cuerpo nuevo",
+   "descripcion": "Después de una reunión bajo 6, la siguiente sobre 8. Transferiste la conciencia a un clon fresco y volviste mejor."
+  },
+  "mejora_debil": {
+   "nombre": "De pepinillo a héroe",
+   "descripcion": "Tu apartado más débil subió 2+ puntos en promedio en las siguientes 5 reuniones. Empezaste siendo un pepinillo en el suelo y terminaste escapando del edificio."
+  },
+  "semana_8": {
+   "nombre": "Semana nivel C-137",
+   "descripcion": "Una semana con 3 o más reuniones y promedio de 8 o más. La dimensión original, la que todas las demás envidian."
+  }
+ },
+ "iconos_logros": {
+  "primera_reunion": "🌀",
+  "reuniones_10": "🛸",
+  "reuniones_50": "🪪",
+  "preguntas_10_en_una": "🧠",
+  "escucha_activa": "🛋️",
+  "cero_interrupciones_5": "🔱",
+  "puntaje_perfecto": "🧪",
+  "reunion_9": "🎸",
+  "express": "🥒",
+  "sin_muletillas": "🤐",
+  "mejora_cierre": "🐕",
+  "habito_1": "🔧",
+  "habito_racha_3": "📦",
+  "habito_10": "🐕",
+  "cierre_racha_3": "🔫",
+  "muletillas_racha_3": "🧪",
+  "habla_racha_5": "⚖️",
+  "monologo_racha_5": "🎙️",
+  "preguntas_racha_3": "❓",
+  "todo_verde": "🟢",
+  "equilibrio": "🦸",
+  "remontada": "🧬",
+  "mejora_debil": "🥒",
+  "semana_8": "🌌"
+ },
+ "iconos_apartados": {
+  "claridad": "🔫",
+  "escucha": "🦅",
+  "preguntas": "🔬",
+  "cierre": "🚪"
+ },
+ "iconos_rangos": [
+  "🍼",
+  "😬",
+  "📦",
+  "🔧",
+  "🩹",
+  "🦸",
+  "🤓",
+  "🪪",
+  "🥼",
+  "🌌"
+ ],
+ "estilo": {
+  "modo": "oscuro",
+  "fondo": "#070a07",
+  "fondo2": "#0f1a12",
+  "panel": "rgba(151,206,76,0.06)",
+  "texto": "#eef5e6",
+  "suave": "#93a688",
+  "linea": "rgba(151,206,76,0.18)",
+  "acento": "#97ce4c",
+  "acento_texto": "#aee06a",
+  "acento2": "#5fd0e8",
+  "fuente": "Chalkboard SE",
+  "peso": 800,
+  "mayusculas": true,
+  "cursiva": false,
+  "patron": "ki",
+  "radio": 14,
+  "kit": "redondo",
+  "textos": {
+   "reuniones": "Aventuras",
+   "ico_reuniones": "🛸",
+   "progreso": "Nivel de Rick",
+   "ico_progreso": "🧪",
+   "logros": "Medallas",
+   "ico_logros": "🎖️",
+   "titulo_progreso": "Tu nivel de Rick en el multiverso",
+   "buscar": "Buscar en el multiverso de actas"
+  },
+  "ventana": {
+   "titulo": "Laboratorio del garaje",
+   "derecha": "PORTAL ESTABLE",
+   "grabar": "Abrir portal",
+   "parar": "Cerrar portal",
+   "procesando": "Calculando en el multiverso…"
+  }
+ },
+ "idioma": "es"
+}

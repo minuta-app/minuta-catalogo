@@ -4,8 +4,8 @@
 Uso: python3 herramientas/traducir_idioma.py <codigo> "<Nombre del idioma>" "<bandera>"
 Ej.:  python3 herramientas/traducir_idioma.py pt "Português" "🇧🇷"
 
-Parte de idiomas/en.json: las claves son los textos originales en español y los valores en inglés sirven de referencia.
-Se traducen conservando {n}, {x}, emojis y atajos (⌘K). El resultado queda en idiomas/<codigo>.json;
+Parte de idiomas/comunidad/en.json: las claves son los textos originales en español y los valores en inglés sirven de referencia.
+Se traducen conservando {n}, {x}, emojis y atajos (⌘K). El resultado queda en idiomas/comunidad/<codigo>.json;
 después corre herramientas/generar_indice.py.
 """
 import json
@@ -32,9 +32,9 @@ atajos de teclado (⌘K, ↵) y nombres propios (Minuta, Claude, GitHub, Teams, 
 
 def main():
     codigo, nombre, bandera = sys.argv[1:4]
-    base = json.load(open(os.path.join(RAIZ, "idiomas", "en.json"), encoding="utf-8"))
+    base = json.load(open(os.path.join(RAIZ, "idiomas", "comunidad", "en.json"), encoding="utf-8"))
     # Si el idioma ya existe, se conservan sus traducciones y solo se traducen los textos nuevos.
-    destino = os.path.join(RAIZ, "idiomas", f"{codigo}.json")
+    destino = os.path.join(RAIZ, "idiomas", "comunidad", f"{codigo}.json")
     previo = json.load(open(destino, encoding="utf-8")) if os.path.exists(destino) else {}
     textos = {k: v for k, v in (previo.get("textos") or {}).items() if k in base["textos"]}
     claves = [(k, v) for k, v in base["textos"].items() if k not in textos]
@@ -55,8 +55,8 @@ def main():
             palabras = traducir(base["palabras"], nombre)
         except Exception as e:  # noqa: BLE001
             print(f"palabras: {e}", file=sys.stderr)
-    salida = {"codigo": codigo, "nombre": nombre, "bandera": bandera, "textos": textos, "palabras": palabras}
-    json.dump(salida, open(os.path.join(RAIZ, "idiomas", f"{codigo}.json"), "w", encoding="utf-8"), ensure_ascii=False, indent=1)
+    salida = {"id": codigo, "categoria": "comunidad", "codigo": codigo, "nombre": nombre, "bandera": bandera, "textos": textos, "palabras": palabras}
+    json.dump(salida, open(destino, "w", encoding="utf-8"), ensure_ascii=False, indent=1)
     print("OK", codigo)
 
 

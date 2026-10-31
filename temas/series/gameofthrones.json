@@ -1,0 +1,441 @@
+{
+ "id": "gameofthrones",
+ "categoria": "series",
+ "nombre": "Game of Thrones",
+ "emoji": "🐉",
+ "xp": "dragones de oro",
+ "categorias": [
+  "Series",
+  "Fantasía"
+ ],
+ "personaje_por_defecto": "Solo personajes de la serie Game of Thrones (HBO), de Poniente y Essos.",
+ "elogios": [
+  "¡Digno del Trono de Hierro!",
+  "Buen trabajo, el Norte lo recuerda.",
+  "Se acerca el invierno… y la mejora.",
+  "No sabes nada… todavía."
+ ],
+ "apartados": {
+  "claridad": [
+   {
+    "nombre": "Hodor",
+    "referencia": "Temporada 1",
+    "frase": "Solo se entendió \"Hodor\". Con cariño, pero nadie captó la idea."
+   },
+   {
+    "nombre": "Lysa Arryn",
+    "referencia": "Temporada 1",
+    "frase": "Divagaste como Lysa Arryn: mucho drama y poco mensaje."
+   },
+   {
+    "nombre": "Joffrey Baratheon",
+    "referencia": "Temporada 2",
+    "frase": "Hablaste como Joffrey: fuerte, a gritos y sin sentido."
+   },
+   {
+    "nombre": "Robert Baratheon",
+    "referencia": "Temporada 1",
+    "frase": "Como Robert: mucha voz, algo de idea y harto vino."
+   },
+   {
+    "nombre": "Jon Snow",
+    "referencia": "Temporada 3",
+    "frase": "Claro a medias, como Jon Snow: sincero, pero sin mucho detalle."
+   },
+   {
+    "nombre": "Davos Seaworth",
+    "referencia": "Temporada 3",
+    "frase": "Claro y honesto como Davos: sin adornos, se entendió."
+   },
+   {
+    "nombre": "Eddard Stark",
+    "referencia": "Temporada 1",
+    "frase": "Directo como Ned Stark: dijiste justo lo que había que decir."
+   },
+   {
+    "nombre": "Daenerys Targaryen",
+    "referencia": "Temporada 3",
+    "frase": "Hablaste como Daenerys ante su ejército: claro y con presencia."
+   },
+   {
+    "nombre": "Tyrion Lannister",
+    "referencia": "Temporada 2",
+    "frase": "Claridad de Tyrion: ingenio, orden y cero palabras de más."
+   },
+   {
+    "nombre": "Tywin Lannister",
+    "referencia": "Temporada 1",
+    "frase": "Cada palabra con peso. Tywin no lo habría dicho mejor."
+   }
+  ],
+  "escucha": [
+   {
+    "nombre": "Joffrey Baratheon",
+    "referencia": "Temporada 2",
+    "frase": "Escuchaste como Joffrey: solo a ti mismo."
+   },
+   {
+    "nombre": "Cersei Lannister",
+    "referencia": "Temporada 2",
+    "frase": "Como Cersei: oíste solo lo que te convenía."
+   },
+   {
+    "nombre": "Robert Baratheon",
+    "referencia": "Temporada 1",
+    "frase": "Escucha de Robert: entre banquete y cacería, poco quedó."
+   },
+   {
+    "nombre": "Stannis Baratheon",
+    "referencia": "Temporada 2",
+    "frase": "Como Stannis: atento, pero ya tenías tomada tu decisión."
+   },
+   {
+    "nombre": "Jon Snow",
+    "referencia": "Temporada 2",
+    "frase": "Escucha de Jon Snow: buena intención, pero aún no sabes nada."
+   },
+   {
+    "nombre": "Davos Seaworth",
+    "referencia": "Temporada 4",
+    "frase": "Escucha de Davos: paciente y con los pies en la tierra."
+   },
+   {
+    "nombre": "Sansa Stark",
+    "referencia": "Temporada 4",
+    "frase": "Como Sansa en Desembarco del Rey: escuchaste y aprendiste."
+   },
+   {
+    "nombre": "Arya Stark",
+    "referencia": "Temporada 5",
+    "frase": "Como Arya en Braavos: atenta a cada gesto y palabra."
+   },
+   {
+    "nombre": "Varys",
+    "referencia": "Temporada 3",
+    "frase": "Como Varys: tus pajaritos te contaron todo lo que se dijo."
+   },
+   {
+    "nombre": "Bran Stark",
+    "referencia": "Temporada 7",
+    "frase": "Como el Cuervo de Tres Ojos: entendiste hasta lo no dicho."
+   }
+  ],
+  "preguntas": [
+   {
+    "nombre": "Hodor",
+    "referencia": "Temporada 2",
+    "frase": "Cero preguntas. Solo un \"Hodor\" de vez en cuando."
+   },
+   {
+    "nombre": "Joffrey Baratheon",
+    "referencia": "Temporada 1",
+    "frase": "Preguntaste como Joffrey: puro impulso y sin oír la respuesta."
+   },
+   {
+    "nombre": "Robert Baratheon",
+    "referencia": "Temporada 1",
+    "frase": "Preguntas de Robert: \"¿Y el vino?\" y poco más."
+   },
+   {
+    "nombre": "Gendry",
+    "referencia": "Temporada 3",
+    "frase": "Preguntaste como Gendry: con ganas, pero sin ir al fondo."
+   },
+   {
+    "nombre": "Jon Snow",
+    "referencia": "Temporada 3",
+    "frase": "Preguntas de Jon Snow: honestas, aunque sin saber nada."
+   },
+   {
+    "nombre": "Samwell Tarly",
+    "referencia": "Temporada 6",
+    "frase": "Preguntas de Sam: curiosas y con olor a biblioteca."
+   },
+   {
+    "nombre": "Sansa Stark",
+    "referencia": "Temporada 6",
+    "frase": "Preguntas de Sansa: calculadas y cada vez más finas."
+   },
+   {
+    "nombre": "Varys",
+    "referencia": "Temporada 2",
+    "frase": "Preguntaste como Varys: sutil y con información detrás."
+   },
+   {
+    "nombre": "Meñique",
+    "referencia": "Temporada 3",
+    "frase": "Preguntas de Meñique: cada una abría una nueva escalera."
+   },
+   {
+    "nombre": "Tyrion Lannister",
+    "referencia": "Temporada 4",
+    "frase": "Preguntas de Tyrion: desarmaste el problema con copa en mano."
+   }
+  ],
+  "cierre": [
+   {
+    "nombre": "Robert Baratheon",
+    "referencia": "Temporada 1",
+    "frase": "Cierre de Robert: brindis y nadie recuerda qué se acordó."
+   },
+   {
+    "nombre": "Theon Greyjoy",
+    "referencia": "Temporada 2",
+    "frase": "Como Theon: cambiaste de bando al final y nadie entendió."
+   },
+   {
+    "nombre": "Viserys Targaryen",
+    "referencia": "Temporada 1",
+    "frase": "Prometiste una corona como Viserys… y no llegó nada."
+   },
+   {
+    "nombre": "Jon Snow",
+    "referencia": "Temporada 5",
+    "frase": "Cierre de Jon Snow: buena intención, pero sin plan claro."
+   },
+   {
+    "nombre": "Jaime Lannister",
+    "referencia": "Temporada 3",
+    "frase": "Como Jaime: cumpliste una parte y la otra quedó en el aire."
+   },
+   {
+    "nombre": "Stannis Baratheon",
+    "referencia": "Temporada 3",
+    "frase": "Cierre de Stannis: acuerdos rígidos, pero acuerdos al fin."
+   },
+   {
+    "nombre": "Eddard Stark",
+    "referencia": "Temporada 1",
+    "frase": "Cierre de Ned: claro y honorable. Ojalá todos cumplan."
+   },
+   {
+    "nombre": "Brienne de Tarth",
+    "referencia": "Temporada 4",
+    "frase": "Cierre de Brienne: cada acuerdo, un juramento cumplido."
+   },
+   {
+    "nombre": "Daenerys Targaryen",
+    "referencia": "Temporada 4",
+    "frase": "Como Daenerys: quedó claro quién hace qué. Dracarys."
+   },
+   {
+    "nombre": "Tywin Lannister",
+    "referencia": "Temporada 3",
+    "frase": "Quién, qué y cuándo, sin excusas. Tywin firmaría el acta."
+   }
+  ]
+ },
+ "rangos": [
+  {
+   "nombre": "Mozo de cuadra",
+   "frase": "Empiezas limpiando establos en Invernalia."
+  },
+  {
+   "nombre": "Escudero",
+   "frase": "Ya cargas la espada de alguien importante."
+  },
+  {
+   "nombre": "Hermano de la Guardia",
+   "frase": "Juraste vigilar el Muro, y reuniones."
+  },
+  {
+   "nombre": "Caballero ungido",
+   "frase": "\"Levántate, Ser\". Te lo ganaste."
+  },
+  {
+   "nombre": "Maestre de la Ciudadela",
+   "frase": "Tu cadena suma eslabones de sabiduría."
+  },
+  {
+   "nombre": "Señor de Invernalia",
+   "frase": "El Norte te escucha cuando hablas."
+  },
+  {
+   "nombre": "Consejo Privado",
+   "frase": "Te sientas en la mesa donde se decide todo."
+  },
+  {
+   "nombre": "Mano del Rey",
+   "frase": "Llevas el broche y el peso del reino."
+  },
+  {
+   "nombre": "Jinete de dragón",
+   "frase": "Pocos llegan aquí. Tú vuelas."
+  },
+  {
+   "nombre": "Rey de los Siete Reinos",
+   "frase": "El Trono de Hierro es tuyo. Gobierna bien."
+  }
+ ],
+ "logros": {
+  "primera_reunion": {
+   "nombre": "Se acerca el invierno",
+   "descripcion": "Registraste tu primera reunión."
+  },
+  "reuniones_10": {
+   "nombre": "Juramento de la Guardia",
+   "descripcion": "Registraste 10 reuniones."
+  },
+  "reuniones_50": {
+   "nombre": "Cruzaste el Mar Angosto",
+   "descripcion": "Registraste 50 reuniones."
+  },
+  "preguntas_10_en_una": {
+   "nombre": "Interrogatorio de Varys",
+   "descripcion": "Hiciste 10 o más preguntas en una sola reunión."
+  },
+  "escucha_activa": {
+   "nombre": "Silencio de Hombre sin Rostro",
+   "descripcion": "Hablaste 35% o menos en una reunión de 15+ minutos."
+  },
+  "cero_interrupciones_5": {
+   "nombre": "Paciencia de Ser Davos",
+   "descripcion": "5 reuniones seguidas sin interrumpir a nadie."
+  },
+  "puntaje_perfecto": {
+   "nombre": "Acero valyrio",
+   "descripcion": "Sacaste un 10 en algún apartado."
+  },
+  "reunion_9": {
+   "nombre": "¡Dracarys!",
+   "descripcion": "Promedio de 9 o más en una reunión."
+  },
+  "express": {
+   "nombre": "Cuervo mensajero",
+   "descripcion": "Reunión de 15 minutos o menos con cierre de 8 o más."
+  },
+  "sin_muletillas": {
+   "nombre": "Palabra de Stark",
+   "descripcion": "Reunión de 15+ minutos sin muletillas."
+  },
+  "mejora_cierre": {
+   "nombre": "Un Lannister paga sus deudas",
+   "descripcion": "Tu cierre promedio subió 2+ puntos vs. tus 5 reuniones anteriores."
+  },
+  "habito_1": {
+   "nombre": "Primer voto en la Fe",
+   "descripcion": "Cumpliste por primera vez el hábito que te dejó Minuta. Todo juramento empieza con una sola palabra."
+  },
+  "habito_racha_3": {
+   "nombre": "Tres cuervos seguidos",
+   "descripcion": "Cumpliste tu hábito 3 reuniones seguidas. Tres mensajes que llegaron sin perderse en el camino."
+  },
+  "habito_10": {
+   "nombre": "Diez por la mano del Rey",
+   "descripcion": "Cumpliste 10 hábitos en total. Disciplina de quien gobierna sin necesidad de corona."
+  },
+  "cierre_racha_3": {
+   "nombre": "Sello de lacre Stark",
+   "descripcion": "3 reuniones seguidas con cierre de 8 o más. Cerraste cada acuerdo como se sella una carta de Invernalia."
+  },
+  "muletillas_racha_3": {
+   "nombre": "Silencio de Caballero Cebolla",
+   "descripcion": "3 reuniones seguidas con menos de 3 muletillas cada 10 minutos. Pocas palabras de más, como Davos ante el rey."
+  },
+  "habla_racha_5": {
+   "nombre": "Equilibrio del Consejo Privado",
+   "descripcion": "5 reuniones seguidas con tu tiempo de habla en rango. Ni Varys ni Baelish: la medida justa en la mesa."
+  },
+  "monologo_racha_5": {
+   "nombre": "Nada de discurso de Tyrion",
+   "descripcion": "5 reuniones seguidas sin hablar más de 60 segundos de corrido. Brillante como el Gnomo, pero sin alargar el juicio."
+  },
+  "preguntas_racha_3": {
+   "nombre": "Pájaros de Varys",
+   "descripcion": "3 reuniones seguidas con al menos 1 pregunta cada 10 minutos. Preguntaste tanto que ya tienes tus propios informantes."
+  },
+  "todo_verde": {
+   "nombre": "Valar Dohaeris",
+   "descripcion": "Una reunión con todas tus métricas de cómo hablaste en rango. Todas las puertas de Braavos abiertas a la vez."
+  },
+  "equilibrio": {
+   "nombre": "Las cuatro casas unidas",
+   "descripcion": "Los 4 apartados en 8 o más en una misma reunión. Stark, Lannister, Targaryen y Tyrell de acuerdo por una vez."
+  },
+  "remontada": {
+   "nombre": "La Batalla de los Bastardos",
+   "descripcion": "Después de una reunión bajo 6, la siguiente sobre 8. Estabas rodeado y aun así ganaste el campo."
+  },
+  "mejora_debil": {
+   "nombre": "Entrenamiento con Syrio",
+   "descripcion": "Tu apartado más débil subió 2+ puntos en promedio en las siguientes 5 reuniones. La primera lección aprendida: no eres la que eras ayer."
+  },
+  "semana_8": {
+   "nombre": "Semana en Altojardín",
+   "descripcion": "Una semana con 3+ reuniones y promedio de 8 o más. Cosecha abundante, como en las tierras de los Tyrell."
+  }
+ },
+ "iconos_logros": {
+  "primera_reunion": "❄️",
+  "reuniones_10": "🖤",
+  "reuniones_50": "⛵",
+  "preguntas_10_en_una": "🕷️",
+  "escucha_activa": "🎭",
+  "cero_interrupciones_5": "🧅",
+  "puntaje_perfecto": "🗡️",
+  "reunion_9": "🔥",
+  "express": "🐦",
+  "sin_muletillas": "🐺",
+  "mejora_cierre": "🦁",
+  "habito_1": "🕯️",
+  "habito_racha_3": "🐦‍⬛",
+  "habito_10": "📜",
+  "cierre_racha_3": "🐺",
+  "muletillas_racha_3": "🧅",
+  "habla_racha_5": "⚖️",
+  "monologo_racha_5": "🍷",
+  "preguntas_racha_3": "🕊️",
+  "todo_verde": "🪙",
+  "equilibrio": "🛡️",
+  "remontada": "⚔️",
+  "mejora_debil": "🤺",
+  "semana_8": "🌹"
+ },
+ "iconos_apartados": {
+  "claridad": "📜",
+  "escucha": "👂",
+  "preguntas": "🕷️",
+  "cierre": "🗝️"
+ },
+ "iconos_rangos": [
+  "🐴",
+  "🛡️",
+  "🖤",
+  "⚔️",
+  "📚",
+  "🐺",
+  "🪶",
+  "✋",
+  "🐉",
+  "👑"
+ ],
+ "estilo": {
+  "modo": "oscuro",
+  "fondo": "#0b0e11",
+  "fondo2": "#18212b",
+  "panel": "rgba(159,201,230,0.05)",
+  "texto": "#e9edf1",
+  "suave": "#8f9aa6",
+  "linea": "rgba(159,201,230,0.18)",
+  "acento": "#9FC9E6",
+  "acento_texto": "#B7D8EE",
+  "acento2": "#B8860B",
+  "fuente": "Copperplate",
+  "peso": 700,
+  "mayusculas": true,
+  "cursiva": false,
+  "patron": "hielo",
+  "radio": 0,
+  "textos": {
+   "reuniones": "Concilios",
+   "ico_reuniones": "🏰",
+   "progreso": "Ascenso",
+   "ico_progreso": "👑",
+   "logros": "Blasones",
+   "ico_logros": "🛡️",
+   "titulo_progreso": "Tu ascenso al trono",
+   "buscar": "Buscar en la Ciudadela"
+  }
+ },
+ "idioma": "es"
+}

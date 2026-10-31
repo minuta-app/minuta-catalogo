@@ -1,0 +1,450 @@
+{
+ "id": "pokemon",
+ "categoria": "anime",
+ "nombre": "Pokémon",
+ "emoji": "⚡",
+ "xp": "caramelos raros",
+ "categorias": [
+  "Anime",
+  "Videojuegos",
+  "Aventura"
+ ],
+ "personaje_por_defecto": "Solo personajes y Pokémon canónicos del anime clásico de Ash (Kanto, Islas Naranja y Johto) y sus películas.",
+ "elogios": [
+  "¡Felicitaciones! Tu reunión evolucionó: esto ya es un Charizard.",
+  "Bien ahí, entrenador. Una medalla más para el estuche.",
+  "Tu reunión está debilitada. Pasa al Centro Pokémon y vuelve a intentarlo.",
+  "¡Team Rocket se va despegandooo! Y esta vez el del globo eras tú."
+ ],
+ "apartados": {
+  "claridad": [
+   {
+    "nombre": "Magikarp",
+    "referencia": "Batalla a bordo del St. Anne",
+    "frase": "Veinte minutos de reunión y tu único ataque fue Salpicadura."
+   },
+   {
+    "nombre": "Unown",
+    "referencia": "Pokémon 3: El hechizo de los Unown",
+    "frase": "Dejaste tus ideas como letras sueltas flotando y nadie las supo deletrear."
+   },
+   {
+    "nombre": "Metapod",
+    "referencia": "El desafío del samurái",
+    "frase": "Tu única técnica fue Fortaleza: te endureciste y no explicaste nada más."
+   },
+   {
+    "nombre": "Psyduck",
+    "referencia": "La siesta de Hypno",
+    "frase": "Salpicaste la reunión saliendo de la Poké Ball sin que nadie te llamara, con jaqueca y sin punto que exponer."
+   },
+   {
+    "nombre": "Sr. Mime (Mimey)",
+    "referencia": "Es la hora del Sr. Mime",
+    "frase": "Explicaste todo con mímica impecable; igual nadie pudo tomar nota."
+   },
+   {
+    "nombre": "Butch",
+    "referencia": "El secreto del centro de crianza",
+    "frase": "Dijiste tu nombre tres veces y en la minuta igual quedó 'Botch'."
+   },
+   {
+    "nombre": "Brock",
+    "referencia": "Combate en Ciudad Plateada",
+    "frase": "Explicaste el plan con receta y porciones exactas; el problema fue cuando entró la Enfermera Joy."
+   },
+   {
+    "nombre": "Tracey Sketchit",
+    "referencia": "La Lapras perdida",
+    "frase": "Dibujaste el diagrama en vivo y por fin la sala entera entendió."
+   },
+   {
+    "nombre": "Profesor Oak",
+    "referencia": "Pokémon, ¡yo te elijo!",
+    "frase": "Explicaste en dos minutos qué es un Pokémon y hasta Ash entendió."
+   },
+   {
+    "nombre": "Lance",
+    "referencia": "Saga Johto: el Lago de la Furia",
+    "frase": "Hablaste tan claro y tan calmado que incluso el Gyarados rojo bajó la voz."
+   }
+  ],
+  "escucha": [
+   {
+    "nombre": "Snorlax",
+    "referencia": "¡Despierta, Snorlax!",
+    "frase": "Dormiste toda la reunión y solo despertaste cuando sonó la Poké Flauta."
+   },
+   {
+    "nombre": "Jigglypuff",
+    "referencia": "El canto de Jigglypuff",
+    "frase": "Cantaste hasta que todos cayeron dormidos y no notaste ni una cara rayada con marcador."
+   },
+   {
+    "nombre": "Primeape",
+    "referencia": "Primeape se vuelve loco",
+    "frase": "Te enojaste por un gorro ajeno y persiguiste a la sala completa."
+   },
+   {
+    "nombre": "Slowking",
+    "referencia": "Pokémon 2000: El poder de uno",
+    "frase": "Respondiste con sabiduría profunda... tres temas después."
+   },
+   {
+    "nombre": "Zubat",
+    "referencia": "Clefairy y la piedra lunar",
+    "frase": "Escuchaste todo por ecolocación, aunque con los ojos bien cerrados."
+   },
+   {
+    "nombre": "Misty",
+    "referencia": "Las flores acuáticas de Ciudad Celeste",
+    "frase": "Escuchaste, entendiste y de paso recordaste que alguien todavía te debe una bicicleta."
+   },
+   {
+    "nombre": "Noctowl",
+    "referencia": "Saga Johto",
+    "frase": "Giraste la cabeza 180° para no perderte ni el comentario del fondo de la sala."
+   },
+   {
+    "nombre": "Enfermera Joy",
+    "referencia": "¡Emergencia Pokémon!",
+    "frase": "Escuchaste el diagnóstico completo sin interrumpir y devolviste a todos sanos."
+   },
+   {
+    "nombre": "Prima",
+    "referencia": "Islas Naranja: la lección de Prima",
+    "frase": "Escuchaste en silencio, con los ojos cerrados, y corregiste todo con una sola frase."
+   },
+   {
+    "nombre": "Sabrina",
+    "referencia": "Abra y el duelo psíquico",
+    "frase": "Leíste la mente de la sala antes de que nadie abriera la boca."
+   }
+  ],
+  "preguntas": [
+   {
+    "nombre": "Ash Ketchum (novato)",
+    "referencia": "Pokémon, ¡yo te elijo!",
+    "frase": "Le apuntaste con la Pokédex a quien tenías sentado al lado para preguntarle quién era."
+   },
+   {
+    "nombre": "Jessie",
+    "referencia": "¡Emergencia Pokémon!",
+    "frase": "No preguntaste nada: llegaste con el lema aprendido de memoria y lo recitaste igual."
+   },
+   {
+    "nombre": "James",
+    "referencia": "¡Emergencia Pokémon!",
+    "frase": "Tu única consulta fue si el disfraz te quedaba bien."
+   },
+   {
+    "nombre": "Meowth",
+    "referencia": "Ve al oeste, joven Meowth",
+    "frase": "Hablas idioma humano y aun así todas tus preguntas fueron sobre ti."
+   },
+   {
+    "nombre": "Oficial Jenny",
+    "referencia": "¡Emergencia Pokémon!",
+    "frase": "Interrogaste a toda la sala pidiendo licencia de conducir y nunca el problema de fondo."
+   },
+   {
+    "nombre": "Gary Oak",
+    "referencia": "Liga Añil (Meseta Añil)",
+    "frase": "Preguntaste cuántas medallas lleva el resto solo para contar las tuyas. Nos vemos, perdedor."
+   },
+   {
+    "nombre": "Todd Snap",
+    "referencia": "Paparazzi Pokémon",
+    "frase": "Preguntaste desde todos los ángulos hasta dar con la foto justa."
+   },
+   {
+    "nombre": "Delia Ketchum",
+    "referencia": "Pokémon, ¡yo te elijo!",
+    "frase": "Hiciste la pregunta que nadie se atrevía: '¿y llevas calzoncillos limpios?'."
+   },
+   {
+    "nombre": "Blaine",
+    "referencia": "Adivina mi acertijo",
+    "frase": "Cada pregunta tuya fue un acertijo con volcán incluido, y todos quisieron responder."
+   },
+   {
+    "nombre": "Mewtwo",
+    "referencia": "Pokémon: La película — Mewtwo contra Mew",
+    "frase": "Preguntaste '¿quién soy yo?' y la reunión completa se quedó pensando."
+   }
+  ],
+  "cierre": [
+   {
+    "nombre": "Wobbuffet",
+    "referencia": "Saga Johto: el Wobbuffet de Jessie",
+    "frase": "Apareciste justo en el cierre, dijiste tu nombre y volviste a la Poké Ball."
+   },
+   {
+    "nombre": "Charizard de Ash",
+    "referencia": "Liga Añil: Ash contra Ritchie",
+    "frase": "Llegó la hora de cerrar y te echaste a dormir en plena batalla."
+   },
+   {
+    "nombre": "Weezing de James",
+    "referencia": "Saga Kanto: el Weezing de James",
+    "frase": "Cerraste con una cortina de humo y nadie supo en qué quedamos."
+   },
+   {
+    "nombre": "Hypno",
+    "referencia": "La siesta de Hypno",
+    "frase": "Cerraste moviendo el péndulo y dejaste a media sala dormida y a dos creyéndose Pokémon."
+   },
+   {
+    "nombre": "Samurái",
+    "referencia": "El desafío del samurái",
+    "frase": "Cerraste proponiendo un duelo a muerte por un Metapod."
+   },
+   {
+    "nombre": "Teniente Surge",
+    "referencia": "Duelo de descargas eléctricas",
+    "frase": "Cerraste a gritos y con 100.000 voltios: quedó clarísimo, pero quedó chamuscado."
+   },
+   {
+    "nombre": "Vendedor de Magikarp",
+    "referencia": "Batalla a bordo del St. Anne",
+    "frase": "Cerraste la venta antes de que alguien leyera la letra chica."
+   },
+   {
+    "nombre": "Giovanni",
+    "referencia": "La batalla de la medalla",
+    "frase": "Cerraste en voz baja acariciando a tu Persian y nadie se atrevió a pedir otra reunión."
+   },
+   {
+    "nombre": "Butterfree",
+    "referencia": "Adiós, Butterfree",
+    "frase": "Cerraste con una despedida tan sentida que hasta el del globo quedó llorando."
+   },
+   {
+    "nombre": "Lugia",
+    "referencia": "Pokémon 2000: El poder de uno",
+    "frase": "Cerraste equilibrando a los tres bandos y la profecía se cumplió tal cual."
+   }
+  ]
+ },
+ "rangos": [
+  {
+   "nombre": "Pijama de Pueblo Paleta",
+   "frase": "Te quedaste dormido el primer día y partiste al laboratorio en piyama."
+  },
+  {
+   "nombre": "Cazador del Bosque Verde",
+   "frase": "Atrapaste tu primer Caterpie y lo celebraste como si fuera la liga."
+  },
+  {
+   "nombre": "Dueño de una medalla",
+   "frase": "La Medalla Roca te la ganaste... con una ayudita del riego automático."
+  },
+  {
+   "nombre": "Cuatro medallas y un Psyduck",
+   "frase": "Avanzas firme, aunque medio equipo sale de la Poké Ball cuando quiere."
+  },
+  {
+   "nombre": "Ocho medallas de Kanto",
+   "frase": "Juntaste las ocho: la Meseta Añil ya te está esperando."
+  },
+  {
+   "nombre": "Top 16 de la Liga Añil",
+   "frase": "Perdiste porque tu Charizard decidió dormir. Igual aprendiste."
+  },
+  {
+   "nombre": "Campeón de la Copa Naranja",
+   "frase": "Le ganaste a Drake y su Dragonite: tu primer trofeo de verdad."
+  },
+  {
+   "nombre": "Líder de gimnasio",
+   "frase": "Ahora los demás vienen a ti a pedirte la medalla."
+  },
+  {
+   "nombre": "Alto Mando",
+   "frase": "Te sientas donde se sientan Lorelei, Bruno, Agatha y Lance."
+  },
+  {
+   "nombre": "Maestro Pokémon",
+   "frase": "Lo que Ash gritó en el episodio uno, tú lo cumpliste."
+  }
+ ],
+ "logros": {
+  "primera_reunion": {
+   "nombre": "¡Yo te elijo!",
+   "descripcion": "Completaste tu primera reunión."
+  },
+  "reuniones_10": {
+   "nombre": "Diez veces 'te elijo'",
+   "descripcion": "Completaste 10 reuniones."
+  },
+  "reuniones_50": {
+   "nombre": "Media Pokédex",
+   "descripcion": "Completaste 50 reuniones."
+  },
+  "preguntas_10_en_una": {
+   "nombre": "Interrogatorio de la Oficial Jenny",
+   "descripcion": "Hiciste 10 o más preguntas en una sola reunión."
+  },
+  "escucha_activa": {
+   "nombre": "Orejas de Noctowl",
+   "descripcion": "Hablaste 35% o menos en una reunión de 15+ minutos."
+  },
+  "cero_interrupciones_5": {
+   "nombre": "Cinco sin Wobbuffet",
+   "descripcion": "5 reuniones seguidas sin interrumpir a nadie."
+  },
+  "puntaje_perfecto": {
+   "nombre": "¡Es súper efectivo!",
+   "descripcion": "Sacaste un 10 en algún apartado."
+  },
+  "reunion_9": {
+   "nombre": "Reunión nivel 100",
+   "descripcion": "Promedio de 9 o más en una reunión."
+  },
+  "express": {
+   "nombre": "Ataque rápido",
+   "descripcion": "Reunión de 15 minutos o menos con cierre de 8 o más."
+  },
+  "sin_muletillas": {
+   "nombre": "Cero Salpicadura",
+   "descripcion": "Reunión de 15+ minutos sin ninguna muletilla."
+  },
+  "mejora_cierre": {
+   "nombre": "Piedra Trueno en el cierre",
+   "descripcion": "Tu cierre promedio subió 2+ puntos vs. tus 5 reuniones anteriores."
+  },
+  "habito_1": {
+   "nombre": "Medalla Roca obtenida",
+   "descripcion": "Cumpliste por primera vez el hábito que te dejó Minuta. Tu primera medalla ya está en el cinturón."
+  },
+  "habito_racha_3": {
+   "nombre": "Charmander, Charmeleon, Charizard",
+   "descripcion": "Cumpliste tu hábito en 3 reuniones seguidas. Tres etapas, una sola evolución."
+  },
+  "habito_10": {
+   "nombre": "Diez medallas al cinturón",
+   "descripcion": "Cumpliste 10 hábitos en total. Ya tienes más medallas que gimnasios en Kanto."
+  },
+  "cierre_racha_3": {
+   "nombre": "Triple Impactrueno final",
+   "descripcion": "3 reuniones seguidas con cierre de 8 o más. Cerraste fuerte tres veces al hilo."
+  },
+  "muletillas_racha_3": {
+   "nombre": "Ni un 'pika' de más",
+   "descripcion": "3 reuniones seguidas con menos de 3 muletillas cada 10 minutos. Hablas claro, no repites tu nombre."
+  },
+  "habla_racha_5": {
+   "nombre": "Ni Jigglypuff ni Snorlax",
+   "descripcion": "5 reuniones seguidas con tu tiempo de habla en rango: no cantas de más ni te duermes."
+  },
+  "monologo_racha_5": {
+   "nombre": "Sin discurso del Team Rocket",
+   "descripcion": "5 reuniones seguidas sin hablar más de 60 segundos de corrido. Nada de lemas interminables."
+  },
+  "preguntas_racha_3": {
+   "nombre": "Modo Pokédex activado",
+   "descripcion": "3 reuniones seguidas con al menos 1 pregunta cada 10 minutos. Preguntas como una Pokédex."
+  },
+  "todo_verde": {
+   "nombre": "Captura perfecta",
+   "descripcion": "Una reunión con todas tus métricas de cómo hablaste en rango. Pokéball al primer tiro."
+  },
+  "equilibrio": {
+   "nombre": "Los cuatro del Alto Mando",
+   "descripcion": "Los 4 apartados en 8 o más en una misma reunión. Venciste a los cuatro sin ceder."
+  },
+  "remontada": {
+   "nombre": "De vuelta del Centro Pokémon",
+   "descripcion": "Después de una reunión bajo 6, la siguiente sobre 8. Te recuperaste y volviste al combate."
+  },
+  "mejora_debil": {
+   "nombre": "Magikarp que se hizo Gyarados",
+   "descripcion": "Tu apartado más débil subió 2+ puntos en promedio en las siguientes 5 reuniones. Lo más débil ahora impone."
+  },
+  "semana_8": {
+   "nombre": "Semana nivel Liga Añil",
+   "descripcion": "Una semana con 3 o más reuniones y promedio de 8 o más. Semana digna de la Liga."
+  }
+ },
+ "iconos_logros": {
+  "primera_reunion": "⚡",
+  "reuniones_10": "🎒",
+  "reuniones_50": "🗺️",
+  "preguntas_10_en_una": "🚓",
+  "escucha_activa": "🦉",
+  "cero_interrupciones_5": "🤐",
+  "puntaje_perfecto": "💥",
+  "reunion_9": "🏆",
+  "express": "💨",
+  "sin_muletillas": "🚫",
+  "mejora_cierre": "💎",
+  "habito_1": "🪨",
+  "habito_racha_3": "🔥",
+  "habito_10": "🎖️",
+  "cierre_racha_3": "⚡",
+  "muletillas_racha_3": "🗣️",
+  "habla_racha_5": "😴",
+  "monologo_racha_5": "🚀",
+  "preguntas_racha_3": "📖",
+  "todo_verde": "💚",
+  "equilibrio": "👑",
+  "remontada": "🏥",
+  "mejora_debil": "🐉",
+  "semana_8": "🏆"
+ },
+ "iconos_apartados": {
+  "claridad": "📣",
+  "escucha": "👂",
+  "preguntas": "🔎",
+  "cierre": "🎯"
+ },
+ "iconos_rangos": [
+  "🛏️",
+  "🐛",
+  "🪨",
+  "🦆",
+  "🎖️",
+  "🔥",
+  "🍊",
+  "🏟️",
+  "👑",
+  "⚡"
+ ],
+ "estilo": {
+  "modo": "oscuro",
+  "fondo": "#0b1220",
+  "fondo2": "#152a52",
+  "panel": "rgba(255,255,255,0.055)",
+  "texto": "#f7f4e8",
+  "suave": "#9fadcb",
+  "linea": "rgba(255,203,5,0.18)",
+  "acento": "#ffcb05",
+  "acento_texto": "#ffcb05",
+  "acento2": "#ee2b2b",
+  "fuente": "ui-rounded",
+  "peso": 800,
+  "mayusculas": true,
+  "cursiva": false,
+  "patron": "ki",
+  "radio": 16,
+  "kit": "plastico",
+  "textos": {
+   "reuniones": "Batallas",
+   "ico_reuniones": "⚔️",
+   "progreso": "Entrenamiento",
+   "ico_progreso": "🏋️",
+   "logros": "Medallas",
+   "ico_logros": "🏅",
+   "titulo_progreso": "Tu camino a Maestro Pokémon",
+   "buscar": "Buscar en la Pokédex…"
+  },
+  "ventana": {
+   "titulo": "Pokédex de bolsillo",
+   "derecha": "DEX 151 · SEÑAL OK",
+   "grabar": "¡Pikachu, yo te elijo!",
+   "parar": "Volver a la Poké Ball",
+   "procesando": "Registrando datos en la Pokédex…"
+  }
+ },
+ "idioma": "es"
+}

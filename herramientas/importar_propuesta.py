@@ -4,12 +4,13 @@
 Uso: python3 herramientas/importar_propuesta.py <número del issue> [--id nuevo_id]   (desde la raíz del catálogo)
 
 Lee el issue público, saca el bloque ```json, lo valida con las mismas reglas que generar_indice.py, le pone como
-autor a quien lo propuso y lo guarda en universos/<id>.json. Después:
+autor a quien lo propuso y lo guarda en temas/<categoria>/<id>.json (categoria: la primera de «categorias»). Después:
   1. Revisa el archivo a mano: que no mencione personas, empresas ni datos de reuniones, y que sea un homenaje breve.
   2. python3 herramientas/generar_indice.py
   3. Commit, push y crea el issue de votos: "Votos: <Nombre> [<id>]" con la etiqueta `votos`.
   4. Responde y cierra la propuesta.
 """
+import glob
 import json
 import os
 import re
@@ -17,7 +18,8 @@ import sys
 import urllib.request
 
 sys.path.insert(0, os.path.dirname(os.path.abspath(__file__)))
-from generar_indice import RAIZ, CLAVES, validar_universo  # noqa: E402
+from generar_indice import RAIZ  # noqa: E402
+import universo_formato  # noqa: E402
 
 REPO = "minuta-app/minuta-catalogo"
 
@@ -36,18 +38,21 @@ def main():
     if not bloque:
         sys.exit("El issue no trae un bloque ```json con el universo.")
     d = json.loads(bloque.group(1))
-    d = {k: v for k, v in d.items() if k in CLAVES}
+    d = {k: v for k, v in d.items() if k in universo_formato.CAMPOS}
     if nuevo_id:
         d["id"] = nuevo_id
     d["autor"] = (issue.get("user") or {}).get("login", "")
-    destino = os.path.join(RAIZ, "universos", f"{d.get('id')}.json")
-    if os.path.exists(destino):
+    cats = d.get("categorias") if isinstance(d.get("categorias"), list) else []
+    d["categoria"] = universo_formato.slug(cats[0]) if cats and isinstance(cats[0], str) else ""
+    destino = os.path.join(RAIZ, "temas", d["categoria"] or "sin-categoria", f"{d.get('id')}.json")
+    if any(os.path.basename(r) == f"{d.get('id')}.json" for r in glob.glob(os.path.join(RAIZ, "temas", "*", "*.json"))):
         sys.exit(f"Ya existe un universo con id «{d.get('id')}». Usa --id para darle otro.")
-    errores = validar_universo(d, destino)
+    errores = universo_formato.validar(d)
     if errores:
         sys.exit("No pasa la validación:\n- " + "\n- ".join(errores))
+    os.makedirs(os.path.dirname(destino), exist_ok=True)
     with open(destino, "w", encoding="utf-8") as f:
-        json.dump(d, f, ensure_ascii=False, indent=2)
+        json.dump(d, f, ensure_ascii=False, indent=1)
         f.write("\n")
     print(f"✓ {os.path.relpath(destino, RAIZ)} (autor: {d['autor']}). Revísalo, corre generar_indice.py y crea su issue de votos.")
 
