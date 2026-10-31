@@ -1,0 +1,443 @@
+{
+ "id": "senoranillos",
+ "categoria": "peliculas",
+ "nombre": "El Señor de los Anillos",
+ "emoji": "💍",
+ "xp": "lembas",
+ "categorias": [
+  "Películas",
+  "Fantasía",
+  "Libros",
+  "Clásicos"
+ ],
+ "personaje_por_defecto": "Solo personajes canónicos de los libros y películas de El Señor de los Anillos.",
+ "elogios": [
+  "¡Digno de un rey de Gondor!",
+  "La Comunidad está orgullosa.",
+  "Aún queda camino a Mordor.",
+  "Un hobbit perdido en Moria."
+ ],
+ "apartados": {
+  "claridad": [
+   {
+    "nombre": "Gollum",
+    "referencia": "Las dos torres",
+    "frase": "Hablaste contigo mismo y ni Sméagol entendió el punto."
+   },
+   {
+    "nombre": "Peregrin Tuk (Pippin)",
+    "referencia": "La Comunidad del Anillo",
+    "frase": "¿Y el segundo desayuno? Ideas sueltas, cero orden."
+   },
+   {
+    "nombre": "Bárbol",
+    "referencia": "Las dos torres",
+    "frase": "Hum, hom… tardaste tres días en llegar a la primera idea."
+   },
+   {
+    "nombre": "Bilbo Bolsón",
+    "referencia": "La Comunidad del Anillo",
+    "frase": "Discurso de cumpleaños: la mitad entendió menos de la mitad."
+   },
+   {
+    "nombre": "Samsagaz Gamyi",
+    "referencia": "La Comunidad del Anillo",
+    "frase": "Sencillo y honesto. Se entendió, aunque con varias papas de por medio."
+   },
+   {
+    "nombre": "Frodo Bolsón",
+    "referencia": "La Comunidad del Anillo",
+    "frase": "Dijiste lo justo, con algo de duda. Yo lo llevaré, pero ¿cómo?"
+   },
+   {
+    "nombre": "Boromir",
+    "referencia": "La Comunidad del Anillo",
+    "frase": "Uno no simplemente entra en Mordor. Claro y con gestos, bien."
+   },
+   {
+    "nombre": "Faramir",
+    "referencia": "Las dos torres",
+    "frase": "Hablaste con calma y criterio. El capitán que todos entienden."
+   },
+   {
+    "nombre": "Elrond",
+    "referencia": "La Comunidad del Anillo",
+    "frase": "Expusiste la historia y el problema con orden de Concilio."
+   },
+   {
+    "nombre": "Gandalf",
+    "referencia": "La Comunidad del Anillo",
+    "frase": "¡No puedes pasar! Corto, claro y con todo el peso del mundo."
+   }
+  ],
+  "escucha": [
+   {
+    "nombre": "Lobelia Sacovilla-Bolsón",
+    "referencia": "La Comunidad del Anillo",
+    "frase": "Hablaste sin parar y solo escuchaste para buscar cucharas."
+   },
+   {
+    "nombre": "Saruman",
+    "referencia": "La Comunidad del Anillo",
+    "frase": "Te creíste el más sabio y no dejaste opinar a nadie."
+   },
+   {
+    "nombre": "Denethor",
+    "referencia": "El retorno del Rey",
+    "frase": "Te dieron buenos consejos y preferiste seguir comiendo tomates."
+   },
+   {
+    "nombre": "Boromir",
+    "referencia": "La Comunidad del Anillo",
+    "frase": "Escuchaste el Concilio, pero solo oías lo que te convenía."
+   },
+   {
+    "nombre": "Peregrin Tuk (Pippin)",
+    "referencia": "Las dos torres",
+    "frase": "Te dijeron que no tocaras el palantír. Escucha a medias."
+   },
+   {
+    "nombre": "Meriadoc Brandigamo (Merry)",
+    "referencia": "Las dos torres",
+    "frase": "Escuchaste a Bárbol con paciencia hobbit. Algo es algo."
+   },
+   {
+    "nombre": "Samsagaz Gamyi",
+    "referencia": "Las dos torres",
+    "frase": "Atento y leal, escuchando cada palabra de tu amigo."
+   },
+   {
+    "nombre": "Frodo Bolsón",
+    "referencia": "La Comunidad del Anillo",
+    "frase": "Escuchaste a Gandalf con atención y entendiste la carga."
+   },
+   {
+    "nombre": "Bárbol",
+    "referencia": "Las dos torres",
+    "frase": "Escucha de Ent: sin apuro, dejando que todos terminen."
+   },
+   {
+    "nombre": "Galadriel",
+    "referencia": "La Comunidad del Anillo",
+    "frase": "Escuchaste hasta lo que nadie dijo. Leíste mentes en la reunión."
+   }
+  ],
+  "preguntas": [
+   {
+    "nombre": "Uglúk",
+    "referencia": "Las dos torres",
+    "frase": "Cero preguntas, puro grito y empujón. Muy uruk-hai."
+   },
+   {
+    "nombre": "Peregrin Tuk (Pippin)",
+    "referencia": "La Comunidad del Anillo",
+    "frase": "¿Y el almuerzo? ¿Y la cena? Preguntas de puro impulso."
+   },
+   {
+    "nombre": "Gimli",
+    "referencia": "La Comunidad del Anillo",
+    "frase": "Preguntaste con el hacha en la mano. Directo, no tan fino."
+   },
+   {
+    "nombre": "Meriadoc Brandigamo (Merry)",
+    "referencia": "La Comunidad del Anillo",
+    "frase": "Algunas preguntas buenas entre varias pensando en hongos."
+   },
+   {
+    "nombre": "Samsagaz Gamyi",
+    "referencia": "Las dos torres",
+    "frase": "Preguntas simples y prácticas. A veces las mejores."
+   },
+   {
+    "nombre": "Frodo Bolsón",
+    "referencia": "La Comunidad del Anillo",
+    "frase": "Preguntaste lo importante: ¿por qué yo? Bien encaminado."
+   },
+   {
+    "nombre": "Faramir",
+    "referencia": "Las dos torres",
+    "frase": "Interrogaste con sabiduría en Ithilien. Te acercaste a la verdad."
+   },
+   {
+    "nombre": "Bilbo Bolsón",
+    "referencia": "La Comunidad del Anillo",
+    "frase": "Acertijos en la oscuridad: tus preguntas descolocaron a todos."
+   },
+   {
+    "nombre": "Elrond",
+    "referencia": "La Comunidad del Anillo",
+    "frase": "Preguntaste lo que nadie quería enfrentar. El Concilio avanzó."
+   },
+   {
+    "nombre": "Gandalf",
+    "referencia": "La Comunidad del Anillo",
+    "frase": "Investigaste en los archivos de Minas Tirith y desarmaste el misterio."
+   }
+  ],
+  "cierre": [
+   {
+    "nombre": "Bilbo Bolsón",
+    "referencia": "La Comunidad del Anillo",
+    "frase": "Te pusiste el anillo y desapareciste sin cerrar nada."
+   },
+   {
+    "nombre": "Peregrin Tuk (Pippin)",
+    "referencia": "El retorno del Rey",
+    "frase": "Encendiste el faro sin acordar quién hacía qué. Igual funcionó."
+   },
+   {
+    "nombre": "Gríma Lengua de Serpiente",
+    "referencia": "Las dos torres",
+    "frase": "Cerraste con susurros vagos y nadie quedó con nada claro."
+   },
+   {
+    "nombre": "Théoden",
+    "referencia": "Las dos torres",
+    "frase": "Dudaste mucho antes de decidir. Al final hubo algo de plan."
+   },
+   {
+    "nombre": "Meriadoc Brandigamo (Merry)",
+    "referencia": "El retorno del Rey",
+    "frase": "Te comprometiste con valentía, aunque sin fecha clara."
+   },
+   {
+    "nombre": "Samsagaz Gamyi",
+    "referencia": "El retorno del Rey",
+    "frase": "Si Frodo no puede, lo cargas tú. Compromiso firme, falta el cuándo."
+   },
+   {
+    "nombre": "Éomer",
+    "referencia": "El retorno del Rey",
+    "frase": "Jinetes asignados y rumbo definido. Rohan cabalga ordenado."
+   },
+   {
+    "nombre": "Aragorn",
+    "referencia": "El retorno del Rey",
+    "frase": "Plan claro hacia la Puerta Negra. Todos sabían su lugar."
+   },
+   {
+    "nombre": "Elrond",
+    "referencia": "La Comunidad del Anillo",
+    "frase": "Nueve caminantes, una misión y un destino. Acuerdo impecable."
+   },
+   {
+    "nombre": "Gandalf",
+    "referencia": "Las dos torres",
+    "frase": "Quinto día, al amanecer, mirando al este. Quién, qué y cuándo."
+   }
+  ]
+ },
+ "rangos": [
+  {
+   "nombre": "Hobbit de la Comarca",
+   "frase": "Cómodo en tu agujero, pero ya escuchas el llamado."
+  },
+  {
+   "nombre": "Viajero de Bree",
+   "frase": "Saliste de casa y conociste a un tal Trancos."
+  },
+  {
+   "nombre": "Montaraz del Norte",
+   "frase": "Ya lees el terreno de cada reunión."
+  },
+  {
+   "nombre": "Miembro de la Comunidad",
+   "frase": "Formas parte del grupo. Nueve caminantes, una misión."
+  },
+  {
+   "nombre": "Jinete de Rohan",
+   "frase": "Cabalgas rápido y llegas justo a tiempo."
+  },
+  {
+   "nombre": "Capitán de Gondor",
+   "frase": "Diriges con calma aunque haya orcos en la agenda."
+  },
+  {
+   "nombre": "Consejero de Rivendel",
+   "frase": "Tu opinión pesa en el Concilio."
+  },
+  {
+   "nombre": "Portador del Anillo",
+   "frase": "Cargas lo más difícil y no te rindes."
+  },
+  {
+   "nombre": "Rey de Gondor",
+   "frase": "El retorno del rey: todos esperaban tu llegada."
+  },
+  {
+   "nombre": "Gandalf el Blanco",
+   "frase": "Llegas justo cuando debes. Ni antes ni después."
+  }
+ ],
+ "logros": {
+  "primera_reunion": {
+   "nombre": "Paso fuera de la Comarca",
+   "descripcion": "Completaste tu primera reunión."
+  },
+  "reuniones_10": {
+   "nombre": "Llegaste a Bree",
+   "descripcion": "Completaste 10 reuniones."
+  },
+  "reuniones_50": {
+   "nombre": "Resististe en el Abismo",
+   "descripcion": "Completaste 50 reuniones."
+  },
+  "preguntas_10_en_una": {
+   "nombre": "¿Qué tengo en mi bolsillo?",
+   "descripcion": "Hiciste 10 o más preguntas en una sola reunión."
+  },
+  "escucha_activa": {
+   "nombre": "Oídos de elfo",
+   "descripcion": "Hablaste 35% o menos en una reunión de 15+ minutos."
+  },
+  "cero_interrupciones_5": {
+   "nombre": "Paciencia de Ent",
+   "descripcion": "5 reuniones seguidas sin interrumpir a nadie."
+  },
+  "puntaje_perfecto": {
+   "nombre": "Mithril puro",
+   "descripcion": "Sacaste un 10 en algún apartado."
+  },
+  "reunion_9": {
+   "nombre": "Coronación en Minas Tirith",
+   "descripcion": "Promedio de 9 o más en una reunión."
+  },
+  "express": {
+   "nombre": "Llegaron las águilas",
+   "descripcion": "Reunión de 15 minutos o menos con cierre de 8 o más."
+  },
+  "sin_muletillas": {
+   "nombre": "Sin \"mi tesoro\"",
+   "descripcion": "Reunión de 15+ minutos sin ninguna muletilla."
+  },
+  "mejora_cierre": {
+   "nombre": "El retorno del cierre",
+   "descripcion": "Tu cierre promedio subió 2+ puntos vs. tus 5 reuniones anteriores."
+  },
+  "habito_1": {
+   "nombre": "El primer paso de Bilbo",
+   "descripcion": "Cumpliste por primera vez el hábito que te dejó Minuta. Todo gran viaje empieza con una puerta redonda que se abre."
+  },
+  "habito_racha_3": {
+   "nombre": "Tres cazadores",
+   "descripcion": "Cumpliste tu hábito 3 reuniones seguidas. Aragorn, Legolas y Gimli no aflojaron el paso, y tú tampoco."
+  },
+  "habito_10": {
+   "nombre": "Diez de la Compañía",
+   "descripcion": "Cumpliste 10 hábitos en total. Ya tienes casi una Comunidad completa marchando contigo."
+  },
+  "cierre_racha_3": {
+   "nombre": "Las tres cumbres de Gondor",
+   "descripcion": "3 reuniones seguidas con cierre de 8 o más. Tus almenaras encendidas, una tras otra, sin que ninguna falle."
+  },
+  "muletillas_racha_3": {
+   "nombre": "Habla, amigo, y entra",
+   "descripcion": "3 reuniones seguidas con menos de 3 muletillas cada 10 minutos. Dijiste la palabra justa y la puerta de Moria se abrió."
+  },
+  "habla_racha_5": {
+   "nombre": "Equilibrio de Rivendel",
+   "descripcion": "5 reuniones seguidas con tu tiempo de habla en rango. Ni de más ni de menos: la medida élfica de hablar."
+  },
+  "monologo_racha_5": {
+   "nombre": "No eres Bárbol",
+   "descripcion": "5 reuniones seguidas sin hablar más de 60 segundos de corrido. Los ents tardan días en terminar una frase; tú no."
+  },
+  "preguntas_racha_3": {
+   "nombre": "Acertijos en las tinieblas",
+   "descripcion": "3 reuniones seguidas con al menos 1 pregunta cada 10 minutos. Preguntaste como Gollum en la cueva, pero con mejores modales."
+  },
+  "todo_verde": {
+   "nombre": "Los campos del Pony Pisador",
+   "descripcion": "Una reunión con todas tus métricas de cómo hablaste en rango. Todo verde, como la Comarca en primavera."
+  },
+  "equilibrio": {
+   "nombre": "Los cuatro hobbits",
+   "descripcion": "Los 4 apartados en 8 o más en una misma reunión. Frodo, Sam, Merry y Pippin, todos a la altura del viaje."
+  },
+  "remontada": {
+   "nombre": "Gandalf el Blanco",
+   "descripcion": "Después de una reunión bajo 6, la siguiente sobre 8. Caíste en Moria y volviste más fuerte."
+  },
+  "mejora_debil": {
+   "nombre": "Forjaste a Andúril",
+   "descripcion": "Tu apartado más débil subió 2+ puntos en promedio en las siguientes 5 reuniones. La espada que estaba quebrada volvió a tener filo."
+  },
+  "semana_8": {
+   "nombre": "Semana en Lothlórien",
+   "descripcion": "Una semana con 3 o más reuniones y promedio de 8 o más. Siete días en el bosque dorado, todos luminosos."
+  }
+ },
+ "iconos_logros": {
+  "primera_reunion": "🏡",
+  "reuniones_10": "🍺",
+  "reuniones_50": "🛡️",
+  "preguntas_10_en_una": "💍",
+  "escucha_activa": "🏹",
+  "cero_interrupciones_5": "🌲",
+  "puntaje_perfecto": "💎",
+  "reunion_9": "👑",
+  "express": "🦅",
+  "sin_muletillas": "🤐",
+  "mejora_cierre": "⚔️",
+  "habito_1": "🚪",
+  "habito_racha_3": "🏃",
+  "habito_10": "💍",
+  "cierre_racha_3": "🔥",
+  "muletillas_racha_3": "🗝️",
+  "habla_racha_5": "⚖️",
+  "monologo_racha_5": "🌳",
+  "preguntas_racha_3": "❓",
+  "todo_verde": "🍀",
+  "equilibrio": "🧭",
+  "remontada": "✨",
+  "mejora_debil": "⚔️",
+  "semana_8": "🌟"
+ },
+ "iconos_apartados": {
+  "claridad": "✨",
+  "escucha": "🧝",
+  "preguntas": "🧙",
+  "cierre": "🌋"
+ },
+ "iconos_rangos": [
+  "🏡",
+  "🍺",
+  "🏹",
+  "🤝",
+  "🐎",
+  "🛡️",
+  "🧝",
+  "💍",
+  "👑",
+  "🧙"
+ ],
+ "estilo": {
+  "modo": "claro",
+  "fondo": "#ece0bf",
+  "fondo2": "#d6c08f",
+  "panel": "rgba(255,251,238,0.55)",
+  "texto": "#33240f",
+  "suave": "#6f5a3c",
+  "linea": "rgba(51,36,15,0.28)",
+  "acento": "#9b2c1f",
+  "acento_texto": "#8a2416",
+  "acento2": "#3e5b34",
+  "fuente": "Herculanum",
+  "peso": 400,
+  "mayusculas": false,
+  "cursiva": false,
+  "patron": "mapa",
+  "radio": 0,
+  "textos": {
+   "reuniones": "Crónicas",
+   "ico_reuniones": "📜",
+   "progreso": "Viaje",
+   "ico_progreso": "🗺️",
+   "logros": "Hazañas",
+   "ico_logros": "⚔️",
+   "titulo_progreso": "Tu viaje por la Tierra Media",
+   "buscar": "Buscar en el Libro Rojo"
+  }
+ },
+ "idioma": "es"
+}

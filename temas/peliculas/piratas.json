@@ -1,0 +1,441 @@
+{
+ "id": "piratas",
+ "categoria": "peliculas",
+ "nombre": "Piratas del Caribe",
+ "emoji": "🏴‍☠️",
+ "xp": "doblones",
+ "categorias": [
+  "Películas",
+  "Aventura"
+ ],
+ "personaje_por_defecto": "cualquier personaje canónico de la saga Piratas del Caribe",
+ "elogios": [
+  "¡Botín completo, capitán!",
+  "Buen viento en las velas.",
+  "Navegable, pero revisa el mapa.",
+  "Hombre al agua… ¡a remar!"
+ ],
+ "apartados": {
+  "claridad": [
+   {
+    "nombre": "Cotton",
+    "referencia": "La maldición del Perla Negra",
+    "frase": "Te mordieron la lengua: habló el loro y tampoco se entendió."
+   },
+   {
+    "nombre": "Ragetti",
+    "referencia": "La maldición del Perla Negra",
+    "frase": "Leíste la Biblia sin saber leer. Mucha intención, cero idea."
+   },
+   {
+    "nombre": "Bootstrap Bill",
+    "referencia": "El cofre de la muerte",
+    "frase": "Tan pegado al casco del barco que solo se te oyó un murmullo."
+   },
+   {
+    "nombre": "Jack Sparrow",
+    "referencia": "La maldición del Perla Negra",
+    "frase": "Brillante a ratos, pero el rumbo cambió tres veces por minuto."
+   },
+   {
+    "nombre": "Joshamee Gibbs",
+    "referencia": "La maldición del Perla Negra",
+    "frase": "Contaste la leyenda completa… con desvío por Tortuga incluido."
+   },
+   {
+    "nombre": "Will Turner",
+    "referencia": "La maldición del Perla Negra",
+    "frase": "Directo y honesto, aunque algo rígido como espada recién forjada."
+   },
+   {
+    "nombre": "Comodoro Norrington",
+    "referencia": "La maldición del Perla Negra",
+    "frase": "Ordenado como formación naval. Faltó un poco de salsa."
+   },
+   {
+    "nombre": "Héctor Barbossa",
+    "referencia": "La maldición del Perla Negra",
+    "frase": "Elocuente y con estilo. Todos entendieron, varios temblaron."
+   },
+   {
+    "nombre": "Elizabeth Swann",
+    "referencia": "En el fin del mundo",
+    "frase": "Discurso de Rey Pirata: la tripulación entera gritó contigo."
+   },
+   {
+    "nombre": "Capitán Teague",
+    "referencia": "En el fin del mundo",
+    "frase": "Dos palabras y el código quedó claro para toda la Hermandad."
+   }
+  ],
+  "escucha": [
+   {
+    "nombre": "Barbanegra",
+    "referencia": "Navegando aguas misteriosas",
+    "frase": "No escuchaste a nadie: los demás eran zombis de tu tripulación."
+   },
+   {
+    "nombre": "Capitán Salazar",
+    "referencia": "La venganza de Salazar",
+    "frase": "Tanta furia que no oíste ni el viento. Ni a tu equipo."
+   },
+   {
+    "nombre": "Jack Sparrow",
+    "referencia": "La maldición del Perla Negra",
+    "frase": "Escuchaste… solo lo que convenía a tu brújula."
+   },
+   {
+    "nombre": "Pintel",
+    "referencia": "La maldición del Perla Negra",
+    "frase": "Escuchaste a medias, ocupado discutiendo con tu compañero."
+   },
+   {
+    "nombre": "Murtogg y Mullroy",
+    "referencia": "La maldición del Perla Negra",
+    "frase": "Oíste todo, pero lo debatiste entre ustedes dos."
+   },
+   {
+    "nombre": "Cotton",
+    "referencia": "La maldición del Perla Negra",
+    "frase": "Callado y atento, aunque el loro igual opinó por ti."
+   },
+   {
+    "nombre": "Joshamee Gibbs",
+    "referencia": "La maldición del Perla Negra",
+    "frase": "Fiel al capitán: escuchaste cada orden con paciencia."
+   },
+   {
+    "nombre": "Will Turner",
+    "referencia": "El cofre de la muerte",
+    "frase": "Escuchaste con el corazón, como quien busca a su padre."
+   },
+   {
+    "nombre": "Philip Swift",
+    "referencia": "Navegando aguas misteriosas",
+    "frase": "Escucha compasiva: hasta una sirena confió en ti."
+   },
+   {
+    "nombre": "Tia Dalma",
+    "referencia": "El cofre de la muerte",
+    "frase": "Escuchaste lo que no se dijo. Leíste hasta los cangrejos."
+   }
+  ],
+  "preguntas": [
+   {
+    "nombre": "El Kraken",
+    "referencia": "El cofre de la muerte",
+    "frase": "El Kraken no pregunta: se traga el barco entero."
+   },
+   {
+    "nombre": "Jack el mono",
+    "referencia": "La maldición del Perla Negra",
+    "frase": "Cero preguntas, pura mano rápida tras la moneda."
+   },
+   {
+    "nombre": "Murtogg y Mullroy",
+    "referencia": "La maldición del Perla Negra",
+    "frase": "Preguntaste si el Perla Negra existe. Estaba al frente."
+   },
+   {
+    "nombre": "Ragetti",
+    "referencia": "En el fin del mundo",
+    "frase": "Preguntas existenciales justo en medio del abordaje."
+   },
+   {
+    "nombre": "Will Turner",
+    "referencia": "La maldición del Perla Negra",
+    "frase": "Una sola pregunta, siempre la misma: ¿dónde está Elizabeth?"
+   },
+   {
+    "nombre": "Elizabeth Swann",
+    "referencia": "La maldición del Perla Negra",
+    "frase": "Curiosa y valiente: invocaste parlamento y negociaste."
+   },
+   {
+    "nombre": "Comodoro Norrington",
+    "referencia": "La maldición del Perla Negra",
+    "frase": "Interrogatorio formal, correcto y un poco tieso."
+   },
+   {
+    "nombre": "Lord Cutler Beckett",
+    "referencia": "El cofre de la muerte",
+    "frase": "Preguntas frías y calculadas. Es solo negocio."
+   },
+   {
+    "nombre": "Davy Jones",
+    "referencia": "El cofre de la muerte",
+    "frase": "Una pregunta y todos temblaron: ¿temes a la muerte?"
+   },
+   {
+    "nombre": "Jack Sparrow",
+    "referencia": "La maldición del Perla Negra",
+    "frase": "Tan raras tus preguntas que desarmaron problema y enemigo."
+   }
+  ],
+  "cierre": [
+   {
+    "nombre": "Bootstrap Bill",
+    "referencia": "El cofre de la muerte",
+    "frase": "Acuerdos tan olvidados como Bootstrap en el muro del barco."
+   },
+   {
+    "nombre": "Jack Sparrow",
+    "referencia": "La maldición del Perla Negra",
+    "frase": "Prometiste todo y te fuiste en un bote. ¿Qué acordamos?"
+   },
+   {
+    "nombre": "Jack el mono",
+    "referencia": "La maldición del Perla Negra",
+    "frase": "Alguien se llevó la moneda del acuerdo y nadie sabe quién."
+   },
+   {
+    "nombre": "Joshamee Gibbs",
+    "referencia": "La maldición del Perla Negra",
+    "frase": "Hubo acuerdo… según la versión de la leyenda que contaste."
+   },
+   {
+    "nombre": "Will Turner",
+    "referencia": "El cofre de la muerte",
+    "frase": "Buena voluntad, pero quedaron deudas pendientes en el aire."
+   },
+   {
+    "nombre": "Elizabeth Swann",
+    "referencia": "La maldición del Perla Negra",
+    "frase": "Invocaste parlamento: hay trato, falta la letra chica."
+   },
+   {
+    "nombre": "Comodoro Norrington",
+    "referencia": "La maldición del Perla Negra",
+    "frase": "Cierre de manual naval: cada uno a su puesto."
+   },
+   {
+    "nombre": "Héctor Barbossa",
+    "referencia": "La maldición del Perla Negra",
+    "frase": "El código es una guía, pero tus acuerdos quedaron firmes."
+   },
+   {
+    "nombre": "Lord Cutler Beckett",
+    "referencia": "En el fin del mundo",
+    "frase": "Contrato firmado, sellado y con plazo. Es solo negocio."
+   },
+   {
+    "nombre": "Davy Jones",
+    "referencia": "El cofre de la muerte",
+    "frase": "Quién, qué y cuándo: cada alma con su plazo exacto."
+   }
+  ]
+ },
+ "rangos": [
+  {
+   "nombre": "Polizón",
+   "frase": "Te subiste al barco escondido entre barriles de ron."
+  },
+  {
+   "nombre": "Grumete",
+   "frase": "Fregar cubierta también es aprender a navegar reuniones."
+  },
+  {
+   "nombre": "Marinero de cubierta",
+   "frase": "Ya sabes amarrar un nudo y una agenda."
+  },
+  {
+   "nombre": "Artillero",
+   "frase": "Cada idea tuya ya suena como cañonazo."
+  },
+  {
+   "nombre": "Contramaestre",
+   "frase": "La tripulación sigue tu ritmo sin chistar."
+  },
+  {
+   "nombre": "Primer oficial",
+   "frase": "El capitán confía en ti para llevar el timón."
+  },
+  {
+   "nombre": "Capitán del Perla Negra",
+   "frase": "Tienes barco propio y rumbo claro. Por fin."
+  },
+  {
+   "nombre": "Señor Pirata de la Hermandad",
+   "frase": "Tienes asiento y voto en la Corte de los Hermanos."
+  },
+  {
+   "nombre": "Rey Pirata",
+   "frase": "La Hermandad entera te eligió para hablar por ella."
+  },
+  {
+   "nombre": "Guardián del Código",
+   "frase": "Ya no sigues el código de las reuniones: lo escribes tú."
+  }
+ ],
+ "logros": {
+  "primera_reunion": {
+   "nombre": "¡Bienvenido a bordo!",
+   "descripcion": "Analizaste tu primera reunión."
+  },
+  "reuniones_10": {
+   "nombre": "Diez nudos de experiencia",
+   "descripcion": "Llegaste a 10 reuniones analizadas."
+  },
+  "reuniones_50": {
+   "nombre": "Terror de los siete mares",
+   "descripcion": "Llegaste a 50 reuniones analizadas."
+  },
+  "preguntas_10_en_una": {
+   "nombre": "Interrogatorio en cubierta",
+   "descripcion": "Hiciste 10 o más preguntas en una sola reunión."
+  },
+  "escucha_activa": {
+   "nombre": "Oído de sirena",
+   "descripcion": "Hablaste 35% o menos en una reunión de 15+ minutos."
+  },
+  "cero_interrupciones_5": {
+   "nombre": "Silencio en el Holandés",
+   "descripcion": "5 reuniones seguidas sin interrumpir a nadie."
+  },
+  "puntaje_perfecto": {
+   "nombre": "Cofre del tesoro",
+   "descripcion": "Sacaste un 10 en algún apartado."
+  },
+  "reunion_9": {
+   "nombre": "Brújula que apunta bien",
+   "descripcion": "Promedio de 9 o más en una reunión."
+  },
+  "express": {
+   "nombre": "Abordaje relámpago",
+   "descripcion": "Reunión de 15 min o menos con cierre 8 o más."
+  },
+  "sin_muletillas": {
+   "nombre": "Sin ron, sin muletillas",
+   "descripcion": "Reunión de 15+ minutos sin muletillas."
+  },
+  "mejora_cierre": {
+   "nombre": "Trato es trato",
+   "descripcion": "Tu cierre promedio subió 2+ puntos vs. tus 5 reuniones anteriores."
+  },
+  "habito_1": {
+   "nombre": "El acuerdo está sellado",
+   "descripcion": "Cumpliste por primera vez el hábito que te dejó Minuta. Un pacto es un pacto."
+  },
+  "habito_racha_3": {
+   "nombre": "Palabra de pirata",
+   "descripcion": "Cumpliste tu hábito en 3 reuniones seguidas, sin romper el código."
+  },
+  "habito_10": {
+   "nombre": "El Código de los Hermanos",
+   "descripcion": "Cumpliste 10 hábitos en total. Ya no son sugerencias, son tu código."
+  },
+  "cierre_racha_3": {
+   "nombre": "Rumbo a Isla Muerta",
+   "descripcion": "3 reuniones seguidas con cierre de 8 o más. Tu brújula apunta a buen puerto."
+  },
+  "muletillas_racha_3": {
+   "nombre": "Lengua sin lastre",
+   "descripcion": "3 reuniones seguidas con menos de 3 muletillas cada 10 minutos."
+  },
+  "habla_racha_5": {
+   "nombre": "Viento a favor",
+   "descripcion": "5 reuniones seguidas con tu tiempo de habla dentro del rango ideal."
+  },
+  "monologo_racha_5": {
+   "nombre": "Ni un Jack suelto",
+   "descripcion": "5 reuniones seguidas sin hablar más de 60 segundos de corrido. Ni Sparrow te gana a conciso."
+  },
+  "preguntas_racha_3": {
+   "nombre": "¿Dónde está el ron?",
+   "descripcion": "3 reuniones seguidas con al menos 1 pregunta cada 10 minutos."
+  },
+  "todo_verde": {
+   "nombre": "Perla Negra impecable",
+   "descripcion": "Una reunión con todas tus métricas de cómo hablaste dentro del rango."
+  },
+  "equilibrio": {
+   "nombre": "Los cuatro cofres",
+   "descripcion": "Los 4 apartados en 8 o más en una misma reunión. Botín completo."
+  },
+  "remontada": {
+   "nombre": "De vuelta del Tridente",
+   "descripcion": "Después de una reunión bajo 6, la siguiente sobre 8. Volviste del abismo."
+  },
+  "mejora_debil": {
+   "nombre": "Kraken domado",
+   "descripcion": "Tu apartado más débil subió 2+ puntos en promedio en las siguientes 5 reuniones."
+  },
+  "semana_8": {
+   "nombre": "Semana de buen viento",
+   "descripcion": "Una semana con 3 o más reuniones y promedio de 8 o más."
+  }
+ },
+ "iconos_logros": {
+  "primera_reunion": "🏴‍☠️",
+  "reuniones_10": "🪢",
+  "reuniones_50": "🐙",
+  "preguntas_10_en_una": "🗡️",
+  "escucha_activa": "🧜",
+  "cero_interrupciones_5": "👻",
+  "puntaje_perfecto": "💰",
+  "reunion_9": "🧭",
+  "express": "⚡",
+  "sin_muletillas": "🥃",
+  "mejora_cierre": "🤝",
+  "habito_1": "🤝",
+  "habito_racha_3": "📜",
+  "habito_10": "⚓",
+  "cierre_racha_3": "🧭",
+  "muletillas_racha_3": "🪶",
+  "habla_racha_5": "⛵",
+  "monologo_racha_5": "🤐",
+  "preguntas_racha_3": "🍾",
+  "todo_verde": "🏴‍☠️",
+  "equilibrio": "💎",
+  "remontada": "🔱",
+  "mejora_debil": "🐙",
+  "semana_8": "🌊"
+ },
+ "iconos_apartados": {
+  "claridad": "🗺️",
+  "escucha": "🐚",
+  "preguntas": "🧭",
+  "cierre": "⚓"
+ },
+ "iconos_rangos": [
+  "🛢️",
+  "🧹",
+  "⛵",
+  "💣",
+  "🔔",
+  "🔭",
+  "🏴‍☠️",
+  "🗡️",
+  "👑",
+  "📜"
+ ],
+ "estilo": {
+  "modo": "oscuro",
+  "fondo": "#0c1315",
+  "fondo2": "#1b2a2c",
+  "panel": "rgba(200,161,90,0.06)",
+  "texto": "#efe6d0",
+  "suave": "#a39a85",
+  "linea": "rgba(200,161,90,0.22)",
+  "acento": "#C8A15A",
+  "acento_texto": "#D8B46E",
+  "acento2": "#2E8B8B",
+  "fuente": "Trattatello",
+  "peso": 400,
+  "mayusculas": false,
+  "cursiva": false,
+  "patron": "olas",
+  "radio": 2,
+  "textos": {
+   "reuniones": "Bitácora",
+   "ico_reuniones": "📜",
+   "progreso": "Rumbo",
+   "ico_progreso": "🧭",
+   "logros": "Tesoros",
+   "ico_logros": "💰",
+   "titulo_progreso": "Tu rumbo",
+   "buscar": "Buscar en la bitácora…"
+  }
+ },
+ "idioma": "es"
+}

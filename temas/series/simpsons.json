@@ -1,0 +1,443 @@
+{
+ "id": "simpsons",
+ "categoria": "series",
+ "nombre": "Los Simpson",
+ "emoji": "🍩",
+ "xp": "donas",
+ "categorias": [
+  "Series",
+  "Animación",
+  "Comedia",
+  "Clásicos"
+ ],
+ "personaje_por_defecto": "Solo personajes de Springfield en Los Simpson, con sus nombres del doblaje latino.",
+ "elogios": [
+  "¡Excelente! Springfield te aplaude.",
+  "¡Bien hecho, vecinirijillo!",
+  "Mmm… reunión a medio glasear.",
+  "¡D'oh! Mañana será otro día."
+ ],
+ "apartados": {
+  "claridad": [
+   {
+    "nombre": "Ralph Wiggum",
+    "referencia": "Los Simpson",
+    "frase": "Hablaste como Ralph: nadie entendió nada, pero fue tierno."
+   },
+   {
+    "nombre": "Abuelo Simpson",
+    "referencia": "Los Simpson",
+    "frase": "Te fuiste por las ramas como el Abuelo con su cebolla en el cinturón."
+   },
+   {
+    "nombre": "Homero Simpson",
+    "referencia": "Los Simpson",
+    "frase": "Claridad de Homero frente a una dona: poca y con babita."
+   },
+   {
+    "nombre": "Cletus",
+    "referencia": "Los Simpson",
+    "frase": "Algo se entendió, como cuando Cletus presenta a todos sus hijos."
+   },
+   {
+    "nombre": "Bart Simpson",
+    "referencia": "Los Simpson",
+    "frase": "Claro pero con ruido, como Bart escribiendo en el pizarrón."
+   },
+   {
+    "nombre": "Marge Simpson",
+    "referencia": "Los Simpson",
+    "frase": "Ordenado y amable como Marge, aunque con un \"mmm\" de más."
+   },
+   {
+    "nombre": "Apu Nahasapeemapetilon",
+    "referencia": "Los Simpson",
+    "frase": "Claro y eficiente como Apu atendiendo el Kwik-E-Mart."
+   },
+   {
+    "nombre": "Kent Brockman",
+    "referencia": "Los Simpson",
+    "frase": "Lo dijiste con el aplomo de Kent Brockman en el noticiero."
+   },
+   {
+    "nombre": "Señor Burns",
+    "referencia": "Los Simpson",
+    "frase": "Breve y con autoridad. Burns juntaría los dedos: ¡Excelente!"
+   },
+   {
+    "nombre": "Lisa Simpson",
+    "referencia": "Los Simpson",
+    "frase": "Clara, precisa y con argumentos. Lisa estaría orgullosa."
+   }
+  ],
+  "escucha": [
+   {
+    "nombre": "Homero Simpson",
+    "referencia": "Los Simpson",
+    "frase": "Escuchaste como Homero: asentías, pero pensabas en donas."
+   },
+   {
+    "nombre": "Señor Burns",
+    "referencia": "Los Simpson",
+    "frase": "Como Burns con Homero: ni el nombre de quien hablaba retuviste."
+   },
+   {
+    "nombre": "Bart Simpson",
+    "referencia": "Los Simpson",
+    "frase": "Escuchaste como Bart en clase: con un ojo en la travesura."
+   },
+   {
+    "nombre": "Abuelo Simpson",
+    "referencia": "Los Simpson",
+    "frase": "Oíste a ratos, como el Abuelo entre siesta y siesta."
+   },
+   {
+    "nombre": "Milhouse Van Houten",
+    "referencia": "Los Simpson",
+    "frase": "Escuchaste con ganas, como Milhouse, aunque algo se te escapó."
+   },
+   {
+    "nombre": "Ned Flanders",
+    "referencia": "Los Simpson",
+    "frase": "Atento y amable como Flanders, vecinirijillo."
+   },
+   {
+    "nombre": "Dr. Hibbert",
+    "referencia": "Los Simpson",
+    "frase": "Escuchaste con la calma del Dr. Hibbert, antes de su risita."
+   },
+   {
+    "nombre": "Lisa Simpson",
+    "referencia": "Los Simpson",
+    "frase": "Atento como Lisa en clase, tomando nota de todo."
+   },
+   {
+    "nombre": "Maggie Simpson",
+    "referencia": "Los Simpson",
+    "frase": "Callado y atento como Maggie: lo captaste todo con el chupete."
+   },
+   {
+    "nombre": "Marge Simpson",
+    "referencia": "Los Simpson",
+    "frase": "Escucha de Marge: oíste hasta lo que nadie se atrevió a decir."
+   }
+  ],
+  "preguntas": [
+   {
+    "nombre": "Ralph Wiggum",
+    "referencia": "Los Simpson",
+    "frase": "Preguntaste como Ralph: nadie supo a qué venía."
+   },
+   {
+    "nombre": "Homero Simpson",
+    "referencia": "Los Simpson",
+    "frase": "Tu gran pregunta fue de Homero: \"¿Y hay donas?\""
+   },
+   {
+    "nombre": "Bart Simpson",
+    "referencia": "Los Simpson",
+    "frase": "Preguntas de Bart: puro impulso y un \"¡Ay, caramba!\""
+   },
+   {
+    "nombre": "Milhouse Van Houten",
+    "referencia": "Los Simpson",
+    "frase": "Preguntaste como Milhouse: con dudas y bien inseguro."
+   },
+   {
+    "nombre": "Jefe Gorgory",
+    "referencia": "Los Simpson",
+    "frase": "Preguntas de Jefe Gorgory: algo indagaste, pero sin pista clara."
+   },
+   {
+    "nombre": "Kent Brockman",
+    "referencia": "Los Simpson",
+    "frase": "Preguntaste como Kent Brockman: directo, con algo de show."
+   },
+   {
+    "nombre": "Profesor Frink",
+    "referencia": "Los Simpson",
+    "frase": "Curiosidad de Profesor Frink: preguntas técnicas y entusiastas."
+   },
+   {
+    "nombre": "Martin Prince",
+    "referencia": "Los Simpson",
+    "frase": "Preguntas aplicadas de Martin: la profe te pondría estrellita."
+   },
+   {
+    "nombre": "Dr. Hibbert",
+    "referencia": "Los Simpson",
+    "frase": "Preguntaste como el Dr. Hibbert: diagnóstico certero y con calma."
+   },
+   {
+    "nombre": "Lisa Simpson",
+    "referencia": "Los Simpson",
+    "frase": "Preguntas de Lisa: desarmaste el problema pieza por pieza."
+   }
+  ],
+  "cierre": [
+   {
+    "nombre": "Homero Simpson",
+    "referencia": "Los Simpson",
+    "frase": "Cierre de Homero: \"¿Qué acordamos?\" ¡D'oh!"
+   },
+   {
+    "nombre": "Barney Gómez",
+    "referencia": "Los Simpson",
+    "frase": "Cerraste como Barney: entre eructos, nadie supo qué quedó."
+   },
+   {
+    "nombre": "Abuelo Simpson",
+    "referencia": "Los Simpson",
+    "frase": "Cerraste con una historia del Abuelo. ¿Y los acuerdos?"
+   },
+   {
+    "nombre": "Krusty el Payaso",
+    "referencia": "Los Simpson",
+    "frase": "Cierre de Krusty: mucho show al final, acuerdos a medias."
+   },
+   {
+    "nombre": "Bart Simpson",
+    "referencia": "Los Simpson",
+    "frase": "Cerraste como Bart: algo quedó, pero ojo con la letra chica."
+   },
+   {
+    "nombre": "Director Skinner",
+    "referencia": "Los Simpson",
+    "frase": "Cierre del Director Skinner: ordenado, aunque algo rígido."
+   },
+   {
+    "nombre": "Ned Flanders",
+    "referencia": "Los Simpson",
+    "frase": "Cierre de Flanders: acuerdos amables y bien intencionados."
+   },
+   {
+    "nombre": "Waylon Smithers",
+    "referencia": "Los Simpson",
+    "frase": "Como Smithers: dejaste cada tarea anotada y lista."
+   },
+   {
+    "nombre": "Marge Simpson",
+    "referencia": "Los Simpson",
+    "frase": "Cierre de Marge: todos saben qué hacer y a qué hora se cena."
+   },
+   {
+    "nombre": "Señor Burns",
+    "referencia": "Los Simpson",
+    "frase": "Quién, qué y cuándo. Burns juntaría los dedos: ¡Excelente!"
+   }
+  ]
+ },
+ "rangos": [
+  {
+   "nombre": "Alumno de la Primaria",
+   "frase": "Recién llegas a Springfield, mochila al hombro."
+  },
+  {
+   "nombre": "Cliente del Kwik-E-Mart",
+   "frase": "Ya conoces el barrio y sus precios inflados."
+  },
+  {
+   "nombre": "Parroquiano de Moe",
+   "frase": "Tienes tu piso fijo en la taberna."
+  },
+  {
+   "nombre": "Inspector del Sector 7G",
+   "frase": "Te dieron un puesto. Ahora no te duermas."
+  },
+  {
+   "nombre": "Vecinirijillo ejemplar",
+   "frase": "Flanders te saluda por encima de la cerca."
+  },
+  {
+   "nombre": "Conductor del Monorriel",
+   "frase": "Manejas cosas grandes, y sin descarrilar."
+  },
+  {
+   "nombre": "Alcalde de Springfield",
+   "frase": "Diamante te pide consejos a escondidas."
+  },
+  {
+   "nombre": "Mano derecha de Burns",
+   "frase": "Smithers te mira con algo de celos."
+  },
+  {
+   "nombre": "Dueño de la Planta Nuclear",
+   "frase": "Todo Springfield depende de tus acuerdos."
+  },
+  {
+   "nombre": "Leyenda de Springfield",
+   "frase": "Tu estatua ya está junto a la de Jebediah."
+  }
+ ],
+ "logros": {
+  "primera_reunion": {
+   "nombre": "¡Woo-hoo!",
+   "descripcion": "Registraste tu primera reunión."
+  },
+  "reuniones_10": {
+   "nombre": "Habitué de lo de Moe",
+   "descripcion": "Registraste 10 reuniones."
+  },
+  "reuniones_50": {
+   "nombre": "Empleado del mes",
+   "descripcion": "Registraste 50 reuniones."
+  },
+  "preguntas_10_en_una": {
+   "nombre": "¿Ya llegamos?",
+   "descripcion": "Hiciste 10 o más preguntas en una sola reunión."
+  },
+  "escucha_activa": {
+   "nombre": "Silencio de Maggie",
+   "descripcion": "Hablaste 35% o menos en una reunión de 15+ minutos."
+  },
+  "cero_interrupciones_5": {
+   "nombre": "Paciencia de Marge",
+   "descripcion": "5 reuniones seguidas sin interrumpir a nadie."
+  },
+  "puntaje_perfecto": {
+   "nombre": "¡Excelente!",
+   "descripcion": "Sacaste un 10 en algún apartado."
+  },
+  "reunion_9": {
+   "nombre": "Solo de saxo de Lisa",
+   "descripcion": "Promedio de 9 o más en una reunión."
+  },
+  "express": {
+   "nombre": "Pasada al Kwik-E-Mart",
+   "descripcion": "Reunión de 15 minutos o menos con cierre de 8 o más."
+  },
+  "sin_muletillas": {
+   "nombre": "Ni un solo D'oh",
+   "descripcion": "Reunión de 15+ minutos sin muletillas."
+  },
+  "mejora_cierre": {
+   "nombre": "Del D'oh al Woo-hoo",
+   "descripcion": "Tu cierre promedio subió 2+ puntos vs. tus 5 reuniones anteriores."
+  },
+  "habito_1": {
+   "nombre": "Primer donut del día",
+   "descripcion": "Cumpliste por primera vez el hábito que te dejó Minuta."
+  },
+  "habito_racha_3": {
+   "nombre": "Tres veces, como Bart",
+   "descripcion": "Cumpliste tu hábito en 3 reuniones seguidas."
+  },
+  "habito_10": {
+   "nombre": "Multiplícate por diez",
+   "descripcion": "Cumpliste 10 hábitos en total."
+  },
+  "cierre_racha_3": {
+   "nombre": "Excelente, Smithers",
+   "descripcion": "3 reuniones seguidas con cierre de 8 o más."
+  },
+  "muletillas_racha_3": {
+   "nombre": "Sin eeeh de Ralph",
+   "descripcion": "3 reuniones seguidas con menos de 3 muletillas cada 10 minutos."
+  },
+  "habla_racha_5": {
+   "nombre": "Medido como Marge",
+   "descripcion": "5 reuniones seguidas con tu tiempo de habla dentro del rango."
+  },
+  "monologo_racha_5": {
+   "nombre": "Nadie es el abuelo Simpson",
+   "descripcion": "5 reuniones seguidas sin hablar más de 60 segundos de corrido."
+  },
+  "preguntas_racha_3": {
+   "nombre": "Curioso como Lisa",
+   "descripcion": "3 reuniones seguidas con al menos 1 pregunta cada 10 minutos."
+  },
+  "todo_verde": {
+   "nombre": "Reactor sin alarmas",
+   "descripcion": "Una reunión con todas tus métricas de cómo hablaste en rango."
+  },
+  "equilibrio": {
+   "nombre": "Familia completa en el sillón",
+   "descripcion": "Los 4 apartados en 8 o más en una misma reunión."
+  },
+  "remontada": {
+   "nombre": "El regreso de Barney",
+   "descripcion": "Después de una reunión bajo 6, la siguiente sobre 8."
+  },
+  "mejora_debil": {
+   "nombre": "Entrenado por Burns",
+   "descripcion": "Tu apartado más débil subió 2+ puntos en promedio en las siguientes 5 reuniones."
+  },
+  "semana_8": {
+   "nombre": "Semana de Flanders",
+   "descripcion": "Una semana con 3 o más reuniones y promedio de 8 o más."
+  }
+ },
+ "iconos_logros": {
+  "primera_reunion": "🎉",
+  "reuniones_10": "🍺",
+  "reuniones_50": "🏅",
+  "preguntas_10_en_una": "🚗",
+  "escucha_activa": "🍼",
+  "cero_interrupciones_5": "💙",
+  "puntaje_perfecto": "💯",
+  "reunion_9": "🎷",
+  "express": "🏪",
+  "sin_muletillas": "🤐",
+  "mejora_cierre": "🙌",
+  "habito_1": "🍩",
+  "habito_racha_3": "🛹",
+  "habito_10": "🧮",
+  "cierre_racha_3": "🧤",
+  "muletillas_racha_3": "👦",
+  "habla_racha_5": "💙",
+  "monologo_racha_5": "👴",
+  "preguntas_racha_3": "🎷",
+  "todo_verde": "☢️",
+  "equilibrio": "🛋️",
+  "remontada": "🔁",
+  "mejora_debil": "📈",
+  "semana_8": "🌞"
+ },
+ "iconos_apartados": {
+  "claridad": "📺",
+  "escucha": "👂",
+  "preguntas": "🤓",
+  "cierre": "🛋️"
+ },
+ "iconos_rangos": [
+  "🎒",
+  "🏪",
+  "🍺",
+  "☢️",
+  "👋",
+  "🚝",
+  "🎩",
+  "🤝",
+  "🏭",
+  "🌟"
+ ],
+ "estilo": {
+  "modo": "claro",
+  "fondo": "#fff8d1",
+  "fondo2": "#d6f0ff",
+  "panel": "rgba(255,255,255,0.8)",
+  "texto": "#1d1d1d",
+  "suave": "#5f6b73",
+  "linea": "rgba(31,95,191,0.18)",
+  "acento": "#FED90F",
+  "acento_texto": "#1F5FBF",
+  "acento2": "#70D1FE",
+  "fuente": "Chalkboard SE",
+  "peso": 700,
+  "mayusculas": false,
+  "cursiva": false,
+  "patron": "nubes",
+  "radio": 18,
+  "textos": {
+   "reuniones": "Episodios",
+   "ico_reuniones": "📺",
+   "progreso": "Progreso",
+   "ico_progreso": "📈",
+   "logros": "Premios",
+   "ico_logros": "🍩",
+   "titulo_progreso": "Tu evolución en Springfield",
+   "buscar": "Buscar episodio…"
+  }
+ },
+ "idioma": "es"
+}

@@ -14,11 +14,12 @@ jobs:
     steps:
       - uses: actions/checkout@3d3c42e5aac5ba805825da76410c181273ba90b1 # v7.0.1
         with: { persist-credentials: false }
-      - name: Solo archivos de datos (JSON) en universos/ e idiomas/
+      - name: Solo archivos de datos (JSON) en temas/, idiomas/ y universos/
         run: |
-          raros=$(git ls-files universos idiomas | grep -v '\.json$' || true)
+          raros=$(git ls-files temas idiomas universos | grep -v '\.json$' || true)
           [ -z "$raros" ] || { echo "Archivos que no son JSON: $raros"; exit 1; }
       - name: Validar universos e idiomas y revisar que los índices estén al día
         run: |
           python3 herramientas/generar_indice.py
-          git diff --exit-code -- universos/index.json idiomas/index.json || { echo "Corre python3 herramientas/generar_indice.py y sube los índices."; exit 1; }
+          git add -N .
+          git diff --exit-code -- temas idiomas universos || { echo "Corre python3 herramientas/generar_indice.py y sube lo que genera."; exit 1; }

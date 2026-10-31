@@ -4,7 +4,7 @@ Aquí viven los universos y los idiomas que Minuta descarga. Son **solo datos** 
 
 ## Universos
 - Lo más fácil: créalo en la app (Universos → Crear universo), úsalo un par de reuniones y propónlo con **📤**. Llega como issue `propuesta`.
-- Por pull request: agrega `universos/<id>.json` y corre `python3 herramientas/generar_indice.py` (valida y regenera el índice).
+- Por pull request: agrega `temas/<categoria>/<id>.json` (la categoría es la primera de `categorias`, sin tildes, y va también en el campo `categoria`) y corre `python3 herramientas/generar_indice.py` (valida y regenera el índice).
 - Reglas: homenaje breve de fan (nombres de personajes sí; letras de canciones o textos copiados no), 1 a 4 categorías de la lista,
   nada personal ni de empresas reales, tono amable.
 
@@ -24,7 +24,7 @@ Si algo falta te lo pedimos con un comentario.
 ---
 
 **English:** universes and languages are data-only JSON. Create a universe in the app and propose it with 📤, or open a pull request
-with `universos/<id>.json` after running `python3 herramientas/generar_indice.py`. For languages, use `herramientas/traducir_idioma.py`
+with `temas/<category>/<id>.json` (the category is the first of `categorias`, without accents, also in the `categoria` field) after running `python3 herramientas/generar_indice.py`. For languages, use `herramientas/traducir_idioma.py`
 and review the result by hand (keep brand names and `{n}`/`{x}`). A maintainer reviews every pull request; translations also get a
 review from a native speaker.
 Security issues: report them privately, see [SECURITY.md](SECURITY.md).
