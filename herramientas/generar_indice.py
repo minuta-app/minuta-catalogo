@@ -9,8 +9,9 @@ Lo que se edita (la fuente):
 
 Lo que se genera (no lo edites a mano):
 - `temas/index.json` e `idiomas/catalogo.json`: los índices de la pieza «catálogo» (cada entrada con `ruta`, `sha256` y
-  `tamano`; Minuta rechaza todo lo que no calce con su huella). Los arma `herramientas/catalogo.py generar`, el mismo archivo
-  que `bin/catalogo.py` de Minuta, con los validadores `universo_formato.py` e `idioma_formato.py` (iguales a los de la app).
+  `tamano`; Minuta rechaza todo lo que no calce con su huella). Los arma `herramientas/catalogo.py` (`generar`), el mismo archivo
+  que `bin/catalogo.py` de Minuta, con los validadores `universo_formato.py` e `idioma_formato.py` (iguales a los de la app). Sin
+  `nucleo.py` ni `app.json`: los tipos van en `TIPOS`, igual que `catalogo.tipos` del `app.json` de Minuta.
 - `universos/` y `idiomas/<codigo>.json` + `index.json`: el formato de antes, para Minuta 0.3.1 o anterior. Se borran cuando ya
   nadie use esas versiones.
 """
@@ -26,6 +27,14 @@ sys.path.insert(0, AQUI)
 import catalogo  # noqa: E402
 import universo_formato  # noqa: E402
 
+#: Los mismos tipos que `catalogo.tipos` en el app.json de Minuta (si cambian allá, cambian aquí).
+TIPOS = {
+    "temas": {"validador": "universo_formato", "indice": "temas/index.json", "max_bytes": 102400, "max_indice": 2097152,
+              "max_en_indice": 1000, "singular": "universo", "origen": False},
+    "idiomas": {"validador": "idioma_formato", "indice": "idiomas/catalogo.json", "max_bytes": 204800, "max_indice": 4194304,
+                "max_en_indice": 200, "singular": "idioma", "origen": False},
+}
+
 APARTADOS = universo_formato.APARTADOS
 ESTILO_INDICE = ("modo", "fondo", "fondo2", "panel", "texto", "suave", "linea", "acento", "acento2", "fuente", "peso",
                  "mayusculas", "cursiva", "patron", "radio")
@@ -40,7 +49,8 @@ def escribir(ruta, datos, salto=True):
 
 
 def generar(tipo, indice):
-    datos, problemas = catalogo.generar(RAIZ, catalogo.tipo(tipo))
+    t = catalogo.armar_tipo(tipo, TIPOS[tipo])
+    datos, problemas = catalogo.generar(RAIZ, t, catalogo._formato(t, os.path.join(AQUI, t["validador"] + ".py")))
     for p in problemas:
         print("✗ " + p)
     for x in datos[tipo]:
